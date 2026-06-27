@@ -16,6 +16,7 @@ export default function Simulator() {
   const [drivers, setDrivers] = useState(null);
   const [loading, setLoading] = useState(false);
   const [cellLoading, setCellLoading] = useState(false);
+  const [cellsLoading, setCellsLoading] = useState(true);
   const resultRef = useRef(null);
 
   useEffect(() => {
@@ -23,6 +24,7 @@ export default function Simulator() {
     if (!currentCity) return;
     setSelectedId(null);
     setResult(null);
+    setCellsLoading(true);
     fetchCells()
       .then((data) => {
         const sorted = [...data].sort((a, b) => (b.properties.air_temperature_celsius || b.properties.temp || 0) - (a.properties.air_temperature_celsius || a.properties.temp || 0));
@@ -31,7 +33,8 @@ export default function Simulator() {
           setSelectedId(sorted[0].properties.cell_id);
         }
       })
-      .catch(console.error);
+      .catch(console.error)
+      .finally(() => setCellsLoading(false));
     /* eslint-enable react-hooks/set-state-in-effect */
   }, [currentCity, currentCity?.key]);
 
@@ -85,17 +88,32 @@ export default function Simulator() {
         <div className="lg:col-span-2 space-y-6">
           <div className="bg-surface-card rounded-xl border border-hairline p-8">
             <label className="block text-sm font-semibold text-ink mb-2">Select Cell</label>
-            <select
-              value={selectedId}
-              onChange={(e) => setSelectedId(e.target.value)}
-              className="w-full bg-canvas border border-hairline rounded-lg px-4 py-2.5 text-sm text-ink focus:ring-2 focus:ring-primary focus:border-primary"
-            >
-              {cells.map((c) => (
-                <option key={c.properties.cell_id} value={c.properties.cell_id}>
-                  {c.properties.cell_id} ({(c.properties.air_temperature_celsius || c.properties.temp)?.toFixed(1)}C)
-                </option>
-              ))}
-            </select>
+
+            {cellsLoading ? (
+              <div>
+                <Skeleton className="w-full h-10 rounded-lg mb-3" />
+                <div className="flex items-center gap-2 mt-3">
+                  <span className="inline-block w-2 h-2 rounded-full bg-primary animate-pulse" />
+                  <span className="inline-block w-2 h-2 rounded-full bg-primary animate-pulse" style={{ animationDelay: '0.2s' }} />
+                  <span className="inline-block w-2 h-2 rounded-full bg-primary animate-pulse" style={{ animationDelay: '0.4s' }} />
+                  <p className="text-xs text-muted ml-1">
+                    Fetching city grid from server — this may take 10–20 s on first load…
+                  </p>
+                </div>
+              </div>
+            ) : (
+              <select
+                value={selectedId}
+                onChange={(e) => setSelectedId(e.target.value)}
+                className="w-full bg-canvas border border-hairline rounded-lg px-4 py-2.5 text-sm text-ink focus:ring-2 focus:ring-primary focus:border-primary"
+              >
+                {cells.map((c) => (
+                  <option key={c.properties.cell_id} value={c.properties.cell_id}>
+                    {c.properties.cell_id} ({(c.properties.air_temperature_celsius || c.properties.temp)?.toFixed(1)}C)
+                  </option>
+                ))}
+              </select>
+            )}
           </div>
 
           <div className="bg-surface-card rounded-xl border border-hairline p-8">
@@ -146,7 +164,7 @@ export default function Simulator() {
 
             <button
               onClick={handleSimulate}
-              disabled={loading}
+              disabled={loading || cellsLoading || !selectedId}
               className="mt-6 w-full bg-primary hover:bg-primary-active text-on-primary font-medium py-3 rounded-lg transition-colors duration-200 flex items-center justify-center gap-2 cursor-pointer disabled:opacity-50"
             >
               <Play className="w-5 h-5" />
@@ -236,9 +254,17 @@ export default function Simulator() {
         </div>
 
         <div className="space-y-6">
-          {cellLoading ? (
+          {cellLoading || cellsLoading ? (
             <div className="bg-surface-card rounded-xl border border-hairline p-8">
-              <p className="text-muted text-sm">Loading cell data...</p>
+              <Skeleton className="w-2/3 h-4 rounded mb-5" />
+              <div className="space-y-3">
+                {[...Array(6)].map((_, i) => (
+                  <div key={i} className="flex justify-between items-center">
+                    <Skeleton className="w-1/3 h-3 rounded" />
+                    <Skeleton className="w-1/4 h-3 rounded" />
+                  </div>
+                ))}
+              </div>
             </div>
           ) : cellDetail && (
             <div className="bg-surface-card rounded-xl border border-hairline p-8">
@@ -255,7 +281,14 @@ export default function Simulator() {
             </div>
           )}
 
-          {drivers && (
+          {!cellsLoading && !drivers ? (
+            <div className="bg-surface-card rounded-xl border border-hairline p-8">
+              <Skeleton className="w-1/2 h-4 rounded mb-4" />
+              <Skeleton className="w-full h-3 rounded mb-2" />
+              <Skeleton className="w-5/6 h-3 rounded mb-2" />
+              <Skeleton className="w-4/6 h-3 rounded" />
+            </div>
+          ) : drivers && (
             <div className="bg-surface-card rounded-xl border border-hairline p-8">
               <h3 className="font-serif text-base font-normal text-ink mb-3">Key Drivers</h3>
               <p className="text-xs text-muted-soft leading-relaxed">{drivers.summary}</p>
@@ -264,6 +297,19 @@ export default function Simulator() {
         </div>
       </div>
     </div>
+  );
+}
+
+function Skeleton({ className }) {
+  return (
+    <div
+      className={`rounded ${className}`}
+      style={{
+        background: 'linear-gradient(90deg, var(--color-surface-soft, #f0ece4) 25%, var(--color-canvas, #faf8f3) 50%, var(--color-surface-soft, #f0ece4) 75%)',
+        backgroundSize: '200% 100%',
+        animation: 'shimmer 1.5s ease-in-out infinite',
+      }}
+    />
   );
 }
 
