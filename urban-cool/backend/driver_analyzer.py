@@ -277,28 +277,37 @@ class DriverAnalyzer:
             "summary": summary,
         }
 
+    def _model_feature_importances(self) -> np.ndarray:
+        """Return model's built-in feature importances as fallback when SHAP is unavailable."""
+        if hasattr(self.model, 'feature_importances_'):
+            imp = np.array(self.model.feature_importances_)
+        else:
+            imp = np.ones(len(ALL_ML_FEATURES))
+        total = imp.sum()
+        return imp / total if total > 0 else imp
+
     def get_global_drivers(self, city: str = None) -> dict:
-        """Compute global feature importance using SHAP."""
+        """Compute global feature importance using SHAP, fallback to model.feature_importances_."""
         self._ensure_loaded(city)
 
         if self.explainer is None:
-            return {"features": ALL_ML_FEATURES, "importance": [1.0/len(ALL_ML_FEATURES)] * len(ALL_ML_FEATURES), "direction": {}, "feature_names": {}}
+            avg_shap = self._model_feature_importances()
+        else:
+            cell_ids = list(self.cells.keys())[:200]
+            X_all = np.vstack([self._get_ml_features(cid) for cid in cell_ids])
 
-        cell_ids = list(self.cells.keys())[:200]
-        X_all = np.vstack([self._get_ml_features(cid) for cid in cell_ids])
+            try:
+                shap_values = self.explainer.shap_values(X_all)
 
-        try:
-            shap_values = self.explainer.shap_values(X_all)
-
-            if isinstance(shap_values, np.ndarray) and len(shap_values.shape) == 2:
-                avg_shap = np.abs(shap_values).mean(axis=0)
-            elif isinstance(shap_values, list):
-                avg_shap = np.mean([np.abs(sv).mean(axis=0) for sv in shap_values], axis=0)
-            else:
-                avg_shap = np.abs(shap_values).mean(axis=0).flatten()[:len(ALL_ML_FEATURES)]
-        except Exception as e:
-            print(f"Global SHAP explanation failed on deployment, falling back: {e}")
-            avg_shap = np.ones(len(ALL_ML_FEATURES)) / len(ALL_ML_FEATURES)
+                if isinstance(shap_values, np.ndarray) and len(shap_values.shape) == 2:
+                    avg_shap = np.abs(shap_values).mean(axis=0)
+                elif isinstance(shap_values, list):
+                    avg_shap = np.mean([np.abs(sv).mean(axis=0) for sv in shap_values], axis=0)
+                else:
+                    avg_shap = np.abs(shap_values).mean(axis=0).flatten()[:len(ALL_ML_FEATURES)]
+            except Exception as e:
+                print(f"Global SHAP explanation failed on deployment, falling back to model.feature_importances_: {e}")
+                avg_shap = self._model_feature_importances()
 
         total = avg_shap.sum()
         importance = avg_shap / total if total > 0 else avg_shap
