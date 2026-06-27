@@ -15,7 +15,7 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
   const tempSource = SOURCE_STYLES[cell.temperature_source] || SOURCE_STYLES.none;
 
   return (
-    <div className="fixed bottom-16 left-0 right-0 z-[100] max-h-[60vh] bg-surface-card rounded-t-2xl border-t border-hairline overflow-hidden pointer-events-auto md:absolute md:top-20 md:right-4 md:left-auto md:w-[380px] md:max-w-[calc(100vw-32px)] md:rounded-xl md:border md:border-hairline md:max-h-[calc(100vh-80px)] md:bottom-auto">
+    <div className="fixed bottom-16 left-0 right-0 z-[100] max-h-[60vh] bg-surface-card rounded-t-2xl border-t border-hairline overflow-hidden pointer-events-auto flex flex-col md:absolute md:top-20 md:right-4 md:left-auto md:w-[380px] md:max-w-[calc(100vw-32px)] md:rounded-xl md:border md:border-hairline md:max-h-[calc(100vh-80px)] md:bottom-auto">
       {/* Drag handle — mobile only */}
       <div className="md:hidden flex justify-center pt-2 pb-1">
         <div className="w-10 h-1 bg-surface-cream-strong rounded-full" />
@@ -42,7 +42,7 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
         </div>
       )}
 
-      <div className="p-5">
+      <div className="flex-1 overflow-y-auto p-5">
         {/* Temperature Section - Air Temp first, then LST */}
         <div className="grid grid-cols-2 gap-3 mb-3">
           <StatCard label="Air Temp (est.)" value={`${cell.air_temperature_celsius?.toFixed(1)}°C`} accent="red" />
