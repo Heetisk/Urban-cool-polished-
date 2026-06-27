@@ -1,0 +1,9 @@
+{
+  "solar_wm2": 5.312887,
+  "albedo": -141.153994,
+  "emissivity": 75.05342,
+  "sky_view_factor": 1.415106,
+  "humidity_pct": 3.81347,
+  "wind_speed_ms": 80.828877,
+  "intercept": -2399.985985
+}

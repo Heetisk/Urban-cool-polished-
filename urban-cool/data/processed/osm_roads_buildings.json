@@ -1,0 +1,7550 @@
+[
+  {
+    "road_density": 27.2269,
+    "building_count": 12,
+    "building_density_per_km2": 48.16,
+    "cell_id": "G001"
+  },
+  {
+    "road_density": 40.0554,
+    "building_count": 53,
+    "building_density_per_km2": 212.69,
+    "cell_id": "G002"
+  },
+  {
+    "road_density": 44.0268,
+    "building_count": 283,
+    "building_density_per_km2": 1135.71,
+    "cell_id": "G003"
+  },
+  {
+    "road_density": 69.7843,
+    "building_count": 264,
+    "building_density_per_km2": 1059.25,
+    "cell_id": "G004"
+  },
+  {
+    "road_density": 62.3617,
+    "building_count": 381,
+    "building_density_per_km2": 1529.01,
+    "cell_id": "G005"
+  },
+  {
+    "road_density": 80.6995,
+    "building_count": 677,
+    "building_density_per_km2": 2716.92,
+    "cell_id": "G006"
+  },
+  {
+    "road_density": 68.7949,
+    "building_count": 618,
+    "building_density_per_km2": 2480.16,
+    "cell_id": "G007"
+  },
+  {
+    "road_density": 70.7229,
+    "building_count": 458,
+    "building_density_per_km2": 1838.06,
+    "cell_id": "G008"
+  },
+  {
+    "road_density": 28.9253,
+    "building_count": 83,
+    "building_density_per_km2": 333.1,
+    "cell_id": "G009"
+  },
+  {
+    "road_density": 51.3685,
+    "building_count": 80,
+    "building_density_per_km2": 321.0,
+    "cell_id": "G010"
+  },
+  {
+    "road_density": 55.2523,
+    "building_count": 17,
+    "building_density_per_km2": 68.23,
+    "cell_id": "G011"
+  },
+  {
+    "road_density": 64.1258,
+    "building_count": 32,
+    "building_density_per_km2": 128.43,
+    "cell_id": "G012"
+  },
+  {
+    "road_density": 39.2182,
+    "building_count": 218,
+    "building_density_per_km2": 874.91,
+    "cell_id": "G013"
+  },
+  {
+    "road_density": 32.5719,
+    "building_count": 301,
+    "building_density_per_km2": 1208.03,
+    "cell_id": "G014"
+  },
+  {
+    "road_density": 26.0262,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G015"
+  },
+  {
+    "road_density": 26.15,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G016"
+  },
+  {
+    "road_density": 19.8759,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G017"
+  },
+  {
+    "road_density": 29.5956,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G018"
+  },
+  {
+    "road_density": 40.052,
+    "building_count": 22,
+    "building_density_per_km2": 88.3,
+    "cell_id": "G019"
+  },
+  {
+    "road_density": 44.0585,
+    "building_count": 298,
+    "building_density_per_km2": 1196.03,
+    "cell_id": "G020"
+  },
+  {
+    "road_density": 36.9487,
+    "building_count": 179,
+    "building_density_per_km2": 718.42,
+    "cell_id": "G021"
+  },
+  {
+    "road_density": 50.5499,
+    "building_count": 222,
+    "building_density_per_km2": 890.83,
+    "cell_id": "G022"
+  },
+  {
+    "road_density": 40.8681,
+    "building_count": 75,
+    "building_density_per_km2": 301.02,
+    "cell_id": "G023"
+  },
+  {
+    "road_density": 43.6025,
+    "building_count": 126,
+    "building_density_per_km2": 505.72,
+    "cell_id": "G024"
+  },
+  {
+    "road_density": 47.2908,
+    "building_count": 230,
+    "building_density_per_km2": 923.14,
+    "cell_id": "G025"
+  },
+  {
+    "road_density": 58.4409,
+    "building_count": 10,
+    "building_density_per_km2": 40.14,
+    "cell_id": "G026"
+  },
+  {
+    "road_density": 59.838,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G027"
+  },
+  {
+    "road_density": 66.8689,
+    "building_count": 584,
+    "building_density_per_km2": 2343.53,
+    "cell_id": "G028"
+  },
+  {
+    "road_density": 63.8872,
+    "building_count": 352,
+    "building_density_per_km2": 1412.84,
+    "cell_id": "G029"
+  },
+  {
+    "road_density": 65.578,
+    "building_count": 272,
+    "building_density_per_km2": 1091.74,
+    "cell_id": "G030"
+  },
+  {
+    "road_density": 65.6896,
+    "building_count": 355,
+    "building_density_per_km2": 1424.89,
+    "cell_id": "G031"
+  },
+  {
+    "road_density": 54.647,
+    "building_count": 476,
+    "building_density_per_km2": 1910.57,
+    "cell_id": "G032"
+  },
+  {
+    "road_density": 48.542,
+    "building_count": 412,
+    "building_density_per_km2": 1653.7,
+    "cell_id": "G033"
+  },
+  {
+    "road_density": 49.5074,
+    "building_count": 276,
+    "building_density_per_km2": 1107.6,
+    "cell_id": "G034"
+  },
+  {
+    "road_density": 38.8676,
+    "building_count": 75,
+    "building_density_per_km2": 301.04,
+    "cell_id": "G035"
+  },
+  {
+    "road_density": 21.5273,
+    "building_count": 35,
+    "building_density_per_km2": 140.49,
+    "cell_id": "G036"
+  },
+  {
+    "road_density": 22.1147,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G037"
+  },
+  {
+    "road_density": 38.4849,
+    "building_count": 31,
+    "building_density_per_km2": 124.44,
+    "cell_id": "G038"
+  },
+  {
+    "road_density": 42.5625,
+    "building_count": 132,
+    "building_density_per_km2": 529.86,
+    "cell_id": "G039"
+  },
+  {
+    "road_density": 74.2697,
+    "building_count": 183,
+    "building_density_per_km2": 734.58,
+    "cell_id": "G040"
+  },
+  {
+    "road_density": 60.2294,
+    "building_count": 524,
+    "building_density_per_km2": 2102.98,
+    "cell_id": "G041"
+  },
+  {
+    "road_density": 76.4431,
+    "building_count": 817,
+    "building_density_per_km2": 3279.58,
+    "cell_id": "G042"
+  },
+  {
+    "road_density": 65.288,
+    "building_count": 778,
+    "building_density_per_km2": 3123.05,
+    "cell_id": "G043"
+  },
+  {
+    "road_density": 64.8392,
+    "building_count": 723,
+    "building_density_per_km2": 2902.28,
+    "cell_id": "G044"
+  },
+  {
+    "road_density": 43.9898,
+    "building_count": 513,
+    "building_density_per_km2": 2059.31,
+    "cell_id": "G045"
+  },
+  {
+    "road_density": 38.7399,
+    "building_count": 55,
+    "building_density_per_km2": 220.78,
+    "cell_id": "G046"
+  },
+  {
+    "road_density": 45.1591,
+    "building_count": 44,
+    "building_density_per_km2": 176.59,
+    "cell_id": "G047"
+  },
+  {
+    "road_density": 43.6061,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G048"
+  },
+  {
+    "road_density": 61.9803,
+    "building_count": 31,
+    "building_density_per_km2": 124.44,
+    "cell_id": "G049"
+  },
+  {
+    "road_density": 55.1378,
+    "building_count": 13,
+    "building_density_per_km2": 52.19,
+    "cell_id": "G050"
+  },
+  {
+    "road_density": 57.5423,
+    "building_count": 59,
+    "building_density_per_km2": 236.85,
+    "cell_id": "G051"
+  },
+  {
+    "road_density": 32.26,
+    "building_count": 34,
+    "building_density_per_km2": 136.49,
+    "cell_id": "G052"
+  },
+  {
+    "road_density": 20.7965,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G053"
+  },
+  {
+    "road_density": 30.1626,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G054"
+  },
+  {
+    "road_density": 42.3663,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G055"
+  },
+  {
+    "road_density": 39.1384,
+    "building_count": 8,
+    "building_density_per_km2": 32.12,
+    "cell_id": "G056"
+  },
+  {
+    "road_density": 49.5637,
+    "building_count": 8,
+    "building_density_per_km2": 32.12,
+    "cell_id": "G057"
+  },
+  {
+    "road_density": 5.7536,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G058"
+  },
+  {
+    "road_density": 19.2566,
+    "building_count": 11,
+    "building_density_per_km2": 44.15,
+    "cell_id": "G059"
+  },
+  {
+    "road_density": 22.9928,
+    "building_count": 40,
+    "building_density_per_km2": 160.58,
+    "cell_id": "G060"
+  },
+  {
+    "road_density": 24.0483,
+    "building_count": 32,
+    "building_density_per_km2": 128.47,
+    "cell_id": "G061"
+  },
+  {
+    "road_density": 35.0064,
+    "building_count": 65,
+    "building_density_per_km2": 260.95,
+    "cell_id": "G062"
+  },
+  {
+    "road_density": 48.3801,
+    "building_count": 134,
+    "building_density_per_km2": 537.97,
+    "cell_id": "G063"
+  },
+  {
+    "road_density": 49.3547,
+    "building_count": 22,
+    "building_density_per_km2": 88.32,
+    "cell_id": "G064"
+  },
+  {
+    "road_density": 45.9282,
+    "building_count": 317,
+    "building_density_per_km2": 1272.41,
+    "cell_id": "G065"
+  },
+  {
+    "road_density": 73.4928,
+    "building_count": 340,
+    "building_density_per_km2": 1365.02,
+    "cell_id": "G066"
+  },
+  {
+    "road_density": 75.9456,
+    "building_count": 480,
+    "building_density_per_km2": 1927.1,
+    "cell_id": "G067"
+  },
+  {
+    "road_density": 78.5054,
+    "building_count": 294,
+    "building_density_per_km2": 1180.35,
+    "cell_id": "G068"
+  },
+  {
+    "road_density": 48.0562,
+    "building_count": 234,
+    "building_density_per_km2": 939.47,
+    "cell_id": "G069"
+  },
+  {
+    "road_density": 38.1111,
+    "building_count": 263,
+    "building_density_per_km2": 1055.91,
+    "cell_id": "G070"
+  },
+  {
+    "road_density": 29.3337,
+    "building_count": 226,
+    "building_density_per_km2": 907.18,
+    "cell_id": "G071"
+  },
+  {
+    "road_density": 44.4596,
+    "building_count": 51,
+    "building_density_per_km2": 204.76,
+    "cell_id": "G072"
+  },
+  {
+    "road_density": 24.3981,
+    "building_count": 21,
+    "building_density_per_km2": 84.31,
+    "cell_id": "G073"
+  },
+  {
+    "road_density": 24.9542,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G074"
+  },
+  {
+    "road_density": 35.3273,
+    "building_count": 74,
+    "building_density_per_km2": 296.98,
+    "cell_id": "G075"
+  },
+  {
+    "road_density": 34.1181,
+    "building_count": 220,
+    "building_density_per_km2": 882.93,
+    "cell_id": "G076"
+  },
+  {
+    "road_density": 43.5154,
+    "building_count": 299,
+    "building_density_per_km2": 1199.99,
+    "cell_id": "G077"
+  },
+  {
+    "road_density": 44.418,
+    "building_count": 268,
+    "building_density_per_km2": 1075.37,
+    "cell_id": "G078"
+  },
+  {
+    "road_density": 34.3523,
+    "building_count": 224,
+    "building_density_per_km2": 899.0,
+    "cell_id": "G079"
+  },
+  {
+    "road_density": 38.1643,
+    "building_count": 341,
+    "building_density_per_km2": 1368.58,
+    "cell_id": "G080"
+  },
+  {
+    "road_density": 59.3311,
+    "building_count": 409,
+    "building_density_per_km2": 1641.5,
+    "cell_id": "G081"
+  },
+  {
+    "road_density": 30.7628,
+    "building_count": 371,
+    "building_density_per_km2": 1489.0,
+    "cell_id": "G082"
+  },
+  {
+    "road_density": 39.9826,
+    "building_count": 279,
+    "building_density_per_km2": 1119.77,
+    "cell_id": "G083"
+  },
+  {
+    "road_density": 67.0675,
+    "building_count": 275,
+    "building_density_per_km2": 1103.5,
+    "cell_id": "G084"
+  },
+  {
+    "road_density": 41.2613,
+    "building_count": 300,
+    "building_density_per_km2": 1204.07,
+    "cell_id": "G085"
+  },
+  {
+    "road_density": 61.0341,
+    "building_count": 169,
+    "building_density_per_km2": 678.3,
+    "cell_id": "G086"
+  },
+  {
+    "road_density": 52.0445,
+    "building_count": 57,
+    "building_density_per_km2": 228.78,
+    "cell_id": "G087"
+  },
+  {
+    "road_density": 52.7731,
+    "building_count": 22,
+    "building_density_per_km2": 88.3,
+    "cell_id": "G088"
+  },
+  {
+    "road_density": 42.8106,
+    "building_count": 26,
+    "building_density_per_km2": 104.36,
+    "cell_id": "G089"
+  },
+  {
+    "road_density": 32.9739,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G090"
+  },
+  {
+    "road_density": 40.9297,
+    "building_count": 14,
+    "building_density_per_km2": 56.19,
+    "cell_id": "G091"
+  },
+  {
+    "road_density": 46.8918,
+    "building_count": 8,
+    "building_density_per_km2": 32.11,
+    "cell_id": "G092"
+  },
+  {
+    "road_density": 30.9015,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G093"
+  },
+  {
+    "road_density": 37.2349,
+    "building_count": 3,
+    "building_density_per_km2": 12.04,
+    "cell_id": "G094"
+  },
+  {
+    "road_density": 21.1143,
+    "building_count": 13,
+    "building_density_per_km2": 52.18,
+    "cell_id": "G095"
+  },
+  {
+    "road_density": 13.0944,
+    "building_count": 12,
+    "building_density_per_km2": 48.16,
+    "cell_id": "G096"
+  },
+  {
+    "road_density": 29.0743,
+    "building_count": 12,
+    "building_density_per_km2": 48.17,
+    "cell_id": "G097"
+  },
+  {
+    "road_density": 27.0918,
+    "building_count": 18,
+    "building_density_per_km2": 72.25,
+    "cell_id": "G098"
+  },
+  {
+    "road_density": 35.0181,
+    "building_count": 178,
+    "building_density_per_km2": 714.47,
+    "cell_id": "G099"
+  },
+  {
+    "road_density": 29.7082,
+    "building_count": 123,
+    "building_density_per_km2": 493.71,
+    "cell_id": "G100"
+  },
+  {
+    "road_density": 33.9267,
+    "building_count": 7,
+    "building_density_per_km2": 28.1,
+    "cell_id": "G101"
+  },
+  {
+    "road_density": 57.9677,
+    "building_count": 243,
+    "building_density_per_km2": 975.2,
+    "cell_id": "G102"
+  },
+  {
+    "road_density": 58.2109,
+    "building_count": 687,
+    "building_density_per_km2": 2757.62,
+    "cell_id": "G103"
+  },
+  {
+    "road_density": 70.1761,
+    "building_count": 384,
+    "building_density_per_km2": 1541.39,
+    "cell_id": "G104"
+  },
+  {
+    "road_density": 56.6845,
+    "building_count": 385,
+    "building_density_per_km2": 1545.41,
+    "cell_id": "G105"
+  },
+  {
+    "road_density": 57.6652,
+    "building_count": 161,
+    "building_density_per_km2": 646.27,
+    "cell_id": "G106"
+  },
+  {
+    "road_density": 14.7734,
+    "building_count": 113,
+    "building_density_per_km2": 453.59,
+    "cell_id": "G107"
+  },
+  {
+    "road_density": 15.3816,
+    "building_count": 27,
+    "building_density_per_km2": 108.36,
+    "cell_id": "G108"
+  },
+  {
+    "road_density": 25.9911,
+    "building_count": 37,
+    "building_density_per_km2": 148.52,
+    "cell_id": "G109"
+  },
+  {
+    "road_density": 14.365,
+    "building_count": 37,
+    "building_density_per_km2": 148.52,
+    "cell_id": "G110"
+  },
+  {
+    "road_density": 22.4341,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G111"
+  },
+  {
+    "road_density": 35.0496,
+    "building_count": 16,
+    "building_density_per_km2": 64.23,
+    "cell_id": "G112"
+  },
+  {
+    "road_density": 32.3092,
+    "building_count": 169,
+    "building_density_per_km2": 678.43,
+    "cell_id": "G113"
+  },
+  {
+    "road_density": 26.5221,
+    "building_count": 289,
+    "building_density_per_km2": 1160.16,
+    "cell_id": "G114"
+  },
+  {
+    "road_density": 31.3622,
+    "building_count": 215,
+    "building_density_per_km2": 862.92,
+    "cell_id": "G115"
+  },
+  {
+    "road_density": 41.4246,
+    "building_count": 252,
+    "building_density_per_km2": 1011.64,
+    "cell_id": "G116"
+  },
+  {
+    "road_density": 35.6973,
+    "building_count": 284,
+    "building_density_per_km2": 1140.11,
+    "cell_id": "G117"
+  },
+  {
+    "road_density": 42.118,
+    "building_count": 164,
+    "building_density_per_km2": 658.38,
+    "cell_id": "G118"
+  },
+  {
+    "road_density": 29.7375,
+    "building_count": 94,
+    "building_density_per_km2": 377.36,
+    "cell_id": "G119"
+  },
+  {
+    "road_density": 26.0142,
+    "building_count": 14,
+    "building_density_per_km2": 56.2,
+    "cell_id": "G120"
+  },
+  {
+    "road_density": 45.9413,
+    "building_count": 133,
+    "building_density_per_km2": 533.83,
+    "cell_id": "G121"
+  },
+  {
+    "road_density": 34.3412,
+    "building_count": 196,
+    "building_density_per_km2": 786.86,
+    "cell_id": "G122"
+  },
+  {
+    "road_density": 43.3764,
+    "building_count": 208,
+    "building_density_per_km2": 835.04,
+    "cell_id": "G123"
+  },
+  {
+    "road_density": 52.9642,
+    "building_count": 98,
+    "building_density_per_km2": 393.43,
+    "cell_id": "G124"
+  },
+  {
+    "road_density": 49.6176,
+    "building_count": 71,
+    "building_density_per_km2": 285.04,
+    "cell_id": "G125"
+  },
+  {
+    "road_density": 43.8669,
+    "building_count": 18,
+    "building_density_per_km2": 72.26,
+    "cell_id": "G126"
+  },
+  {
+    "road_density": 9.4171,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G127"
+  },
+  {
+    "road_density": 44.0091,
+    "building_count": 5,
+    "building_density_per_km2": 20.07,
+    "cell_id": "G128"
+  },
+  {
+    "road_density": 58.3895,
+    "building_count": 6,
+    "building_density_per_km2": 24.09,
+    "cell_id": "G129"
+  },
+  {
+    "road_density": 39.6252,
+    "building_count": 5,
+    "building_density_per_km2": 20.07,
+    "cell_id": "G130"
+  },
+  {
+    "road_density": 35.8551,
+    "building_count": 5,
+    "building_density_per_km2": 20.07,
+    "cell_id": "G131"
+  },
+  {
+    "road_density": 13.2502,
+    "building_count": 25,
+    "building_density_per_km2": 100.37,
+    "cell_id": "G132"
+  },
+  {
+    "road_density": 16.8261,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G133"
+  },
+  {
+    "road_density": 38.0608,
+    "building_count": 15,
+    "building_density_per_km2": 60.22,
+    "cell_id": "G134"
+  },
+  {
+    "road_density": 34.4722,
+    "building_count": 17,
+    "building_density_per_km2": 68.25,
+    "cell_id": "G135"
+  },
+  {
+    "road_density": 25.9658,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G136"
+  },
+  {
+    "road_density": 23.1089,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G137"
+  },
+  {
+    "road_density": 40.3939,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G138"
+  },
+  {
+    "road_density": 44.7013,
+    "building_count": 72,
+    "building_density_per_km2": 289.02,
+    "cell_id": "G139"
+  },
+  {
+    "road_density": 45.1083,
+    "building_count": 454,
+    "building_density_per_km2": 1822.82,
+    "cell_id": "G140"
+  },
+  {
+    "road_density": 54.4157,
+    "building_count": 248,
+    "building_density_per_km2": 995.73,
+    "cell_id": "G141"
+  },
+  {
+    "road_density": 55.6217,
+    "building_count": 157,
+    "building_density_per_km2": 630.37,
+    "cell_id": "G142"
+  },
+  {
+    "road_density": 35.3608,
+    "building_count": 82,
+    "building_density_per_km2": 329.24,
+    "cell_id": "G143"
+  },
+  {
+    "road_density": 37.9177,
+    "building_count": 329,
+    "building_density_per_km2": 1320.97,
+    "cell_id": "G144"
+  },
+  {
+    "road_density": 81.0198,
+    "building_count": 392,
+    "building_density_per_km2": 1573.61,
+    "cell_id": "G145"
+  },
+  {
+    "road_density": 61.0415,
+    "building_count": 97,
+    "building_density_per_km2": 389.47,
+    "cell_id": "G146"
+  },
+  {
+    "road_density": 31.325,
+    "building_count": 24,
+    "building_density_per_km2": 96.36,
+    "cell_id": "G147"
+  },
+  {
+    "road_density": 20.3874,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G148"
+  },
+  {
+    "road_density": 23.1174,
+    "building_count": 24,
+    "building_density_per_km2": 96.33,
+    "cell_id": "G149"
+  },
+  {
+    "road_density": 38.6689,
+    "building_count": 221,
+    "building_density_per_km2": 887.0,
+    "cell_id": "G150"
+  },
+  {
+    "road_density": 30.7735,
+    "building_count": 254,
+    "building_density_per_km2": 1019.46,
+    "cell_id": "G151"
+  },
+  {
+    "road_density": 34.4193,
+    "building_count": 243,
+    "building_density_per_km2": 975.12,
+    "cell_id": "G152"
+  },
+  {
+    "road_density": 45.9379,
+    "building_count": 308,
+    "building_density_per_km2": 1236.21,
+    "cell_id": "G153"
+  },
+  {
+    "road_density": 40.446,
+    "building_count": 492,
+    "building_density_per_km2": 1974.74,
+    "cell_id": "G154"
+  },
+  {
+    "road_density": 48.658,
+    "building_count": 83,
+    "building_density_per_km2": 333.14,
+    "cell_id": "G155"
+  },
+  {
+    "road_density": 38.8208,
+    "building_count": 17,
+    "building_density_per_km2": 68.23,
+    "cell_id": "G156"
+  },
+  {
+    "road_density": 42.5329,
+    "building_count": 37,
+    "building_density_per_km2": 148.51,
+    "cell_id": "G157"
+  },
+  {
+    "road_density": 30.6869,
+    "building_count": 38,
+    "building_density_per_km2": 152.49,
+    "cell_id": "G158"
+  },
+  {
+    "road_density": 25.4596,
+    "building_count": 89,
+    "building_density_per_km2": 357.23,
+    "cell_id": "G159"
+  },
+  {
+    "road_density": 38.3497,
+    "building_count": 70,
+    "building_density_per_km2": 280.97,
+    "cell_id": "G160"
+  },
+  {
+    "road_density": 27.9853,
+    "building_count": 114,
+    "building_density_per_km2": 457.58,
+    "cell_id": "G161"
+  },
+  {
+    "road_density": 33.9663,
+    "building_count": 167,
+    "building_density_per_km2": 670.32,
+    "cell_id": "G162"
+  },
+  {
+    "road_density": 37.7802,
+    "building_count": 113,
+    "building_density_per_km2": 453.57,
+    "cell_id": "G163"
+  },
+  {
+    "road_density": 30.0868,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G164"
+  },
+  {
+    "road_density": 50.7914,
+    "building_count": 12,
+    "building_density_per_km2": 48.17,
+    "cell_id": "G165"
+  },
+  {
+    "road_density": 53.5364,
+    "building_count": 16,
+    "building_density_per_km2": 64.22,
+    "cell_id": "G166"
+  },
+  {
+    "road_density": 54.7384,
+    "building_count": 7,
+    "building_density_per_km2": 28.1,
+    "cell_id": "G167"
+  },
+  {
+    "road_density": 54.4187,
+    "building_count": 6,
+    "building_density_per_km2": 24.08,
+    "cell_id": "G168"
+  },
+  {
+    "road_density": 29.0058,
+    "building_count": 33,
+    "building_density_per_km2": 132.46,
+    "cell_id": "G169"
+  },
+  {
+    "road_density": 34.0622,
+    "building_count": 10,
+    "building_density_per_km2": 40.13,
+    "cell_id": "G170"
+  },
+  {
+    "road_density": 24.5968,
+    "building_count": 10,
+    "building_density_per_km2": 40.14,
+    "cell_id": "G171"
+  },
+  {
+    "road_density": 32.7315,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G172"
+  },
+  {
+    "road_density": 29.2975,
+    "building_count": 10,
+    "building_density_per_km2": 40.14,
+    "cell_id": "G173"
+  },
+  {
+    "road_density": 33.4848,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G174"
+  },
+  {
+    "road_density": 38.4089,
+    "building_count": 23,
+    "building_density_per_km2": 92.33,
+    "cell_id": "G175"
+  },
+  {
+    "road_density": 46.1777,
+    "building_count": 73,
+    "building_density_per_km2": 292.98,
+    "cell_id": "G176"
+  },
+  {
+    "road_density": 56.1205,
+    "building_count": 156,
+    "building_density_per_km2": 626.22,
+    "cell_id": "G177"
+  },
+  {
+    "road_density": 58.6289,
+    "building_count": 178,
+    "building_density_per_km2": 714.54,
+    "cell_id": "G178"
+  },
+  {
+    "road_density": 61.317,
+    "building_count": 149,
+    "building_density_per_km2": 598.13,
+    "cell_id": "G179"
+  },
+  {
+    "road_density": 27.6346,
+    "building_count": 78,
+    "building_density_per_km2": 313.12,
+    "cell_id": "G180"
+  },
+  {
+    "road_density": 23.4767,
+    "building_count": 18,
+    "building_density_per_km2": 72.26,
+    "cell_id": "G181"
+  },
+  {
+    "road_density": 53.9995,
+    "building_count": 159,
+    "building_density_per_km2": 638.16,
+    "cell_id": "G182"
+  },
+  {
+    "road_density": 37.7015,
+    "building_count": 314,
+    "building_density_per_km2": 1260.52,
+    "cell_id": "G183"
+  },
+  {
+    "road_density": 39.4095,
+    "building_count": 19,
+    "building_density_per_km2": 76.27,
+    "cell_id": "G184"
+  },
+  {
+    "road_density": 11.9663,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G185"
+  },
+  {
+    "road_density": 21.3162,
+    "building_count": 20,
+    "building_density_per_km2": 80.29,
+    "cell_id": "G186"
+  },
+  {
+    "road_density": 41.4517,
+    "building_count": 49,
+    "building_density_per_km2": 196.72,
+    "cell_id": "G187"
+  },
+  {
+    "road_density": 16.5855,
+    "building_count": 260,
+    "building_density_per_km2": 1043.81,
+    "cell_id": "G188"
+  },
+  {
+    "road_density": 6.2662,
+    "building_count": 208,
+    "building_density_per_km2": 834.88,
+    "cell_id": "G189"
+  },
+  {
+    "road_density": 34.2003,
+    "building_count": 229,
+    "building_density_per_km2": 919.37,
+    "cell_id": "G190"
+  },
+  {
+    "road_density": 30.9932,
+    "building_count": 298,
+    "building_density_per_km2": 1196.39,
+    "cell_id": "G191"
+  },
+  {
+    "road_density": 37.743,
+    "building_count": 93,
+    "building_density_per_km2": 373.37,
+    "cell_id": "G192"
+  },
+  {
+    "road_density": 41.1088,
+    "building_count": 39,
+    "building_density_per_km2": 156.58,
+    "cell_id": "G193"
+  },
+  {
+    "road_density": 47.2658,
+    "building_count": 22,
+    "building_density_per_km2": 88.33,
+    "cell_id": "G194"
+  },
+  {
+    "road_density": 40.1547,
+    "building_count": 69,
+    "building_density_per_km2": 276.97,
+    "cell_id": "G195"
+  },
+  {
+    "road_density": 52.7553,
+    "building_count": 115,
+    "building_density_per_km2": 461.71,
+    "cell_id": "G196"
+  },
+  {
+    "road_density": 43.4914,
+    "building_count": 79,
+    "building_density_per_km2": 317.17,
+    "cell_id": "G197"
+  },
+  {
+    "road_density": 28.4571,
+    "building_count": 22,
+    "building_density_per_km2": 88.33,
+    "cell_id": "G198"
+  },
+  {
+    "road_density": 30.325,
+    "building_count": 89,
+    "building_density_per_km2": 357.33,
+    "cell_id": "G199"
+  },
+  {
+    "road_density": 46.951,
+    "building_count": 90,
+    "building_density_per_km2": 361.35,
+    "cell_id": "G200"
+  },
+  {
+    "road_density": 34.3286,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G201"
+  },
+  {
+    "road_density": 25.0022,
+    "building_count": 27,
+    "building_density_per_km2": 108.4,
+    "cell_id": "G202"
+  },
+  {
+    "road_density": 56.9482,
+    "building_count": 16,
+    "building_density_per_km2": 64.24,
+    "cell_id": "G203"
+  },
+  {
+    "road_density": 50.0764,
+    "building_count": 7,
+    "building_density_per_km2": 28.11,
+    "cell_id": "G204"
+  },
+  {
+    "road_density": 67.6039,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G205"
+  },
+  {
+    "road_density": 28.2682,
+    "building_count": 6,
+    "building_density_per_km2": 24.09,
+    "cell_id": "G206"
+  },
+  {
+    "road_density": 35.2276,
+    "building_count": 3,
+    "building_density_per_km2": 12.04,
+    "cell_id": "G207"
+  },
+  {
+    "road_density": 16.4795,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G208"
+  },
+  {
+    "road_density": 51.4214,
+    "building_count": 20,
+    "building_density_per_km2": 80.3,
+    "cell_id": "G209"
+  },
+  {
+    "road_density": 36.6777,
+    "building_count": 133,
+    "building_density_per_km2": 534.02,
+    "cell_id": "G210"
+  },
+  {
+    "road_density": 32.1761,
+    "building_count": 41,
+    "building_density_per_km2": 164.62,
+    "cell_id": "G211"
+  },
+  {
+    "road_density": 49.2737,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G212"
+  },
+  {
+    "road_density": 26.8006,
+    "building_count": 23,
+    "building_density_per_km2": 92.33,
+    "cell_id": "G213"
+  },
+  {
+    "road_density": 46.0294,
+    "building_count": 197,
+    "building_density_per_km2": 791.01,
+    "cell_id": "G214"
+  },
+  {
+    "road_density": 29.0562,
+    "building_count": 121,
+    "building_density_per_km2": 485.85,
+    "cell_id": "G215"
+  },
+  {
+    "road_density": 40.1305,
+    "building_count": 72,
+    "building_density_per_km2": 289.1,
+    "cell_id": "G216"
+  },
+  {
+    "road_density": 40.4667,
+    "building_count": 44,
+    "building_density_per_km2": 176.68,
+    "cell_id": "G217"
+  },
+  {
+    "road_density": 30.5627,
+    "building_count": 183,
+    "building_density_per_km2": 734.82,
+    "cell_id": "G218"
+  },
+  {
+    "road_density": 28.2912,
+    "building_count": 228,
+    "building_density_per_km2": 915.33,
+    "cell_id": "G219"
+  },
+  {
+    "road_density": 38.999,
+    "building_count": 162,
+    "building_density_per_km2": 650.5,
+    "cell_id": "G220"
+  },
+  {
+    "road_density": 27.4306,
+    "building_count": 47,
+    "building_density_per_km2": 188.73,
+    "cell_id": "G221"
+  },
+  {
+    "road_density": 27.3453,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G222"
+  },
+  {
+    "road_density": 8.495,
+    "building_count": 68,
+    "building_density_per_km2": 272.94,
+    "cell_id": "G223"
+  },
+  {
+    "road_density": 52.51,
+    "building_count": 85,
+    "building_density_per_km2": 341.18,
+    "cell_id": "G224"
+  },
+  {
+    "road_density": 24.9886,
+    "building_count": 260,
+    "building_density_per_km2": 1043.61,
+    "cell_id": "G225"
+  },
+  {
+    "road_density": 11.6071,
+    "building_count": 155,
+    "building_density_per_km2": 622.03,
+    "cell_id": "G226"
+  },
+  {
+    "road_density": 31.8992,
+    "building_count": 225,
+    "building_density_per_km2": 903.14,
+    "cell_id": "G227"
+  },
+  {
+    "road_density": 42.2638,
+    "building_count": 321,
+    "building_density_per_km2": 1288.48,
+    "cell_id": "G228"
+  },
+  {
+    "road_density": 27.3892,
+    "building_count": 96,
+    "building_density_per_km2": 385.34,
+    "cell_id": "G229"
+  },
+  {
+    "road_density": 12.3357,
+    "building_count": 71,
+    "building_density_per_km2": 284.99,
+    "cell_id": "G230"
+  },
+  {
+    "road_density": 24.7948,
+    "building_count": 27,
+    "building_density_per_km2": 108.38,
+    "cell_id": "G231"
+  },
+  {
+    "road_density": 32.1475,
+    "building_count": 87,
+    "building_density_per_km2": 349.15,
+    "cell_id": "G232"
+  },
+  {
+    "road_density": 35.3688,
+    "building_count": 47,
+    "building_density_per_km2": 188.66,
+    "cell_id": "G233"
+  },
+  {
+    "road_density": 39.2554,
+    "building_count": 70,
+    "building_density_per_km2": 280.99,
+    "cell_id": "G234"
+  },
+  {
+    "road_density": 41.4922,
+    "building_count": 63,
+    "building_density_per_km2": 252.89,
+    "cell_id": "G235"
+  },
+  {
+    "road_density": 56.122,
+    "building_count": 152,
+    "building_density_per_km2": 610.15,
+    "cell_id": "G236"
+  },
+  {
+    "road_density": 37.0813,
+    "building_count": 67,
+    "building_density_per_km2": 268.95,
+    "cell_id": "G237"
+  },
+  {
+    "road_density": 27.0403,
+    "building_count": 18,
+    "building_density_per_km2": 72.24,
+    "cell_id": "G238"
+  },
+  {
+    "road_density": 44.9578,
+    "building_count": 47,
+    "building_density_per_km2": 188.67,
+    "cell_id": "G239"
+  },
+  {
+    "road_density": 47.1006,
+    "building_count": 13,
+    "building_density_per_km2": 52.19,
+    "cell_id": "G240"
+  },
+  {
+    "road_density": 44.5947,
+    "building_count": 7,
+    "building_density_per_km2": 28.1,
+    "cell_id": "G241"
+  },
+  {
+    "road_density": 56.738,
+    "building_count": 11,
+    "building_density_per_km2": 44.16,
+    "cell_id": "G242"
+  },
+  {
+    "road_density": 23.8121,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G243"
+  },
+  {
+    "road_density": 32.6571,
+    "building_count": 14,
+    "building_density_per_km2": 56.19,
+    "cell_id": "G244"
+  },
+  {
+    "road_density": 45.3561,
+    "building_count": 44,
+    "building_density_per_km2": 176.63,
+    "cell_id": "G245"
+  },
+  {
+    "road_density": 28.7565,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G246"
+  },
+  {
+    "road_density": 44.3636,
+    "building_count": 6,
+    "building_density_per_km2": 24.09,
+    "cell_id": "G247"
+  },
+  {
+    "road_density": 49.4831,
+    "building_count": 369,
+    "building_density_per_km2": 1481.33,
+    "cell_id": "G248"
+  },
+  {
+    "road_density": 47.0467,
+    "building_count": 33,
+    "building_density_per_km2": 132.48,
+    "cell_id": "G249"
+  },
+  {
+    "road_density": 36.067,
+    "building_count": 108,
+    "building_density_per_km2": 433.48,
+    "cell_id": "G250"
+  },
+  {
+    "road_density": 55.0188,
+    "building_count": 422,
+    "building_density_per_km2": 1694.13,
+    "cell_id": "G251"
+  },
+  {
+    "road_density": 45.3969,
+    "building_count": 492,
+    "building_density_per_km2": 1975.16,
+    "cell_id": "G252"
+  },
+  {
+    "road_density": 64.6836,
+    "building_count": 509,
+    "building_density_per_km2": 2043.42,
+    "cell_id": "G253"
+  },
+  {
+    "road_density": 57.2601,
+    "building_count": 439,
+    "building_density_per_km2": 1762.41,
+    "cell_id": "G254"
+  },
+  {
+    "road_density": 55.2004,
+    "building_count": 565,
+    "building_density_per_km2": 2268.26,
+    "cell_id": "G255"
+  },
+  {
+    "road_density": 34.5727,
+    "building_count": 176,
+    "building_density_per_km2": 706.43,
+    "cell_id": "G256"
+  },
+  {
+    "road_density": 28.999,
+    "building_count": 194,
+    "building_density_per_km2": 778.85,
+    "cell_id": "G257"
+  },
+  {
+    "road_density": 52.1435,
+    "building_count": 19,
+    "building_density_per_km2": 76.28,
+    "cell_id": "G258"
+  },
+  {
+    "road_density": 27.8111,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G259"
+  },
+  {
+    "road_density": 21.4076,
+    "building_count": 73,
+    "building_density_per_km2": 293.08,
+    "cell_id": "G260"
+  },
+  {
+    "road_density": 55.0625,
+    "building_count": 51,
+    "building_density_per_km2": 204.76,
+    "cell_id": "G261"
+  },
+  {
+    "road_density": 49.9294,
+    "building_count": 255,
+    "building_density_per_km2": 1023.8,
+    "cell_id": "G262"
+  },
+  {
+    "road_density": 27.8579,
+    "building_count": 270,
+    "building_density_per_km2": 1083.81,
+    "cell_id": "G263"
+  },
+  {
+    "road_density": 28.1114,
+    "building_count": 220,
+    "building_density_per_km2": 883.29,
+    "cell_id": "G264"
+  },
+  {
+    "road_density": 39.6002,
+    "building_count": 317,
+    "building_density_per_km2": 1272.75,
+    "cell_id": "G265"
+  },
+  {
+    "road_density": 46.9977,
+    "building_count": 239,
+    "building_density_per_km2": 959.59,
+    "cell_id": "G266"
+  },
+  {
+    "road_density": 25.767,
+    "building_count": 46,
+    "building_density_per_km2": 184.69,
+    "cell_id": "G267"
+  },
+  {
+    "road_density": 11.3357,
+    "building_count": 41,
+    "building_density_per_km2": 164.62,
+    "cell_id": "G268"
+  },
+  {
+    "road_density": 13.6913,
+    "building_count": 68,
+    "building_density_per_km2": 272.97,
+    "cell_id": "G269"
+  },
+  {
+    "road_density": 15.0828,
+    "building_count": 85,
+    "building_density_per_km2": 341.28,
+    "cell_id": "G270"
+  },
+  {
+    "road_density": 41.9675,
+    "building_count": 81,
+    "building_density_per_km2": 325.23,
+    "cell_id": "G271"
+  },
+  {
+    "road_density": 39.7605,
+    "building_count": 208,
+    "building_density_per_km2": 835.15,
+    "cell_id": "G272"
+  },
+  {
+    "road_density": 51.6016,
+    "building_count": 293,
+    "building_density_per_km2": 1176.45,
+    "cell_id": "G273"
+  },
+  {
+    "road_density": 33.9285,
+    "building_count": 89,
+    "building_density_per_km2": 357.35,
+    "cell_id": "G274"
+  },
+  {
+    "road_density": 36.7384,
+    "building_count": 15,
+    "building_density_per_km2": 60.22,
+    "cell_id": "G275"
+  },
+  {
+    "road_density": 63.5006,
+    "building_count": 39,
+    "building_density_per_km2": 156.6,
+    "cell_id": "G276"
+  },
+  {
+    "road_density": 41.3991,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G277"
+  },
+  {
+    "road_density": 48.8415,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G278"
+  },
+  {
+    "road_density": 46.8159,
+    "building_count": 15,
+    "building_density_per_km2": 60.23,
+    "cell_id": "G279"
+  },
+  {
+    "road_density": 22.1787,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G280"
+  },
+  {
+    "road_density": 28.0222,
+    "building_count": 54,
+    "building_density_per_km2": 216.79,
+    "cell_id": "G281"
+  },
+  {
+    "road_density": 32.582,
+    "building_count": 45,
+    "building_density_per_km2": 180.69,
+    "cell_id": "G282"
+  },
+  {
+    "road_density": 42.9608,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G283"
+  },
+  {
+    "road_density": 36.2463,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G284"
+  },
+  {
+    "road_density": 49.1164,
+    "building_count": 155,
+    "building_density_per_km2": 622.4,
+    "cell_id": "G285"
+  },
+  {
+    "road_density": 72.4578,
+    "building_count": 280,
+    "building_density_per_km2": 1124.34,
+    "cell_id": "G286"
+  },
+  {
+    "road_density": 50.4708,
+    "building_count": 337,
+    "building_density_per_km2": 1352.95,
+    "cell_id": "G287"
+  },
+  {
+    "road_density": 52.7692,
+    "building_count": 331,
+    "building_density_per_km2": 1329.15,
+    "cell_id": "G288"
+  },
+  {
+    "road_density": 72.214,
+    "building_count": 395,
+    "building_density_per_km2": 1586.15,
+    "cell_id": "G289"
+  },
+  {
+    "road_density": 76.1876,
+    "building_count": 390,
+    "building_density_per_km2": 1566.08,
+    "cell_id": "G290"
+  },
+  {
+    "road_density": 47.4349,
+    "building_count": 301,
+    "building_density_per_km2": 1208.7,
+    "cell_id": "G291"
+  },
+  {
+    "road_density": 48.6339,
+    "building_count": 237,
+    "building_density_per_km2": 951.71,
+    "cell_id": "G292"
+  },
+  {
+    "road_density": 43.3176,
+    "building_count": 237,
+    "building_density_per_km2": 951.52,
+    "cell_id": "G293"
+  },
+  {
+    "road_density": 21.4823,
+    "building_count": 124,
+    "building_density_per_km2": 497.95,
+    "cell_id": "G294"
+  },
+  {
+    "road_density": 36.7458,
+    "building_count": 30,
+    "building_density_per_km2": 120.47,
+    "cell_id": "G295"
+  },
+  {
+    "road_density": 24.6853,
+    "building_count": 14,
+    "building_density_per_km2": 56.22,
+    "cell_id": "G296"
+  },
+  {
+    "road_density": 27.1151,
+    "building_count": 107,
+    "building_density_per_km2": 429.51,
+    "cell_id": "G297"
+  },
+  {
+    "road_density": 26.7222,
+    "building_count": 110,
+    "building_density_per_km2": 441.55,
+    "cell_id": "G298"
+  },
+  {
+    "road_density": 54.3408,
+    "building_count": 99,
+    "building_density_per_km2": 397.4,
+    "cell_id": "G299"
+  },
+  {
+    "road_density": 28.5818,
+    "building_count": 233,
+    "building_density_per_km2": 935.11,
+    "cell_id": "G300"
+  },
+  {
+    "road_density": 35.4162,
+    "building_count": 314,
+    "building_density_per_km2": 1260.46,
+    "cell_id": "G301"
+  },
+  {
+    "road_density": 40.9286,
+    "building_count": 252,
+    "building_density_per_km2": 1011.58,
+    "cell_id": "G302"
+  },
+  {
+    "road_density": 33.8577,
+    "building_count": 234,
+    "building_density_per_km2": 939.33,
+    "cell_id": "G303"
+  },
+  {
+    "road_density": 31.7595,
+    "building_count": 109,
+    "building_density_per_km2": 437.56,
+    "cell_id": "G304"
+  },
+  {
+    "road_density": 3.217,
+    "building_count": 45,
+    "building_density_per_km2": 180.64,
+    "cell_id": "G305"
+  },
+  {
+    "road_density": 13.0603,
+    "building_count": 57,
+    "building_density_per_km2": 228.77,
+    "cell_id": "G306"
+  },
+  {
+    "road_density": 17.0957,
+    "building_count": 75,
+    "building_density_per_km2": 301.08,
+    "cell_id": "G307"
+  },
+  {
+    "road_density": 34.8862,
+    "building_count": 109,
+    "building_density_per_km2": 437.57,
+    "cell_id": "G308"
+  },
+  {
+    "road_density": 43.0739,
+    "building_count": 266,
+    "building_density_per_km2": 1067.83,
+    "cell_id": "G309"
+  },
+  {
+    "road_density": 40.5734,
+    "building_count": 239,
+    "building_density_per_km2": 959.45,
+    "cell_id": "G310"
+  },
+  {
+    "road_density": 48.9897,
+    "building_count": 79,
+    "building_density_per_km2": 317.14,
+    "cell_id": "G311"
+  },
+  {
+    "road_density": 35.2909,
+    "building_count": 17,
+    "building_density_per_km2": 68.23,
+    "cell_id": "G312"
+  },
+  {
+    "road_density": 64.3829,
+    "building_count": 10,
+    "building_density_per_km2": 40.14,
+    "cell_id": "G313"
+  },
+  {
+    "road_density": 58.4294,
+    "building_count": 16,
+    "building_density_per_km2": 64.23,
+    "cell_id": "G314"
+  },
+  {
+    "road_density": 48.9999,
+    "building_count": 19,
+    "building_density_per_km2": 76.28,
+    "cell_id": "G315"
+  },
+  {
+    "road_density": 39.3761,
+    "building_count": 29,
+    "building_density_per_km2": 116.42,
+    "cell_id": "G316"
+  },
+  {
+    "road_density": 21.4072,
+    "building_count": 8,
+    "building_density_per_km2": 32.12,
+    "cell_id": "G317"
+  },
+  {
+    "road_density": 19.342,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G318"
+  },
+  {
+    "road_density": 28.1711,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G319"
+  },
+  {
+    "road_density": 28.0253,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G320"
+  },
+  {
+    "road_density": 33.3403,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G321"
+  },
+  {
+    "road_density": 44.4465,
+    "building_count": 24,
+    "building_density_per_km2": 96.35,
+    "cell_id": "G322"
+  },
+  {
+    "road_density": 57.9366,
+    "building_count": 180,
+    "building_density_per_km2": 722.65,
+    "cell_id": "G323"
+  },
+  {
+    "road_density": 72.27,
+    "building_count": 304,
+    "building_density_per_km2": 1220.24,
+    "cell_id": "G324"
+  },
+  {
+    "road_density": 52.4547,
+    "building_count": 473,
+    "building_density_per_km2": 1898.99,
+    "cell_id": "G325"
+  },
+  {
+    "road_density": 59.3229,
+    "building_count": 313,
+    "building_density_per_km2": 1256.64,
+    "cell_id": "G326"
+  },
+  {
+    "road_density": 72.2624,
+    "building_count": 703,
+    "building_density_per_km2": 2822.43,
+    "cell_id": "G327"
+  },
+  {
+    "road_density": 57.0095,
+    "building_count": 213,
+    "building_density_per_km2": 855.16,
+    "cell_id": "G328"
+  },
+  {
+    "road_density": 31.3975,
+    "building_count": 292,
+    "building_density_per_km2": 1172.35,
+    "cell_id": "G329"
+  },
+  {
+    "road_density": 38.7206,
+    "building_count": 260,
+    "building_density_per_km2": 1043.66,
+    "cell_id": "G330"
+  },
+  {
+    "road_density": 21.9008,
+    "building_count": 32,
+    "building_density_per_km2": 128.48,
+    "cell_id": "G331"
+  },
+  {
+    "road_density": 32.45,
+    "building_count": 22,
+    "building_density_per_km2": 88.33,
+    "cell_id": "G332"
+  },
+  {
+    "road_density": 34.4148,
+    "building_count": 14,
+    "building_density_per_km2": 56.21,
+    "cell_id": "G333"
+  },
+  {
+    "road_density": 46.778,
+    "building_count": 91,
+    "building_density_per_km2": 365.29,
+    "cell_id": "G334"
+  },
+  {
+    "road_density": 37.7901,
+    "building_count": 135,
+    "building_density_per_km2": 541.92,
+    "cell_id": "G335"
+  },
+  {
+    "road_density": 55.3935,
+    "building_count": 61,
+    "building_density_per_km2": 244.87,
+    "cell_id": "G336"
+  },
+  {
+    "road_density": 44.9807,
+    "building_count": 169,
+    "building_density_per_km2": 678.28,
+    "cell_id": "G337"
+  },
+  {
+    "road_density": 19.7251,
+    "building_count": 163,
+    "building_density_per_km2": 654.34,
+    "cell_id": "G338"
+  },
+  {
+    "road_density": 28.7394,
+    "building_count": 194,
+    "building_density_per_km2": 778.78,
+    "cell_id": "G339"
+  },
+  {
+    "road_density": 30.5014,
+    "building_count": 242,
+    "building_density_per_km2": 971.48,
+    "cell_id": "G340"
+  },
+  {
+    "road_density": 15.3664,
+    "building_count": 59,
+    "building_density_per_km2": 236.85,
+    "cell_id": "G341"
+  },
+  {
+    "road_density": 16.3291,
+    "building_count": 20,
+    "building_density_per_km2": 80.29,
+    "cell_id": "G342"
+  },
+  {
+    "road_density": 25.5401,
+    "building_count": 144,
+    "building_density_per_km2": 577.96,
+    "cell_id": "G343"
+  },
+  {
+    "road_density": 47.5396,
+    "building_count": 338,
+    "building_density_per_km2": 1356.89,
+    "cell_id": "G344"
+  },
+  {
+    "road_density": 38.2042,
+    "building_count": 157,
+    "building_density_per_km2": 630.28,
+    "cell_id": "G345"
+  },
+  {
+    "road_density": 31.8135,
+    "building_count": 181,
+    "building_density_per_km2": 726.63,
+    "cell_id": "G346"
+  },
+  {
+    "road_density": 23.8776,
+    "building_count": 170,
+    "building_density_per_km2": 682.47,
+    "cell_id": "G347"
+  },
+  {
+    "road_density": 32.7102,
+    "building_count": 52,
+    "building_density_per_km2": 208.76,
+    "cell_id": "G348"
+  },
+  {
+    "road_density": 36.6689,
+    "building_count": 13,
+    "building_density_per_km2": 52.18,
+    "cell_id": "G349"
+  },
+  {
+    "road_density": 36.4449,
+    "building_count": 6,
+    "building_density_per_km2": 24.09,
+    "cell_id": "G350"
+  },
+  {
+    "road_density": 27.2284,
+    "building_count": 13,
+    "building_density_per_km2": 52.19,
+    "cell_id": "G351"
+  },
+  {
+    "road_density": 20.4069,
+    "building_count": 12,
+    "building_density_per_km2": 48.18,
+    "cell_id": "G352"
+  },
+  {
+    "road_density": 27.6809,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G353"
+  },
+  {
+    "road_density": 30.5791,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G354"
+  },
+  {
+    "road_density": 31.9562,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G355"
+  },
+  {
+    "road_density": 27.8892,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G356"
+  },
+  {
+    "road_density": 10.8499,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G357"
+  },
+  {
+    "road_density": 15.1479,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G358"
+  },
+  {
+    "road_density": 22.8087,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G359"
+  },
+  {
+    "road_density": 40.3265,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G360"
+  },
+  {
+    "road_density": 46.2224,
+    "building_count": 97,
+    "building_density_per_km2": 389.36,
+    "cell_id": "G361"
+  },
+  {
+    "road_density": 58.7404,
+    "building_count": 112,
+    "building_density_per_km2": 449.67,
+    "cell_id": "G362"
+  },
+  {
+    "road_density": 57.9687,
+    "building_count": 571,
+    "building_density_per_km2": 2292.53,
+    "cell_id": "G363"
+  },
+  {
+    "road_density": 51.9872,
+    "building_count": 163,
+    "building_density_per_km2": 654.44,
+    "cell_id": "G364"
+  },
+  {
+    "road_density": 44.5455,
+    "building_count": 108,
+    "building_density_per_km2": 433.62,
+    "cell_id": "G365"
+  },
+  {
+    "road_density": 44.9101,
+    "building_count": 321,
+    "building_density_per_km2": 1288.82,
+    "cell_id": "G366"
+  },
+  {
+    "road_density": 35.1895,
+    "building_count": 40,
+    "building_density_per_km2": 160.57,
+    "cell_id": "G367"
+  },
+  {
+    "road_density": 30.9184,
+    "building_count": 58,
+    "building_density_per_km2": 232.87,
+    "cell_id": "G368"
+  },
+  {
+    "road_density": 30.223,
+    "building_count": 33,
+    "building_density_per_km2": 132.5,
+    "cell_id": "G369"
+  },
+  {
+    "road_density": 27.041,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G370"
+  },
+  {
+    "road_density": 30.6508,
+    "building_count": 212,
+    "building_density_per_km2": 851.23,
+    "cell_id": "G371"
+  },
+  {
+    "road_density": 29.8891,
+    "building_count": 151,
+    "building_density_per_km2": 606.31,
+    "cell_id": "G372"
+  },
+  {
+    "road_density": 45.859,
+    "building_count": 263,
+    "building_density_per_km2": 1056.02,
+    "cell_id": "G373"
+  },
+  {
+    "road_density": 33.4491,
+    "building_count": 36,
+    "building_density_per_km2": 144.52,
+    "cell_id": "G374"
+  },
+  {
+    "road_density": 14.7333,
+    "building_count": 43,
+    "building_density_per_km2": 172.66,
+    "cell_id": "G375"
+  },
+  {
+    "road_density": 24.6757,
+    "building_count": 139,
+    "building_density_per_km2": 558.14,
+    "cell_id": "G376"
+  },
+  {
+    "road_density": 34.3053,
+    "building_count": 212,
+    "building_density_per_km2": 851.27,
+    "cell_id": "G377"
+  },
+  {
+    "road_density": 45.3564,
+    "building_count": 299,
+    "building_density_per_km2": 1200.61,
+    "cell_id": "G378"
+  },
+  {
+    "road_density": 38.2343,
+    "building_count": 145,
+    "building_density_per_km2": 582.24,
+    "cell_id": "G379"
+  },
+  {
+    "road_density": 31.4354,
+    "building_count": 211,
+    "building_density_per_km2": 847.09,
+    "cell_id": "G380"
+  },
+  {
+    "road_density": 33.2804,
+    "building_count": 45,
+    "building_density_per_km2": 180.7,
+    "cell_id": "G381"
+  },
+  {
+    "road_density": 42.7518,
+    "building_count": 47,
+    "building_density_per_km2": 188.73,
+    "cell_id": "G382"
+  },
+  {
+    "road_density": 32.7543,
+    "building_count": 207,
+    "building_density_per_km2": 831.22,
+    "cell_id": "G383"
+  },
+  {
+    "road_density": 40.7099,
+    "building_count": 275,
+    "building_density_per_km2": 1104.28,
+    "cell_id": "G384"
+  },
+  {
+    "road_density": 43.1193,
+    "building_count": 26,
+    "building_density_per_km2": 104.41,
+    "cell_id": "G385"
+  },
+  {
+    "road_density": 20.1748,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G386"
+  },
+  {
+    "road_density": 35.3523,
+    "building_count": 6,
+    "building_density_per_km2": 24.09,
+    "cell_id": "G387"
+  },
+  {
+    "road_density": 21.2172,
+    "building_count": 19,
+    "building_density_per_km2": 76.3,
+    "cell_id": "G388"
+  },
+  {
+    "road_density": 22.9847,
+    "building_count": 18,
+    "building_density_per_km2": 72.28,
+    "cell_id": "G389"
+  },
+  {
+    "road_density": 43.7517,
+    "building_count": 7,
+    "building_density_per_km2": 28.11,
+    "cell_id": "G390"
+  },
+  {
+    "road_density": 40.4023,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G391"
+  },
+  {
+    "road_density": 42.5904,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G392"
+  },
+  {
+    "road_density": 40.2199,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G393"
+  },
+  {
+    "road_density": 22.8299,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G394"
+  },
+  {
+    "road_density": 23.1298,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G395"
+  },
+  {
+    "road_density": 41.4293,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G396"
+  },
+  {
+    "road_density": 29.5791,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G397"
+  },
+  {
+    "road_density": 56.1447,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G398"
+  },
+  {
+    "road_density": 70.5803,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G399"
+  },
+  {
+    "road_density": 49.2482,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G400"
+  },
+  {
+    "road_density": 39.6903,
+    "building_count": 32,
+    "building_density_per_km2": 128.51,
+    "cell_id": "G401"
+  },
+  {
+    "road_density": 52.3773,
+    "building_count": 11,
+    "building_density_per_km2": 44.18,
+    "cell_id": "G402"
+  },
+  {
+    "road_density": 40.6904,
+    "building_count": 79,
+    "building_density_per_km2": 317.27,
+    "cell_id": "G403"
+  },
+  {
+    "road_density": 35.1276,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G404"
+  },
+  {
+    "road_density": 28.0693,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G405"
+  },
+  {
+    "road_density": 30.8166,
+    "building_count": 23,
+    "building_density_per_km2": 92.37,
+    "cell_id": "G406"
+  },
+  {
+    "road_density": 27.622,
+    "building_count": 84,
+    "building_density_per_km2": 337.36,
+    "cell_id": "G407"
+  },
+  {
+    "road_density": 21.7233,
+    "building_count": 117,
+    "building_density_per_km2": 469.7,
+    "cell_id": "G408"
+  },
+  {
+    "road_density": 41.4952,
+    "building_count": 199,
+    "building_density_per_km2": 798.89,
+    "cell_id": "G409"
+  },
+  {
+    "road_density": 31.1591,
+    "building_count": 329,
+    "building_density_per_km2": 1320.78,
+    "cell_id": "G410"
+  },
+  {
+    "road_density": 68.7981,
+    "building_count": 232,
+    "building_density_per_km2": 931.19,
+    "cell_id": "G411"
+  },
+  {
+    "road_density": 46.0699,
+    "building_count": 373,
+    "building_density_per_km2": 1497.44,
+    "cell_id": "G412"
+  },
+  {
+    "road_density": 40.7656,
+    "building_count": 301,
+    "building_density_per_km2": 1208.4,
+    "cell_id": "G413"
+  },
+  {
+    "road_density": 44.2574,
+    "building_count": 324,
+    "building_density_per_km2": 1300.74,
+    "cell_id": "G414"
+  },
+  {
+    "road_density": 34.6687,
+    "building_count": 313,
+    "building_density_per_km2": 1256.59,
+    "cell_id": "G415"
+  },
+  {
+    "road_density": 30.8657,
+    "building_count": 200,
+    "building_density_per_km2": 802.94,
+    "cell_id": "G416"
+  },
+  {
+    "road_density": 33.2358,
+    "building_count": 81,
+    "building_density_per_km2": 325.13,
+    "cell_id": "G417"
+  },
+  {
+    "road_density": 45.7803,
+    "building_count": 61,
+    "building_density_per_km2": 244.9,
+    "cell_id": "G418"
+  },
+  {
+    "road_density": 37.5997,
+    "building_count": 23,
+    "building_density_per_km2": 92.34,
+    "cell_id": "G419"
+  },
+  {
+    "road_density": 51.2953,
+    "building_count": 114,
+    "building_density_per_km2": 457.69,
+    "cell_id": "G420"
+  },
+  {
+    "road_density": 44.7632,
+    "building_count": 125,
+    "building_density_per_km2": 501.85,
+    "cell_id": "G421"
+  },
+  {
+    "road_density": 44.6575,
+    "building_count": 18,
+    "building_density_per_km2": 72.27,
+    "cell_id": "G422"
+  },
+  {
+    "road_density": 33.0195,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G423"
+  },
+  {
+    "road_density": 30.6968,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G424"
+  },
+  {
+    "road_density": 21.8165,
+    "building_count": 30,
+    "building_density_per_km2": 120.45,
+    "cell_id": "G425"
+  },
+  {
+    "road_density": 39.3806,
+    "building_count": 21,
+    "building_density_per_km2": 84.31,
+    "cell_id": "G426"
+  },
+  {
+    "road_density": 41.5846,
+    "building_count": 42,
+    "building_density_per_km2": 168.63,
+    "cell_id": "G427"
+  },
+  {
+    "road_density": 32.205,
+    "building_count": 7,
+    "building_density_per_km2": 28.1,
+    "cell_id": "G428"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 23,
+    "building_density_per_km2": 92.33,
+    "cell_id": "G429"
+  },
+  {
+    "road_density": 28.0082,
+    "building_count": 24,
+    "building_density_per_km2": 96.36,
+    "cell_id": "G430"
+  },
+  {
+    "road_density": 39.4762,
+    "building_count": 28,
+    "building_density_per_km2": 112.42,
+    "cell_id": "G431"
+  },
+  {
+    "road_density": 36.6634,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G432"
+  },
+  {
+    "road_density": 43.371,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G433"
+  },
+  {
+    "road_density": 24.9442,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G434"
+  },
+  {
+    "road_density": 43.1594,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G435"
+  },
+  {
+    "road_density": 61.3568,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G436"
+  },
+  {
+    "road_density": 49.8282,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G437"
+  },
+  {
+    "road_density": 35.8144,
+    "building_count": 13,
+    "building_density_per_km2": 52.2,
+    "cell_id": "G438"
+  },
+  {
+    "road_density": 87.3958,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G439"
+  },
+  {
+    "road_density": 69.1423,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G440"
+  },
+  {
+    "road_density": 22.352,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G441"
+  },
+  {
+    "road_density": 28.9117,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G442"
+  },
+  {
+    "road_density": 25.2213,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G443"
+  },
+  {
+    "road_density": 21.5502,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G444"
+  },
+  {
+    "road_density": 36.7362,
+    "building_count": 173,
+    "building_density_per_km2": 694.68,
+    "cell_id": "G445"
+  },
+  {
+    "road_density": 18.4326,
+    "building_count": 192,
+    "building_density_per_km2": 770.98,
+    "cell_id": "G446"
+  },
+  {
+    "road_density": 28.7992,
+    "building_count": 239,
+    "building_density_per_km2": 959.72,
+    "cell_id": "G447"
+  },
+  {
+    "road_density": 44.7086,
+    "building_count": 96,
+    "building_density_per_km2": 385.42,
+    "cell_id": "G448"
+  },
+  {
+    "road_density": 44.4599,
+    "building_count": 174,
+    "building_density_per_km2": 698.72,
+    "cell_id": "G449"
+  },
+  {
+    "road_density": 37.1204,
+    "building_count": 282,
+    "building_density_per_km2": 1132.41,
+    "cell_id": "G450"
+  },
+  {
+    "road_density": 50.8787,
+    "building_count": 454,
+    "building_density_per_km2": 1823.11,
+    "cell_id": "G451"
+  },
+  {
+    "road_density": 29.8485,
+    "building_count": 264,
+    "building_density_per_km2": 1060.14,
+    "cell_id": "G452"
+  },
+  {
+    "road_density": 68.8559,
+    "building_count": 136,
+    "building_density_per_km2": 546.14,
+    "cell_id": "G453"
+  },
+  {
+    "road_density": 72.109,
+    "building_count": 31,
+    "building_density_per_km2": 124.46,
+    "cell_id": "G454"
+  },
+  {
+    "road_density": 29.1969,
+    "building_count": 54,
+    "building_density_per_km2": 216.85,
+    "cell_id": "G455"
+  },
+  {
+    "road_density": 36.9216,
+    "building_count": 22,
+    "building_density_per_km2": 88.35,
+    "cell_id": "G456"
+  },
+  {
+    "road_density": 44.8943,
+    "building_count": 20,
+    "building_density_per_km2": 80.32,
+    "cell_id": "G457"
+  },
+  {
+    "road_density": 53.4877,
+    "building_count": 21,
+    "building_density_per_km2": 84.33,
+    "cell_id": "G458"
+  },
+  {
+    "road_density": 40.1342,
+    "building_count": 12,
+    "building_density_per_km2": 48.19,
+    "cell_id": "G459"
+  },
+  {
+    "road_density": 26.0748,
+    "building_count": 14,
+    "building_density_per_km2": 56.21,
+    "cell_id": "G460"
+  },
+  {
+    "road_density": 15.9974,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G461"
+  },
+  {
+    "road_density": 28.4421,
+    "building_count": 13,
+    "building_density_per_km2": 52.21,
+    "cell_id": "G462"
+  },
+  {
+    "road_density": 23.1205,
+    "building_count": 28,
+    "building_density_per_km2": 112.45,
+    "cell_id": "G463"
+  },
+  {
+    "road_density": 41.21,
+    "building_count": 57,
+    "building_density_per_km2": 228.91,
+    "cell_id": "G464"
+  },
+  {
+    "road_density": 41.5794,
+    "building_count": 45,
+    "building_density_per_km2": 180.72,
+    "cell_id": "G465"
+  },
+  {
+    "road_density": 27.4782,
+    "building_count": 17,
+    "building_density_per_km2": 68.26,
+    "cell_id": "G466"
+  },
+  {
+    "road_density": 14.5358,
+    "building_count": 58,
+    "building_density_per_km2": 232.93,
+    "cell_id": "G467"
+  },
+  {
+    "road_density": 16.6245,
+    "building_count": 41,
+    "building_density_per_km2": 164.66,
+    "cell_id": "G468"
+  },
+  {
+    "road_density": 47.6944,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G469"
+  },
+  {
+    "road_density": 45.3697,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G470"
+  },
+  {
+    "road_density": 46.3603,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G471"
+  },
+  {
+    "road_density": 36.4919,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G472"
+  },
+  {
+    "road_density": 48.9418,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G473"
+  },
+  {
+    "road_density": 71.2263,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G474"
+  },
+  {
+    "road_density": 40.4129,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G475"
+  },
+  {
+    "road_density": 74.8223,
+    "building_count": 25,
+    "building_density_per_km2": 100.41,
+    "cell_id": "G476"
+  },
+  {
+    "road_density": 52.9122,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G477"
+  },
+  {
+    "road_density": 26.633,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G478"
+  },
+  {
+    "road_density": 21.1921,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G479"
+  },
+  {
+    "road_density": 36.6447,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G480"
+  },
+  {
+    "road_density": 29.2595,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G481"
+  },
+  {
+    "road_density": 22.5447,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G482"
+  },
+  {
+    "road_density": 16.1055,
+    "building_count": 14,
+    "building_density_per_km2": 56.21,
+    "cell_id": "G483"
+  },
+  {
+    "road_density": 35.9541,
+    "building_count": 167,
+    "building_density_per_km2": 670.47,
+    "cell_id": "G484"
+  },
+  {
+    "road_density": 34.1863,
+    "building_count": 114,
+    "building_density_per_km2": 457.6,
+    "cell_id": "G485"
+  },
+  {
+    "road_density": 62.3772,
+    "building_count": 48,
+    "building_density_per_km2": 192.71,
+    "cell_id": "G486"
+  },
+  {
+    "road_density": 36.3686,
+    "building_count": 218,
+    "building_density_per_km2": 875.24,
+    "cell_id": "G487"
+  },
+  {
+    "road_density": 32.2692,
+    "building_count": 159,
+    "building_density_per_km2": 638.37,
+    "cell_id": "G488"
+  },
+  {
+    "road_density": 51.0152,
+    "building_count": 58,
+    "building_density_per_km2": 232.87,
+    "cell_id": "G489"
+  },
+  {
+    "road_density": 28.4602,
+    "building_count": 70,
+    "building_density_per_km2": 281.05,
+    "cell_id": "G490"
+  },
+  {
+    "road_density": 30.3879,
+    "building_count": 11,
+    "building_density_per_km2": 44.16,
+    "cell_id": "G491"
+  },
+  {
+    "road_density": 52.5241,
+    "building_count": 32,
+    "building_density_per_km2": 128.48,
+    "cell_id": "G492"
+  },
+  {
+    "road_density": 53.1124,
+    "building_count": 74,
+    "building_density_per_km2": 297.11,
+    "cell_id": "G493"
+  },
+  {
+    "road_density": 39.3956,
+    "building_count": 333,
+    "building_density_per_km2": 1337.01,
+    "cell_id": "G494"
+  },
+  {
+    "road_density": 42.8061,
+    "building_count": 110,
+    "building_density_per_km2": 441.66,
+    "cell_id": "G495"
+  },
+  {
+    "road_density": 30.3542,
+    "building_count": 86,
+    "building_density_per_km2": 345.3,
+    "cell_id": "G496"
+  },
+  {
+    "road_density": 8.8634,
+    "building_count": 26,
+    "building_density_per_km2": 104.37,
+    "cell_id": "G497"
+  },
+  {
+    "road_density": 17.986,
+    "building_count": 27,
+    "building_density_per_km2": 108.41,
+    "cell_id": "G498"
+  },
+  {
+    "road_density": 26.5334,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G499"
+  },
+  {
+    "road_density": 23.7434,
+    "building_count": 22,
+    "building_density_per_km2": 88.33,
+    "cell_id": "G500"
+  },
+  {
+    "road_density": 39.1342,
+    "building_count": 30,
+    "building_density_per_km2": 120.46,
+    "cell_id": "G501"
+  },
+  {
+    "road_density": 26.7199,
+    "building_count": 22,
+    "building_density_per_km2": 88.34,
+    "cell_id": "G502"
+  },
+  {
+    "road_density": 25.8595,
+    "building_count": 20,
+    "building_density_per_km2": 80.29,
+    "cell_id": "G503"
+  },
+  {
+    "road_density": 15.1351,
+    "building_count": 14,
+    "building_density_per_km2": 56.21,
+    "cell_id": "G504"
+  },
+  {
+    "road_density": 38.2757,
+    "building_count": 18,
+    "building_density_per_km2": 72.28,
+    "cell_id": "G505"
+  },
+  {
+    "road_density": 32.0671,
+    "building_count": 9,
+    "building_density_per_km2": 36.14,
+    "cell_id": "G506"
+  },
+  {
+    "road_density": 19.4441,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G507"
+  },
+  {
+    "road_density": 59.3083,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G508"
+  },
+  {
+    "road_density": 39.8509,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G509"
+  },
+  {
+    "road_density": 39.807,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G510"
+  },
+  {
+    "road_density": 39.3796,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G511"
+  },
+  {
+    "road_density": 35.5222,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G512"
+  },
+  {
+    "road_density": 52.7971,
+    "building_count": 52,
+    "building_density_per_km2": 208.81,
+    "cell_id": "G513"
+  },
+  {
+    "road_density": 38.7356,
+    "building_count": 29,
+    "building_density_per_km2": 116.45,
+    "cell_id": "G514"
+  },
+  {
+    "road_density": 30.6872,
+    "building_count": 3,
+    "building_density_per_km2": 12.04,
+    "cell_id": "G515"
+  },
+  {
+    "road_density": 21.1301,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G516"
+  },
+  {
+    "road_density": 21.1105,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G517"
+  },
+  {
+    "road_density": 23.5803,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G518"
+  },
+  {
+    "road_density": 26.3327,
+    "building_count": 40,
+    "building_density_per_km2": 160.63,
+    "cell_id": "G519"
+  },
+  {
+    "road_density": 23.5014,
+    "building_count": 33,
+    "building_density_per_km2": 132.52,
+    "cell_id": "G520"
+  },
+  {
+    "road_density": 21.345,
+    "building_count": 188,
+    "building_density_per_km2": 754.98,
+    "cell_id": "G521"
+  },
+  {
+    "road_density": 45.9967,
+    "building_count": 202,
+    "building_density_per_km2": 811.04,
+    "cell_id": "G522"
+  },
+  {
+    "road_density": 54.493,
+    "building_count": 174,
+    "building_density_per_km2": 698.76,
+    "cell_id": "G523"
+  },
+  {
+    "road_density": 47.7192,
+    "building_count": 193,
+    "building_density_per_km2": 775.07,
+    "cell_id": "G524"
+  },
+  {
+    "road_density": 47.1394,
+    "building_count": 10,
+    "building_density_per_km2": 40.16,
+    "cell_id": "G525"
+  },
+  {
+    "road_density": 47.3848,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G526"
+  },
+  {
+    "road_density": 44.6362,
+    "building_count": 17,
+    "building_density_per_km2": 68.27,
+    "cell_id": "G527"
+  },
+  {
+    "road_density": 43.0576,
+    "building_count": 37,
+    "building_density_per_km2": 148.56,
+    "cell_id": "G528"
+  },
+  {
+    "road_density": 52.2021,
+    "building_count": 69,
+    "building_density_per_km2": 277.11,
+    "cell_id": "G529"
+  },
+  {
+    "road_density": 57.176,
+    "building_count": 161,
+    "building_density_per_km2": 646.58,
+    "cell_id": "G530"
+  },
+  {
+    "road_density": 57.934,
+    "building_count": 429,
+    "building_density_per_km2": 1722.9,
+    "cell_id": "G531"
+  },
+  {
+    "road_density": 41.7137,
+    "building_count": 420,
+    "building_density_per_km2": 1686.76,
+    "cell_id": "G532"
+  },
+  {
+    "road_density": 29.0479,
+    "building_count": 333,
+    "building_density_per_km2": 1337.37,
+    "cell_id": "G533"
+  },
+  {
+    "road_density": 15.4795,
+    "building_count": 22,
+    "building_density_per_km2": 88.34,
+    "cell_id": "G534"
+  },
+  {
+    "road_density": 24.4853,
+    "building_count": 187,
+    "building_density_per_km2": 751.03,
+    "cell_id": "G535"
+  },
+  {
+    "road_density": 41.801,
+    "building_count": 165,
+    "building_density_per_km2": 662.67,
+    "cell_id": "G536"
+  },
+  {
+    "road_density": 15.3633,
+    "building_count": 27,
+    "building_density_per_km2": 108.44,
+    "cell_id": "G537"
+  },
+  {
+    "road_density": 21.9507,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G538"
+  },
+  {
+    "road_density": 16.6146,
+    "building_count": 18,
+    "building_density_per_km2": 72.29,
+    "cell_id": "G539"
+  },
+  {
+    "road_density": 35.2181,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G540"
+  },
+  {
+    "road_density": 27.9055,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G541"
+  },
+  {
+    "road_density": 22.3909,
+    "building_count": 11,
+    "building_density_per_km2": 44.18,
+    "cell_id": "G542"
+  },
+  {
+    "road_density": 13.0873,
+    "building_count": 10,
+    "building_density_per_km2": 40.16,
+    "cell_id": "G543"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G544"
+  },
+  {
+    "road_density": 22.2097,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G545"
+  },
+  {
+    "road_density": 59.0074,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G546"
+  },
+  {
+    "road_density": 52.6602,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G547"
+  },
+  {
+    "road_density": 48.5679,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G548"
+  },
+  {
+    "road_density": 38.4311,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G549"
+  },
+  {
+    "road_density": 48.1652,
+    "building_count": 18,
+    "building_density_per_km2": 72.3,
+    "cell_id": "G550"
+  },
+  {
+    "road_density": 69.0896,
+    "building_count": 13,
+    "building_density_per_km2": 52.22,
+    "cell_id": "G551"
+  },
+  {
+    "road_density": 66.9795,
+    "building_count": 8,
+    "building_density_per_km2": 32.13,
+    "cell_id": "G552"
+  },
+  {
+    "road_density": 45.8014,
+    "building_count": 75,
+    "building_density_per_km2": 301.25,
+    "cell_id": "G553"
+  },
+  {
+    "road_density": 21.4036,
+    "building_count": 113,
+    "building_density_per_km2": 453.88,
+    "cell_id": "G554"
+  },
+  {
+    "road_density": 19.0288,
+    "building_count": 39,
+    "building_density_per_km2": 156.65,
+    "cell_id": "G555"
+  },
+  {
+    "road_density": 27.0955,
+    "building_count": 22,
+    "building_density_per_km2": 88.33,
+    "cell_id": "G556"
+  },
+  {
+    "road_density": 32.567,
+    "building_count": 110,
+    "building_density_per_km2": 441.65,
+    "cell_id": "G557"
+  },
+  {
+    "road_density": 31.5645,
+    "building_count": 225,
+    "building_density_per_km2": 903.39,
+    "cell_id": "G558"
+  },
+  {
+    "road_density": 29.2736,
+    "building_count": 218,
+    "building_density_per_km2": 875.11,
+    "cell_id": "G559"
+  },
+  {
+    "road_density": 75.4959,
+    "building_count": 145,
+    "building_density_per_km2": 582.19,
+    "cell_id": "G560"
+  },
+  {
+    "road_density": 40.8413,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G561"
+  },
+  {
+    "road_density": 53.3581,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G562"
+  },
+  {
+    "road_density": 41.4142,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G563"
+  },
+  {
+    "road_density": 56.1878,
+    "building_count": 16,
+    "building_density_per_km2": 64.24,
+    "cell_id": "G564"
+  },
+  {
+    "road_density": 57.5091,
+    "building_count": 26,
+    "building_density_per_km2": 104.37,
+    "cell_id": "G565"
+  },
+  {
+    "road_density": 51.9011,
+    "building_count": 87,
+    "building_density_per_km2": 349.33,
+    "cell_id": "G566"
+  },
+  {
+    "road_density": 40.7135,
+    "building_count": 64,
+    "building_density_per_km2": 256.98,
+    "cell_id": "G567"
+  },
+  {
+    "road_density": 44.1631,
+    "building_count": 235,
+    "building_density_per_km2": 943.6,
+    "cell_id": "G568"
+  },
+  {
+    "road_density": 50.273,
+    "building_count": 215,
+    "building_density_per_km2": 863.3,
+    "cell_id": "G569"
+  },
+  {
+    "road_density": 41.1382,
+    "building_count": 311,
+    "building_density_per_km2": 1248.78,
+    "cell_id": "G570"
+  },
+  {
+    "road_density": 34.9234,
+    "building_count": 313,
+    "building_density_per_km2": 1256.56,
+    "cell_id": "G571"
+  },
+  {
+    "road_density": 21.141,
+    "building_count": 83,
+    "building_density_per_km2": 333.28,
+    "cell_id": "G572"
+  },
+  {
+    "road_density": 31.9017,
+    "building_count": 327,
+    "building_density_per_km2": 1313.05,
+    "cell_id": "G573"
+  },
+  {
+    "road_density": 43.0559,
+    "building_count": 85,
+    "building_density_per_km2": 341.31,
+    "cell_id": "G574"
+  },
+  {
+    "road_density": 9.7247,
+    "building_count": 47,
+    "building_density_per_km2": 188.73,
+    "cell_id": "G575"
+  },
+  {
+    "road_density": 6.9085,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G576"
+  },
+  {
+    "road_density": 29.589,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G577"
+  },
+  {
+    "road_density": 31.7108,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G578"
+  },
+  {
+    "road_density": 22.6126,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G579"
+  },
+  {
+    "road_density": 1.5203,
+    "building_count": 35,
+    "building_density_per_km2": 140.55,
+    "cell_id": "G580"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G581"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G582"
+  },
+  {
+    "road_density": 60.9837,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G583"
+  },
+  {
+    "road_density": 57.0745,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G584"
+  },
+  {
+    "road_density": 46.902,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G585"
+  },
+  {
+    "road_density": 60.1811,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G586"
+  },
+  {
+    "road_density": 46.3544,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G587"
+  },
+  {
+    "road_density": 58.541,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G588"
+  },
+  {
+    "road_density": 57.5717,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G589"
+  },
+  {
+    "road_density": 82.4149,
+    "building_count": 24,
+    "building_density_per_km2": 96.38,
+    "cell_id": "G590"
+  },
+  {
+    "road_density": 40.8259,
+    "building_count": 120,
+    "building_density_per_km2": 481.9,
+    "cell_id": "G591"
+  },
+  {
+    "road_density": 25.4564,
+    "building_count": 17,
+    "building_density_per_km2": 68.27,
+    "cell_id": "G592"
+  },
+  {
+    "road_density": 34.5964,
+    "building_count": 102,
+    "building_density_per_km2": 409.64,
+    "cell_id": "G593"
+  },
+  {
+    "road_density": 21.9318,
+    "building_count": 218,
+    "building_density_per_km2": 875.5,
+    "cell_id": "G594"
+  },
+  {
+    "road_density": 29.8884,
+    "building_count": 174,
+    "building_density_per_km2": 698.8,
+    "cell_id": "G595"
+  },
+  {
+    "road_density": 28.5231,
+    "building_count": 163,
+    "building_density_per_km2": 654.49,
+    "cell_id": "G596"
+  },
+  {
+    "road_density": 54.9082,
+    "building_count": 76,
+    "building_density_per_km2": 305.23,
+    "cell_id": "G597"
+  },
+  {
+    "road_density": 51.0601,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G598"
+  },
+  {
+    "road_density": 48.6812,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G599"
+  },
+  {
+    "road_density": 56.3278,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G600"
+  },
+  {
+    "road_density": 45.1269,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G601"
+  },
+  {
+    "road_density": 55.0112,
+    "building_count": 36,
+    "building_density_per_km2": 144.56,
+    "cell_id": "G602"
+  },
+  {
+    "road_density": 65.9841,
+    "building_count": 32,
+    "building_density_per_km2": 128.52,
+    "cell_id": "G603"
+  },
+  {
+    "road_density": 48.6149,
+    "building_count": 24,
+    "building_density_per_km2": 96.39,
+    "cell_id": "G604"
+  },
+  {
+    "road_density": 57.2464,
+    "building_count": 69,
+    "building_density_per_km2": 277.13,
+    "cell_id": "G605"
+  },
+  {
+    "road_density": 50.0024,
+    "building_count": 55,
+    "building_density_per_km2": 220.9,
+    "cell_id": "G606"
+  },
+  {
+    "road_density": 42.1975,
+    "building_count": 61,
+    "building_density_per_km2": 245.0,
+    "cell_id": "G607"
+  },
+  {
+    "road_density": 43.1113,
+    "building_count": 174,
+    "building_density_per_km2": 698.71,
+    "cell_id": "G608"
+  },
+  {
+    "road_density": 15.769,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G609"
+  },
+  {
+    "road_density": 27.5276,
+    "building_count": 10,
+    "building_density_per_km2": 40.16,
+    "cell_id": "G610"
+  },
+  {
+    "road_density": 49.0976,
+    "building_count": 70,
+    "building_density_per_km2": 281.15,
+    "cell_id": "G611"
+  },
+  {
+    "road_density": 13.195,
+    "building_count": 137,
+    "building_density_per_km2": 550.26,
+    "cell_id": "G612"
+  },
+  {
+    "road_density": 2.605,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G613"
+  },
+  {
+    "road_density": 39.9013,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G614"
+  },
+  {
+    "road_density": 26.5213,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G615"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 16,
+    "building_density_per_km2": 64.27,
+    "cell_id": "G616"
+  },
+  {
+    "road_density": 16.0338,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G617"
+  },
+  {
+    "road_density": 3.5507,
+    "building_count": 8,
+    "building_density_per_km2": 32.13,
+    "cell_id": "G618"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G619"
+  },
+  {
+    "road_density": 26.8378,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G620"
+  },
+  {
+    "road_density": 70.6115,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G621"
+  },
+  {
+    "road_density": 44.3264,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G622"
+  },
+  {
+    "road_density": 55.7141,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G623"
+  },
+  {
+    "road_density": 50.4148,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G624"
+  },
+  {
+    "road_density": 33.3898,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G625"
+  },
+  {
+    "road_density": 58.4201,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G626"
+  },
+  {
+    "road_density": 64.7246,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G627"
+  },
+  {
+    "road_density": 36.8589,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G628"
+  },
+  {
+    "road_density": 28.4898,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G629"
+  },
+  {
+    "road_density": 30.7087,
+    "building_count": 56,
+    "building_density_per_km2": 224.86,
+    "cell_id": "G630"
+  },
+  {
+    "road_density": 48.2586,
+    "building_count": 116,
+    "building_density_per_km2": 465.78,
+    "cell_id": "G631"
+  },
+  {
+    "road_density": 47.2601,
+    "building_count": 69,
+    "building_density_per_km2": 277.06,
+    "cell_id": "G632"
+  },
+  {
+    "road_density": 32.5276,
+    "building_count": 98,
+    "building_density_per_km2": 393.42,
+    "cell_id": "G633"
+  },
+  {
+    "road_density": 43.1017,
+    "building_count": 66,
+    "building_density_per_km2": 265.01,
+    "cell_id": "G634"
+  },
+  {
+    "road_density": 56.2951,
+    "building_count": 90,
+    "building_density_per_km2": 361.39,
+    "cell_id": "G635"
+  },
+  {
+    "road_density": 42.2966,
+    "building_count": 175,
+    "building_density_per_km2": 702.7,
+    "cell_id": "G636"
+  },
+  {
+    "road_density": 56.2615,
+    "building_count": 93,
+    "building_density_per_km2": 373.44,
+    "cell_id": "G637"
+  },
+  {
+    "road_density": 50.0511,
+    "building_count": 14,
+    "building_density_per_km2": 56.22,
+    "cell_id": "G638"
+  },
+  {
+    "road_density": 47.336,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G639"
+  },
+  {
+    "road_density": 49.9482,
+    "building_count": 13,
+    "building_density_per_km2": 52.2,
+    "cell_id": "G640"
+  },
+  {
+    "road_density": 53.9396,
+    "building_count": 69,
+    "building_density_per_km2": 277.07,
+    "cell_id": "G641"
+  },
+  {
+    "road_density": 47.2574,
+    "building_count": 109,
+    "building_density_per_km2": 437.7,
+    "cell_id": "G642"
+  },
+  {
+    "road_density": 51.7535,
+    "building_count": 35,
+    "building_density_per_km2": 140.55,
+    "cell_id": "G643"
+  },
+  {
+    "road_density": 65.5759,
+    "building_count": 29,
+    "building_density_per_km2": 116.45,
+    "cell_id": "G644"
+  },
+  {
+    "road_density": 62.0862,
+    "building_count": 57,
+    "building_density_per_km2": 228.85,
+    "cell_id": "G645"
+  },
+  {
+    "road_density": 17.2169,
+    "building_count": 20,
+    "building_density_per_km2": 80.31,
+    "cell_id": "G646"
+  },
+  {
+    "road_density": 41.3382,
+    "building_count": 19,
+    "building_density_per_km2": 76.3,
+    "cell_id": "G647"
+  },
+  {
+    "road_density": 52.818,
+    "building_count": 270,
+    "building_density_per_km2": 1084.25,
+    "cell_id": "G648"
+  },
+  {
+    "road_density": 30.8352,
+    "building_count": 295,
+    "building_density_per_km2": 1184.65,
+    "cell_id": "G649"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G650"
+  },
+  {
+    "road_density": 2.2215,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G651"
+  },
+  {
+    "road_density": 26.1629,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G652"
+  },
+  {
+    "road_density": 16.6088,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G653"
+  },
+  {
+    "road_density": 26.2139,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G654"
+  },
+  {
+    "road_density": 28.9543,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G655"
+  },
+  {
+    "road_density": 22.9729,
+    "building_count": 7,
+    "building_density_per_km2": 28.11,
+    "cell_id": "G656"
+  },
+  {
+    "road_density": 22.0696,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G657"
+  },
+  {
+    "road_density": 45.7528,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G658"
+  },
+  {
+    "road_density": 61.0139,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G659"
+  },
+  {
+    "road_density": 38.7968,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G660"
+  },
+  {
+    "road_density": 59.5486,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G661"
+  },
+  {
+    "road_density": 24.5918,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G662"
+  },
+  {
+    "road_density": 32.266,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G663"
+  },
+  {
+    "road_density": 38.7478,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G664"
+  },
+  {
+    "road_density": 29.4691,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G665"
+  },
+  {
+    "road_density": 28.1711,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G666"
+  },
+  {
+    "road_density": 35.9364,
+    "building_count": 96,
+    "building_density_per_km2": 385.48,
+    "cell_id": "G667"
+  },
+  {
+    "road_density": 22.3411,
+    "building_count": 30,
+    "building_density_per_km2": 120.46,
+    "cell_id": "G668"
+  },
+  {
+    "road_density": 27.2268,
+    "building_count": 7,
+    "building_density_per_km2": 28.11,
+    "cell_id": "G669"
+  },
+  {
+    "road_density": 24.6002,
+    "building_count": 58,
+    "building_density_per_km2": 232.85,
+    "cell_id": "G670"
+  },
+  {
+    "road_density": 36.9365,
+    "building_count": 111,
+    "building_density_per_km2": 445.72,
+    "cell_id": "G671"
+  },
+  {
+    "road_density": 48.7494,
+    "building_count": 71,
+    "building_density_per_km2": 285.1,
+    "cell_id": "G672"
+  },
+  {
+    "road_density": 23.1509,
+    "building_count": 49,
+    "building_density_per_km2": 196.76,
+    "cell_id": "G673"
+  },
+  {
+    "road_density": 36.852,
+    "building_count": 55,
+    "building_density_per_km2": 220.86,
+    "cell_id": "G674"
+  },
+  {
+    "road_density": 40.303,
+    "building_count": 31,
+    "building_density_per_km2": 124.48,
+    "cell_id": "G675"
+  },
+  {
+    "road_density": 40.4281,
+    "building_count": 1,
+    "building_density_per_km2": 4.01,
+    "cell_id": "G676"
+  },
+  {
+    "road_density": 43.2723,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G677"
+  },
+  {
+    "road_density": 47.8846,
+    "building_count": 7,
+    "building_density_per_km2": 28.11,
+    "cell_id": "G678"
+  },
+  {
+    "road_density": 45.2624,
+    "building_count": 71,
+    "building_density_per_km2": 285.12,
+    "cell_id": "G679"
+  },
+  {
+    "road_density": 56.8902,
+    "building_count": 145,
+    "building_density_per_km2": 582.28,
+    "cell_id": "G680"
+  },
+  {
+    "road_density": 56.9282,
+    "building_count": 43,
+    "building_density_per_km2": 172.68,
+    "cell_id": "G681"
+  },
+  {
+    "road_density": 48.4507,
+    "building_count": 69,
+    "building_density_per_km2": 277.03,
+    "cell_id": "G682"
+  },
+  {
+    "road_density": 42.8869,
+    "building_count": 16,
+    "building_density_per_km2": 64.25,
+    "cell_id": "G683"
+  },
+  {
+    "road_density": 56.0588,
+    "building_count": 10,
+    "building_density_per_km2": 40.16,
+    "cell_id": "G684"
+  },
+  {
+    "road_density": 65.6181,
+    "building_count": 238,
+    "building_density_per_km2": 955.77,
+    "cell_id": "G685"
+  },
+  {
+    "road_density": 52.7541,
+    "building_count": 289,
+    "building_density_per_km2": 1160.59,
+    "cell_id": "G686"
+  },
+  {
+    "road_density": 2.3304,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G687"
+  },
+  {
+    "road_density": 12.9527,
+    "building_count": 19,
+    "building_density_per_km2": 76.29,
+    "cell_id": "G688"
+  },
+  {
+    "road_density": 17.9742,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G689"
+  },
+  {
+    "road_density": 42.4229,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G690"
+  },
+  {
+    "road_density": 61.5356,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G691"
+  },
+  {
+    "road_density": 78.7978,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G692"
+  },
+  {
+    "road_density": 47.864,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G693"
+  },
+  {
+    "road_density": 82.1461,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G694"
+  },
+  {
+    "road_density": 11.5538,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G695"
+  },
+  {
+    "road_density": 30.2542,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G696"
+  },
+  {
+    "road_density": 40.5616,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G697"
+  },
+  {
+    "road_density": 69.4534,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G698"
+  },
+  {
+    "road_density": 38.98,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G699"
+  },
+  {
+    "road_density": 37.547,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G700"
+  },
+  {
+    "road_density": 30.5439,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G701"
+  },
+  {
+    "road_density": 24.4614,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G702"
+  },
+  {
+    "road_density": 38.7375,
+    "building_count": 33,
+    "building_density_per_km2": 132.54,
+    "cell_id": "G703"
+  },
+  {
+    "road_density": 29.1046,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G704"
+  },
+  {
+    "road_density": 10.0575,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G705"
+  },
+  {
+    "road_density": 9.4251,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G706"
+  },
+  {
+    "road_density": 23.8984,
+    "building_count": 26,
+    "building_density_per_km2": 104.41,
+    "cell_id": "G707"
+  },
+  {
+    "road_density": 29.2778,
+    "building_count": 80,
+    "building_density_per_km2": 321.32,
+    "cell_id": "G708"
+  },
+  {
+    "road_density": 53.8903,
+    "building_count": 48,
+    "building_density_per_km2": 192.79,
+    "cell_id": "G709"
+  },
+  {
+    "road_density": 34.315,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G710"
+  },
+  {
+    "road_density": 23.5041,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G711"
+  },
+  {
+    "road_density": 41.6732,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G712"
+  },
+  {
+    "road_density": 36.2439,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G713"
+  },
+  {
+    "road_density": 60.0953,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G714"
+  },
+  {
+    "road_density": 50.2128,
+    "building_count": 77,
+    "building_density_per_km2": 309.29,
+    "cell_id": "G715"
+  },
+  {
+    "road_density": 41.4303,
+    "building_count": 122,
+    "building_density_per_km2": 490.04,
+    "cell_id": "G716"
+  },
+  {
+    "road_density": 39.2847,
+    "building_count": 85,
+    "building_density_per_km2": 341.42,
+    "cell_id": "G717"
+  },
+  {
+    "road_density": 15.9845,
+    "building_count": 49,
+    "building_density_per_km2": 196.82,
+    "cell_id": "G718"
+  },
+  {
+    "road_density": 14.2712,
+    "building_count": 9,
+    "building_density_per_km2": 36.14,
+    "cell_id": "G719"
+  },
+  {
+    "road_density": 35.6849,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G720"
+  },
+  {
+    "road_density": 54.1199,
+    "building_count": 51,
+    "building_density_per_km2": 204.86,
+    "cell_id": "G721"
+  },
+  {
+    "road_density": 59.7615,
+    "building_count": 333,
+    "building_density_per_km2": 1337.62,
+    "cell_id": "G722"
+  },
+  {
+    "road_density": 46.207,
+    "building_count": 49,
+    "building_density_per_km2": 196.83,
+    "cell_id": "G723"
+  },
+  {
+    "road_density": 7.6833,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G724"
+  },
+  {
+    "road_density": 13.7707,
+    "building_count": 17,
+    "building_density_per_km2": 68.27,
+    "cell_id": "G725"
+  },
+  {
+    "road_density": 7.0347,
+    "building_count": 49,
+    "building_density_per_km2": 196.83,
+    "cell_id": "G726"
+  },
+  {
+    "road_density": 22.562,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G727"
+  },
+  {
+    "road_density": 39.9147,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G728"
+  },
+  {
+    "road_density": 34.8885,
+    "building_count": 16,
+    "building_density_per_km2": 64.27,
+    "cell_id": "G729"
+  },
+  {
+    "road_density": 32.6956,
+    "building_count": 64,
+    "building_density_per_km2": 257.09,
+    "cell_id": "G730"
+  },
+  {
+    "road_density": 34.1317,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G731"
+  },
+  {
+    "road_density": 64.8483,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G732"
+  },
+  {
+    "road_density": 19.9748,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G733"
+  },
+  {
+    "road_density": 42.1906,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G734"
+  },
+  {
+    "road_density": 79.0788,
+    "building_count": 17,
+    "building_density_per_km2": 68.29,
+    "cell_id": "G735"
+  },
+  {
+    "road_density": 72.8628,
+    "building_count": 11,
+    "building_density_per_km2": 44.19,
+    "cell_id": "G736"
+  },
+  {
+    "road_density": 42.0378,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G737"
+  },
+  {
+    "road_density": 23.2718,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G738"
+  },
+  {
+    "road_density": 22.013,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G739"
+  },
+  {
+    "road_density": 22.4763,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G740"
+  },
+  {
+    "road_density": 7.8796,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G741"
+  },
+  {
+    "road_density": 13.0768,
+    "building_count": 11,
+    "building_density_per_km2": 44.17,
+    "cell_id": "G742"
+  },
+  {
+    "road_density": 12.3849,
+    "building_count": 4,
+    "building_density_per_km2": 16.06,
+    "cell_id": "G743"
+  },
+  {
+    "road_density": 20.7037,
+    "building_count": 15,
+    "building_density_per_km2": 60.22,
+    "cell_id": "G744"
+  },
+  {
+    "road_density": 21.8918,
+    "building_count": 14,
+    "building_density_per_km2": 56.22,
+    "cell_id": "G745"
+  },
+  {
+    "road_density": 43.986,
+    "building_count": 34,
+    "building_density_per_km2": 136.54,
+    "cell_id": "G746"
+  },
+  {
+    "road_density": 50.7188,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G747"
+  },
+  {
+    "road_density": 27.5653,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G748"
+  },
+  {
+    "road_density": 39.891,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G749"
+  },
+  {
+    "road_density": 19.3951,
+    "building_count": 35,
+    "building_density_per_km2": 140.53,
+    "cell_id": "G750"
+  },
+  {
+    "road_density": 30.5806,
+    "building_count": 25,
+    "building_density_per_km2": 100.4,
+    "cell_id": "G751"
+  },
+  {
+    "road_density": 53.9246,
+    "building_count": 211,
+    "building_density_per_km2": 847.37,
+    "cell_id": "G752"
+  },
+  {
+    "road_density": 28.1472,
+    "building_count": 145,
+    "building_density_per_km2": 582.32,
+    "cell_id": "G753"
+  },
+  {
+    "road_density": 32.0812,
+    "building_count": 119,
+    "building_density_per_km2": 477.9,
+    "cell_id": "G754"
+  },
+  {
+    "road_density": 18.3897,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G755"
+  },
+  {
+    "road_density": 35.9767,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G756"
+  },
+  {
+    "road_density": 24.2128,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G757"
+  },
+  {
+    "road_density": 57.5509,
+    "building_count": 35,
+    "building_density_per_km2": 140.56,
+    "cell_id": "G758"
+  },
+  {
+    "road_density": 42.3624,
+    "building_count": 81,
+    "building_density_per_km2": 325.31,
+    "cell_id": "G759"
+  },
+  {
+    "road_density": 45.5099,
+    "building_count": 406,
+    "building_density_per_km2": 1630.55,
+    "cell_id": "G760"
+  },
+  {
+    "road_density": 14.053,
+    "building_count": 13,
+    "building_density_per_km2": 52.21,
+    "cell_id": "G761"
+  },
+  {
+    "road_density": 10.2661,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G762"
+  },
+  {
+    "road_density": 8.6454,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G763"
+  },
+  {
+    "road_density": 16.6888,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G764"
+  },
+  {
+    "road_density": 8.0435,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G765"
+  },
+  {
+    "road_density": 5.1009,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G766"
+  },
+  {
+    "road_density": 25.7759,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G767"
+  },
+  {
+    "road_density": 9.0542,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G768"
+  },
+  {
+    "road_density": 4.0594,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G769"
+  },
+  {
+    "road_density": 15.2891,
+    "building_count": 9,
+    "building_density_per_km2": 36.15,
+    "cell_id": "G770"
+  },
+  {
+    "road_density": 15.4582,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G771"
+  },
+  {
+    "road_density": 29.2081,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G772"
+  },
+  {
+    "road_density": 56.9637,
+    "building_count": 153,
+    "building_density_per_km2": 614.52,
+    "cell_id": "G773"
+  },
+  {
+    "road_density": 33.9972,
+    "building_count": 111,
+    "building_density_per_km2": 445.74,
+    "cell_id": "G774"
+  },
+  {
+    "road_density": 26.8278,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G775"
+  },
+  {
+    "road_density": 8.0857,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G776"
+  },
+  {
+    "road_density": 4.3101,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G777"
+  },
+  {
+    "road_density": 21.6512,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G778"
+  },
+  {
+    "road_density": 14.9249,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G779"
+  },
+  {
+    "road_density": 22.1752,
+    "building_count": 12,
+    "building_density_per_km2": 48.2,
+    "cell_id": "G780"
+  },
+  {
+    "road_density": 27.2887,
+    "building_count": 17,
+    "building_density_per_km2": 68.27,
+    "cell_id": "G781"
+  },
+  {
+    "road_density": 40.815,
+    "building_count": 15,
+    "building_density_per_km2": 60.25,
+    "cell_id": "G782"
+  },
+  {
+    "road_density": 21.8573,
+    "building_count": 24,
+    "building_density_per_km2": 96.4,
+    "cell_id": "G783"
+  },
+  {
+    "road_density": 38.5544,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G784"
+  },
+  {
+    "road_density": 40.0515,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G785"
+  },
+  {
+    "road_density": 29.6157,
+    "building_count": 17,
+    "building_density_per_km2": 68.29,
+    "cell_id": "G786"
+  },
+  {
+    "road_density": 38.8114,
+    "building_count": 48,
+    "building_density_per_km2": 192.77,
+    "cell_id": "G787"
+  },
+  {
+    "road_density": 27.9199,
+    "building_count": 31,
+    "building_density_per_km2": 124.53,
+    "cell_id": "G788"
+  },
+  {
+    "road_density": 25.766,
+    "building_count": 110,
+    "building_density_per_km2": 441.87,
+    "cell_id": "G789"
+  },
+  {
+    "road_density": 23.2777,
+    "building_count": 27,
+    "building_density_per_km2": 108.46,
+    "cell_id": "G790"
+  },
+  {
+    "road_density": 18.3368,
+    "building_count": 38,
+    "building_density_per_km2": 152.65,
+    "cell_id": "G791"
+  },
+  {
+    "road_density": 4.3678,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G792"
+  },
+  {
+    "road_density": 17.8676,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G793"
+  },
+  {
+    "road_density": 39.4842,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G794"
+  },
+  {
+    "road_density": 66.227,
+    "building_count": 16,
+    "building_density_per_km2": 64.27,
+    "cell_id": "G795"
+  },
+  {
+    "road_density": 61.7707,
+    "building_count": 20,
+    "building_density_per_km2": 80.34,
+    "cell_id": "G796"
+  },
+  {
+    "road_density": 55.5145,
+    "building_count": 366,
+    "building_density_per_km2": 1470.28,
+    "cell_id": "G797"
+  },
+  {
+    "road_density": 44.6553,
+    "building_count": 171,
+    "building_density_per_km2": 686.94,
+    "cell_id": "G798"
+  },
+  {
+    "road_density": 25.7233,
+    "building_count": 49,
+    "building_density_per_km2": 196.8,
+    "cell_id": "G799"
+  },
+  {
+    "road_density": 9.5649,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G800"
+  },
+  {
+    "road_density": 48.814,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G801"
+  },
+  {
+    "road_density": 16.979,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G802"
+  },
+  {
+    "road_density": 23.5964,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G803"
+  },
+  {
+    "road_density": 41.3374,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G804"
+  },
+  {
+    "road_density": 32.1219,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G805"
+  },
+  {
+    "road_density": 19.24,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G806"
+  },
+  {
+    "road_density": 4.3142,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G807"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G808"
+  },
+  {
+    "road_density": 31.3088,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G809"
+  },
+  {
+    "road_density": 40.8522,
+    "building_count": 35,
+    "building_density_per_km2": 140.61,
+    "cell_id": "G810"
+  },
+  {
+    "road_density": 27.7619,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G811"
+  },
+  {
+    "road_density": 35.0346,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G812"
+  },
+  {
+    "road_density": 33.3877,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G813"
+  },
+  {
+    "road_density": 40.2456,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G814"
+  },
+  {
+    "road_density": 29.9421,
+    "building_count": 53,
+    "building_density_per_km2": 212.84,
+    "cell_id": "G815"
+  },
+  {
+    "road_density": 12.8851,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G816"
+  },
+  {
+    "road_density": 23.6309,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G817"
+  },
+  {
+    "road_density": 12.7574,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G818"
+  },
+  {
+    "road_density": 13.7582,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G819"
+  },
+  {
+    "road_density": 16.4568,
+    "building_count": 14,
+    "building_density_per_km2": 56.22,
+    "cell_id": "G820"
+  },
+  {
+    "road_density": 29.0806,
+    "building_count": 24,
+    "building_density_per_km2": 96.39,
+    "cell_id": "G821"
+  },
+  {
+    "road_density": 22.7662,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G822"
+  },
+  {
+    "road_density": 26.9523,
+    "building_count": 34,
+    "building_density_per_km2": 136.55,
+    "cell_id": "G823"
+  },
+  {
+    "road_density": 23.2196,
+    "building_count": 29,
+    "building_density_per_km2": 116.44,
+    "cell_id": "G824"
+  },
+  {
+    "road_density": 20.3709,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G825"
+  },
+  {
+    "road_density": 23.2956,
+    "building_count": 22,
+    "building_density_per_km2": 88.36,
+    "cell_id": "G826"
+  },
+  {
+    "road_density": 23.7713,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G827"
+  },
+  {
+    "road_density": 16.2953,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G828"
+  },
+  {
+    "road_density": 35.7913,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G829"
+  },
+  {
+    "road_density": 52.6291,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G830"
+  },
+  {
+    "road_density": 25.7622,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G831"
+  },
+  {
+    "road_density": 44.4065,
+    "building_count": 8,
+    "building_density_per_km2": 32.13,
+    "cell_id": "G832"
+  },
+  {
+    "road_density": 49.8809,
+    "building_count": 50,
+    "building_density_per_km2": 200.82,
+    "cell_id": "G833"
+  },
+  {
+    "road_density": 46.6563,
+    "building_count": 101,
+    "building_density_per_km2": 405.66,
+    "cell_id": "G834"
+  },
+  {
+    "road_density": 36.6215,
+    "building_count": 373,
+    "building_density_per_km2": 1498.13,
+    "cell_id": "G835"
+  },
+  {
+    "road_density": 31.14,
+    "building_count": 210,
+    "building_density_per_km2": 843.28,
+    "cell_id": "G836"
+  },
+  {
+    "road_density": 22.5315,
+    "building_count": 28,
+    "building_density_per_km2": 112.46,
+    "cell_id": "G837"
+  },
+  {
+    "road_density": 22.2584,
+    "building_count": 35,
+    "building_density_per_km2": 140.58,
+    "cell_id": "G838"
+  },
+  {
+    "road_density": 9.7025,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G839"
+  },
+  {
+    "road_density": 10.6241,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G840"
+  },
+  {
+    "road_density": 34.4152,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G841"
+  },
+  {
+    "road_density": 57.279,
+    "building_count": 29,
+    "building_density_per_km2": 116.46,
+    "cell_id": "G842"
+  },
+  {
+    "road_density": 20.2319,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G843"
+  },
+  {
+    "road_density": 13.7775,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G844"
+  },
+  {
+    "road_density": 7.4175,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G845"
+  },
+  {
+    "road_density": 37.5899,
+    "building_count": 153,
+    "building_density_per_km2": 614.55,
+    "cell_id": "G846"
+  },
+  {
+    "road_density": 34.4042,
+    "building_count": 60,
+    "building_density_per_km2": 241.0,
+    "cell_id": "G847"
+  },
+  {
+    "road_density": 46.6266,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G848"
+  },
+  {
+    "road_density": 35.6376,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G849"
+  },
+  {
+    "road_density": 18.3511,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G850"
+  },
+  {
+    "road_density": 22.9057,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G851"
+  },
+  {
+    "road_density": 46.268,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G852"
+  },
+  {
+    "road_density": 21.005,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G853"
+  },
+  {
+    "road_density": 8.2673,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G854"
+  },
+  {
+    "road_density": 7.7308,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G855"
+  },
+  {
+    "road_density": 5.5078,
+    "building_count": 7,
+    "building_density_per_km2": 28.12,
+    "cell_id": "G856"
+  },
+  {
+    "road_density": 34.6941,
+    "building_count": 69,
+    "building_density_per_km2": 277.18,
+    "cell_id": "G857"
+  },
+  {
+    "road_density": 43.3519,
+    "building_count": 92,
+    "building_density_per_km2": 369.57,
+    "cell_id": "G858"
+  },
+  {
+    "road_density": 30.4112,
+    "building_count": 8,
+    "building_density_per_km2": 32.14,
+    "cell_id": "G859"
+  },
+  {
+    "road_density": 29.38,
+    "building_count": 10,
+    "building_density_per_km2": 40.17,
+    "cell_id": "G860"
+  },
+  {
+    "road_density": 20.5475,
+    "building_count": 11,
+    "building_density_per_km2": 44.18,
+    "cell_id": "G861"
+  },
+  {
+    "road_density": 15.8065,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G862"
+  },
+  {
+    "road_density": 19.1461,
+    "building_count": 9,
+    "building_density_per_km2": 36.16,
+    "cell_id": "G863"
+  },
+  {
+    "road_density": 29.129,
+    "building_count": 12,
+    "building_density_per_km2": 48.21,
+    "cell_id": "G864"
+  },
+  {
+    "road_density": 58.0355,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G865"
+  },
+  {
+    "road_density": 64.8451,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G866"
+  },
+  {
+    "road_density": 59.7926,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G867"
+  },
+  {
+    "road_density": 74.3066,
+    "building_count": 311,
+    "building_density_per_km2": 1249.4,
+    "cell_id": "G868"
+  },
+  {
+    "road_density": 60.8067,
+    "building_count": 100,
+    "building_density_per_km2": 401.74,
+    "cell_id": "G869"
+  },
+  {
+    "road_density": 17.7111,
+    "building_count": 101,
+    "building_density_per_km2": 405.76,
+    "cell_id": "G870"
+  },
+  {
+    "road_density": 28.1952,
+    "building_count": 29,
+    "building_density_per_km2": 116.51,
+    "cell_id": "G871"
+  },
+  {
+    "road_density": 43.3089,
+    "building_count": 213,
+    "building_density_per_km2": 855.72,
+    "cell_id": "G872"
+  },
+  {
+    "road_density": 37.6242,
+    "building_count": 329,
+    "building_density_per_km2": 1321.48,
+    "cell_id": "G873"
+  },
+  {
+    "road_density": 22.4213,
+    "building_count": 50,
+    "building_density_per_km2": 200.88,
+    "cell_id": "G874"
+  },
+  {
+    "road_density": 39.3562,
+    "building_count": 13,
+    "building_density_per_km2": 52.23,
+    "cell_id": "G875"
+  },
+  {
+    "road_density": 18.5485,
+    "building_count": 7,
+    "building_density_per_km2": 28.12,
+    "cell_id": "G876"
+  },
+  {
+    "road_density": 6.8889,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G877"
+  },
+  {
+    "road_density": 41.4916,
+    "building_count": 5,
+    "building_density_per_km2": 20.09,
+    "cell_id": "G878"
+  },
+  {
+    "road_density": 28.5239,
+    "building_count": 145,
+    "building_density_per_km2": 582.44,
+    "cell_id": "G879"
+  },
+  {
+    "road_density": 26.8006,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G880"
+  },
+  {
+    "road_density": 26.6501,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G881"
+  },
+  {
+    "road_density": 3.7952,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G882"
+  },
+  {
+    "road_density": 6.1908,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G883"
+  },
+  {
+    "road_density": 25.4978,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G884"
+  },
+  {
+    "road_density": 25.7475,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G885"
+  },
+  {
+    "road_density": 46.4149,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G886"
+  },
+  {
+    "road_density": 23.3514,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G887"
+  },
+  {
+    "road_density": 20.2408,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G888"
+  },
+  {
+    "road_density": 27.3929,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G889"
+  },
+  {
+    "road_density": 4.2409,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G890"
+  },
+  {
+    "road_density": 15.4019,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G891"
+  },
+  {
+    "road_density": 23.0516,
+    "building_count": 9,
+    "building_density_per_km2": 36.14,
+    "cell_id": "G892"
+  },
+  {
+    "road_density": 32.6829,
+    "building_count": 52,
+    "building_density_per_km2": 208.85,
+    "cell_id": "G893"
+  },
+  {
+    "road_density": 60.2479,
+    "building_count": 138,
+    "building_density_per_km2": 554.25,
+    "cell_id": "G894"
+  },
+  {
+    "road_density": 21.716,
+    "building_count": 59,
+    "building_density_per_km2": 236.96,
+    "cell_id": "G895"
+  },
+  {
+    "road_density": 34.3435,
+    "building_count": 8,
+    "building_density_per_km2": 32.13,
+    "cell_id": "G896"
+  },
+  {
+    "road_density": 14.9267,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G897"
+  },
+  {
+    "road_density": 38.6682,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G898"
+  },
+  {
+    "road_density": 44.9974,
+    "building_count": 7,
+    "building_density_per_km2": 28.12,
+    "cell_id": "G899"
+  },
+  {
+    "road_density": 9.8489,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G900"
+  },
+  {
+    "road_density": 49.0263,
+    "building_count": 244,
+    "building_density_per_km2": 980.03,
+    "cell_id": "G901"
+  },
+  {
+    "road_density": 59.4946,
+    "building_count": 132,
+    "building_density_per_km2": 530.18,
+    "cell_id": "G902"
+  },
+  {
+    "road_density": 64.0941,
+    "building_count": 58,
+    "building_density_per_km2": 232.96,
+    "cell_id": "G903"
+  },
+  {
+    "road_density": 60.9954,
+    "building_count": 9,
+    "building_density_per_km2": 36.14,
+    "cell_id": "G904"
+  },
+  {
+    "road_density": 81.9471,
+    "building_count": 142,
+    "building_density_per_km2": 570.36,
+    "cell_id": "G905"
+  },
+  {
+    "road_density": 84.5241,
+    "building_count": 84,
+    "building_density_per_km2": 337.4,
+    "cell_id": "G906"
+  },
+  {
+    "road_density": 38.5749,
+    "building_count": 231,
+    "building_density_per_km2": 927.85,
+    "cell_id": "G907"
+  },
+  {
+    "road_density": 33.3436,
+    "building_count": 254,
+    "building_density_per_km2": 1020.23,
+    "cell_id": "G908"
+  },
+  {
+    "road_density": 35.6234,
+    "building_count": 121,
+    "building_density_per_km2": 486.02,
+    "cell_id": "G909"
+  },
+  {
+    "road_density": 44.696,
+    "building_count": 139,
+    "building_density_per_km2": 558.21,
+    "cell_id": "G910"
+  },
+  {
+    "road_density": 15.8169,
+    "building_count": 66,
+    "building_density_per_km2": 265.11,
+    "cell_id": "G911"
+  },
+  {
+    "road_density": 21.8657,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G912"
+  },
+  {
+    "road_density": 12.4188,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G913"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G914"
+  },
+  {
+    "road_density": 34.6651,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G915"
+  },
+  {
+    "road_density": 25.5157,
+    "building_count": 39,
+    "building_density_per_km2": 156.63,
+    "cell_id": "G916"
+  },
+  {
+    "road_density": 13.7903,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G917"
+  },
+  {
+    "road_density": 3.6257,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G918"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G919"
+  },
+  {
+    "road_density": 5.1309,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G920"
+  },
+  {
+    "road_density": 19.2322,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G921"
+  },
+  {
+    "road_density": 22.2079,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G922"
+  },
+  {
+    "road_density": 36.3116,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G923"
+  },
+  {
+    "road_density": 40.8622,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G924"
+  },
+  {
+    "road_density": 33.8449,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G925"
+  },
+  {
+    "road_density": 38.5018,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G926"
+  },
+  {
+    "road_density": 11.2922,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G927"
+  },
+  {
+    "road_density": 23.7078,
+    "building_count": 41,
+    "building_density_per_km2": 164.71,
+    "cell_id": "G928"
+  },
+  {
+    "road_density": 30.1834,
+    "building_count": 99,
+    "building_density_per_km2": 397.63,
+    "cell_id": "G929"
+  },
+  {
+    "road_density": 23.8831,
+    "building_count": 13,
+    "building_density_per_km2": 52.23,
+    "cell_id": "G930"
+  },
+  {
+    "road_density": 20.9448,
+    "building_count": 15,
+    "building_density_per_km2": 60.26,
+    "cell_id": "G931"
+  },
+  {
+    "road_density": 10.0682,
+    "building_count": 15,
+    "building_density_per_km2": 60.26,
+    "cell_id": "G932"
+  },
+  {
+    "road_density": 44.618,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G933"
+  },
+  {
+    "road_density": 16.7011,
+    "building_count": 7,
+    "building_density_per_km2": 28.12,
+    "cell_id": "G934"
+  },
+  {
+    "road_density": 34.9035,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G935"
+  },
+  {
+    "road_density": 31.133,
+    "building_count": 22,
+    "building_density_per_km2": 88.38,
+    "cell_id": "G936"
+  },
+  {
+    "road_density": 28.9602,
+    "building_count": 92,
+    "building_density_per_km2": 369.61,
+    "cell_id": "G937"
+  },
+  {
+    "road_density": 63.1918,
+    "building_count": 10,
+    "building_density_per_km2": 40.18,
+    "cell_id": "G938"
+  },
+  {
+    "road_density": 48.3285,
+    "building_count": 45,
+    "building_density_per_km2": 180.79,
+    "cell_id": "G939"
+  },
+  {
+    "road_density": 63.9346,
+    "building_count": 90,
+    "building_density_per_km2": 361.58,
+    "cell_id": "G940"
+  },
+  {
+    "road_density": 47.6019,
+    "building_count": 26,
+    "building_density_per_km2": 104.44,
+    "cell_id": "G941"
+  },
+  {
+    "road_density": 80.4996,
+    "building_count": 32,
+    "building_density_per_km2": 128.56,
+    "cell_id": "G942"
+  },
+  {
+    "road_density": 67.6617,
+    "building_count": 41,
+    "building_density_per_km2": 164.72,
+    "cell_id": "G943"
+  },
+  {
+    "road_density": 34.0535,
+    "building_count": 81,
+    "building_density_per_km2": 325.43,
+    "cell_id": "G944"
+  },
+  {
+    "road_density": 27.0718,
+    "building_count": 26,
+    "building_density_per_km2": 104.46,
+    "cell_id": "G945"
+  },
+  {
+    "road_density": 23.5811,
+    "building_count": 13,
+    "building_density_per_km2": 52.23,
+    "cell_id": "G946"
+  },
+  {
+    "road_density": 32.3007,
+    "building_count": 37,
+    "building_density_per_km2": 148.63,
+    "cell_id": "G947"
+  },
+  {
+    "road_density": 44.5127,
+    "building_count": 38,
+    "building_density_per_km2": 152.68,
+    "cell_id": "G948"
+  },
+  {
+    "road_density": 26.51,
+    "building_count": 53,
+    "building_density_per_km2": 212.94,
+    "cell_id": "G949"
+  },
+  {
+    "road_density": 12.422,
+    "building_count": 9,
+    "building_density_per_km2": 36.16,
+    "cell_id": "G950"
+  },
+  {
+    "road_density": 3.8303,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G951"
+  },
+  {
+    "road_density": 38.0413,
+    "building_count": 24,
+    "building_density_per_km2": 96.43,
+    "cell_id": "G952"
+  },
+  {
+    "road_density": 31.2993,
+    "building_count": 7,
+    "building_density_per_km2": 28.12,
+    "cell_id": "G953"
+  },
+  {
+    "road_density": 30.7907,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G954"
+  },
+  {
+    "road_density": 25.9015,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G955"
+  },
+  {
+    "road_density": 6.2636,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G956"
+  },
+  {
+    "road_density": 30.0121,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G957"
+  },
+  {
+    "road_density": 56.5454,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G958"
+  },
+  {
+    "road_density": 39.7657,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G959"
+  },
+  {
+    "road_density": 33.5471,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G960"
+  },
+  {
+    "road_density": 41.2665,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G961"
+  },
+  {
+    "road_density": 23.8147,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G962"
+  },
+  {
+    "road_density": 24.7227,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G963"
+  },
+  {
+    "road_density": 66.2053,
+    "building_count": 15,
+    "building_density_per_km2": 60.25,
+    "cell_id": "G964"
+  },
+  {
+    "road_density": 40.3658,
+    "building_count": 111,
+    "building_density_per_km2": 445.83,
+    "cell_id": "G965"
+  },
+  {
+    "road_density": 21.3535,
+    "building_count": 26,
+    "building_density_per_km2": 104.41,
+    "cell_id": "G966"
+  },
+  {
+    "road_density": 17.3309,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G967"
+  },
+  {
+    "road_density": 8.7018,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G968"
+  },
+  {
+    "road_density": 21.1211,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G969"
+  },
+  {
+    "road_density": 27.5031,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G970"
+  },
+  {
+    "road_density": 19.9373,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G971"
+  },
+  {
+    "road_density": 25.0343,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G972"
+  },
+  {
+    "road_density": 14.2007,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G973"
+  },
+  {
+    "road_density": 30.5775,
+    "building_count": 18,
+    "building_density_per_km2": 72.3,
+    "cell_id": "G974"
+  },
+  {
+    "road_density": 41.5882,
+    "building_count": 21,
+    "building_density_per_km2": 84.35,
+    "cell_id": "G975"
+  },
+  {
+    "road_density": 26.9419,
+    "building_count": 22,
+    "building_density_per_km2": 88.37,
+    "cell_id": "G976"
+  },
+  {
+    "road_density": 24.4946,
+    "building_count": 49,
+    "building_density_per_km2": 196.82,
+    "cell_id": "G977"
+  },
+  {
+    "road_density": 49.4279,
+    "building_count": 62,
+    "building_density_per_km2": 248.99,
+    "cell_id": "G978"
+  },
+  {
+    "road_density": 57.22,
+    "building_count": 54,
+    "building_density_per_km2": 216.91,
+    "cell_id": "G979"
+  },
+  {
+    "road_density": 41.4956,
+    "building_count": 9,
+    "building_density_per_km2": 36.15,
+    "cell_id": "G980"
+  },
+  {
+    "road_density": 16.7228,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G981"
+  },
+  {
+    "road_density": 35.1246,
+    "building_count": 50,
+    "building_density_per_km2": 200.85,
+    "cell_id": "G982"
+  },
+  {
+    "road_density": 23.029,
+    "building_count": 51,
+    "building_density_per_km2": 204.86,
+    "cell_id": "G983"
+  },
+  {
+    "road_density": 21.0174,
+    "building_count": 120,
+    "building_density_per_km2": 481.94,
+    "cell_id": "G984"
+  },
+  {
+    "road_density": 37.9502,
+    "building_count": 34,
+    "building_density_per_km2": 136.58,
+    "cell_id": "G985"
+  },
+  {
+    "road_density": 25.5893,
+    "building_count": 48,
+    "building_density_per_km2": 192.82,
+    "cell_id": "G986"
+  },
+  {
+    "road_density": 33.1739,
+    "building_count": 15,
+    "building_density_per_km2": 60.26,
+    "cell_id": "G987"
+  },
+  {
+    "road_density": 31.4301,
+    "building_count": 96,
+    "building_density_per_km2": 385.64,
+    "cell_id": "G988"
+  },
+  {
+    "road_density": 41.3769,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G989"
+  },
+  {
+    "road_density": 27.4698,
+    "building_count": 126,
+    "building_density_per_km2": 506.05,
+    "cell_id": "G990"
+  },
+  {
+    "road_density": 11.9123,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G991"
+  },
+  {
+    "road_density": 9.519,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G992"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G993"
+  },
+  {
+    "road_density": 16.8776,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G994"
+  },
+  {
+    "road_density": 21.1826,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G995"
+  },
+  {
+    "road_density": 10.9868,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G996"
+  },
+  {
+    "road_density": 15.5929,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G997"
+  },
+  {
+    "road_density": 8.8326,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G998"
+  },
+  {
+    "road_density": 39.1961,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G999"
+  },
+  {
+    "road_density": 25.1421,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1000"
+  },
+  {
+    "road_density": 49.5489,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1001"
+  },
+  {
+    "road_density": 58.8077,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G1002"
+  },
+  {
+    "road_density": 14.0093,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1003"
+  },
+  {
+    "road_density": 15.2609,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1004"
+  },
+  {
+    "road_density": 21.5637,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G1005"
+  },
+  {
+    "road_density": 23.3614,
+    "building_count": 9,
+    "building_density_per_km2": 36.15,
+    "cell_id": "G1006"
+  },
+  {
+    "road_density": 34.581,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G1007"
+  },
+  {
+    "road_density": 36.7573,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G1008"
+  },
+  {
+    "road_density": 24.7539,
+    "building_count": 7,
+    "building_density_per_km2": 28.11,
+    "cell_id": "G1009"
+  },
+  {
+    "road_density": 3.9847,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1010"
+  },
+  {
+    "road_density": 7.5685,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1011"
+  },
+  {
+    "road_density": 34.0831,
+    "building_count": 7,
+    "building_density_per_km2": 28.12,
+    "cell_id": "G1012"
+  },
+  {
+    "road_density": 23.5019,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1013"
+  },
+  {
+    "road_density": 23.8456,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1014"
+  },
+  {
+    "road_density": 42.0278,
+    "building_count": 44,
+    "building_density_per_km2": 176.71,
+    "cell_id": "G1015"
+  },
+  {
+    "road_density": 32.9396,
+    "building_count": 205,
+    "building_density_per_km2": 823.48,
+    "cell_id": "G1016"
+  },
+  {
+    "road_density": 28.6677,
+    "building_count": 14,
+    "building_density_per_km2": 56.24,
+    "cell_id": "G1017"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1018"
+  },
+  {
+    "road_density": 14.0367,
+    "building_count": 40,
+    "building_density_per_km2": 160.68,
+    "cell_id": "G1019"
+  },
+  {
+    "road_density": 46.0492,
+    "building_count": 35,
+    "building_density_per_km2": 140.6,
+    "cell_id": "G1020"
+  },
+  {
+    "road_density": 30.2254,
+    "building_count": 23,
+    "building_density_per_km2": 92.37,
+    "cell_id": "G1021"
+  },
+  {
+    "road_density": 29.1976,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G1022"
+  },
+  {
+    "road_density": 31.3144,
+    "building_count": 280,
+    "building_density_per_km2": 1124.81,
+    "cell_id": "G1023"
+  },
+  {
+    "road_density": 33.1054,
+    "building_count": 49,
+    "building_density_per_km2": 196.84,
+    "cell_id": "G1024"
+  },
+  {
+    "road_density": 27.9938,
+    "building_count": 274,
+    "building_density_per_km2": 1100.72,
+    "cell_id": "G1025"
+  },
+  {
+    "road_density": 37.807,
+    "building_count": 46,
+    "building_density_per_km2": 184.79,
+    "cell_id": "G1026"
+  },
+  {
+    "road_density": 39.4867,
+    "building_count": 5,
+    "building_density_per_km2": 20.08,
+    "cell_id": "G1027"
+  },
+  {
+    "road_density": 47.3517,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G1028"
+  },
+  {
+    "road_density": 24.1328,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G1029"
+  },
+  {
+    "road_density": 13.43,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1030"
+  },
+  {
+    "road_density": 13.4301,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1031"
+  },
+  {
+    "road_density": 21.8328,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1032"
+  },
+  {
+    "road_density": 14.5027,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1033"
+  },
+  {
+    "road_density": 12.6433,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1034"
+  },
+  {
+    "road_density": 20.994,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1035"
+  },
+  {
+    "road_density": 39.8272,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1036"
+  },
+  {
+    "road_density": 15.0841,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1037"
+  },
+  {
+    "road_density": 14.5104,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1038"
+  },
+  {
+    "road_density": 23.789,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1039"
+  },
+  {
+    "road_density": 27.4215,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1040"
+  },
+  {
+    "road_density": 45.049,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1041"
+  },
+  {
+    "road_density": 18.8015,
+    "building_count": 15,
+    "building_density_per_km2": 60.27,
+    "cell_id": "G1042"
+  },
+  {
+    "road_density": 27.9455,
+    "building_count": 15,
+    "building_density_per_km2": 60.27,
+    "cell_id": "G1043"
+  },
+  {
+    "road_density": 12.8244,
+    "building_count": 24,
+    "building_density_per_km2": 96.43,
+    "cell_id": "G1044"
+  },
+  {
+    "road_density": 19.3572,
+    "building_count": 20,
+    "building_density_per_km2": 80.36,
+    "cell_id": "G1045"
+  },
+  {
+    "road_density": 11.4722,
+    "building_count": 21,
+    "building_density_per_km2": 84.36,
+    "cell_id": "G1046"
+  },
+  {
+    "road_density": 17.7333,
+    "building_count": 21,
+    "building_density_per_km2": 84.38,
+    "cell_id": "G1047"
+  },
+  {
+    "road_density": 19.6739,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1048"
+  },
+  {
+    "road_density": 37.2539,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1049"
+  },
+  {
+    "road_density": 19.2253,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1050"
+  },
+  {
+    "road_density": 18.6412,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1051"
+  },
+  {
+    "road_density": 19.7485,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1052"
+  },
+  {
+    "road_density": 16.3483,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1053"
+  },
+  {
+    "road_density": 30.516,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1054"
+  },
+  {
+    "road_density": 44.7853,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1055"
+  },
+  {
+    "road_density": 22.7596,
+    "building_count": 4,
+    "building_density_per_km2": 16.07,
+    "cell_id": "G1056"
+  },
+  {
+    "road_density": 29.7724,
+    "building_count": 7,
+    "building_density_per_km2": 28.13,
+    "cell_id": "G1057"
+  },
+  {
+    "road_density": 18.9384,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G1058"
+  },
+  {
+    "road_density": 14.6,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G1059"
+  },
+  {
+    "road_density": 5.6913,
+    "building_count": 28,
+    "building_density_per_km2": 112.51,
+    "cell_id": "G1060"
+  },
+  {
+    "road_density": 23.0998,
+    "building_count": 7,
+    "building_density_per_km2": 28.13,
+    "cell_id": "G1061"
+  },
+  {
+    "road_density": 61.1819,
+    "building_count": 36,
+    "building_density_per_km2": 144.66,
+    "cell_id": "G1062"
+  },
+  {
+    "road_density": 22.402,
+    "building_count": 12,
+    "building_density_per_km2": 48.22,
+    "cell_id": "G1063"
+  },
+  {
+    "road_density": 27.864,
+    "building_count": 22,
+    "building_density_per_km2": 88.38,
+    "cell_id": "G1064"
+  },
+  {
+    "road_density": 11.7544,
+    "building_count": 7,
+    "building_density_per_km2": 28.13,
+    "cell_id": "G1065"
+  },
+  {
+    "road_density": 24.7495,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1066"
+  },
+  {
+    "road_density": 25.1497,
+    "building_count": 9,
+    "building_density_per_km2": 36.17,
+    "cell_id": "G1067"
+  },
+  {
+    "road_density": 33.6213,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1068"
+  },
+  {
+    "road_density": 44.499,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1069"
+  },
+  {
+    "road_density": 42.8517,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1070"
+  },
+  {
+    "road_density": 34.9305,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1071"
+  },
+  {
+    "road_density": 33.0783,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1072"
+  },
+  {
+    "road_density": 15.1162,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1073"
+  },
+  {
+    "road_density": 8.976,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1074"
+  },
+  {
+    "road_density": 14.5077,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1075"
+  },
+  {
+    "road_density": 3.2395,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1076"
+  },
+  {
+    "road_density": 14.4689,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1077"
+  },
+  {
+    "road_density": 40.5761,
+    "building_count": 10,
+    "building_density_per_km2": 40.17,
+    "cell_id": "G1078"
+  },
+  {
+    "road_density": 37.6807,
+    "building_count": 14,
+    "building_density_per_km2": 56.24,
+    "cell_id": "G1079"
+  },
+  {
+    "road_density": 33.8938,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G1080"
+  },
+  {
+    "road_density": 7.8486,
+    "building_count": 21,
+    "building_density_per_km2": 84.36,
+    "cell_id": "G1081"
+  },
+  {
+    "road_density": 31.6486,
+    "building_count": 15,
+    "building_density_per_km2": 60.26,
+    "cell_id": "G1082"
+  },
+  {
+    "road_density": 19.5402,
+    "building_count": 15,
+    "building_density_per_km2": 60.24,
+    "cell_id": "G1083"
+  },
+  {
+    "road_density": 22.3813,
+    "building_count": 5,
+    "building_density_per_km2": 20.09,
+    "cell_id": "G1084"
+  },
+  {
+    "road_density": 19.9241,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1085"
+  },
+  {
+    "road_density": 44.1632,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1086"
+  },
+  {
+    "road_density": 33.5495,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1087"
+  },
+  {
+    "road_density": 34.2577,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1088"
+  },
+  {
+    "road_density": 31.6037,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1089"
+  },
+  {
+    "road_density": 61.5613,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1090"
+  },
+  {
+    "road_density": 54.7896,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1091"
+  },
+  {
+    "road_density": 22.8685,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1092"
+  },
+  {
+    "road_density": 28.5896,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1093"
+  },
+  {
+    "road_density": 20.4478,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1094"
+  },
+  {
+    "road_density": 27.8614,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1095"
+  },
+  {
+    "road_density": 41.7763,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1096"
+  },
+  {
+    "road_density": 53.3663,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1097"
+  },
+  {
+    "road_density": 31.5853,
+    "building_count": 5,
+    "building_density_per_km2": 20.09,
+    "cell_id": "G1098"
+  },
+  {
+    "road_density": 8.4899,
+    "building_count": 6,
+    "building_density_per_km2": 24.1,
+    "cell_id": "G1099"
+  },
+  {
+    "road_density": 16.2307,
+    "building_count": 28,
+    "building_density_per_km2": 112.49,
+    "cell_id": "G1100"
+  },
+  {
+    "road_density": 53.5358,
+    "building_count": 23,
+    "building_density_per_km2": 92.38,
+    "cell_id": "G1101"
+  },
+  {
+    "road_density": 14.4886,
+    "building_count": 14,
+    "building_density_per_km2": 56.25,
+    "cell_id": "G1102"
+  },
+  {
+    "road_density": 9.4246,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1103"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1104"
+  },
+  {
+    "road_density": 9.9956,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1105"
+  },
+  {
+    "road_density": 15.585,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1106"
+  },
+  {
+    "road_density": 3.9591,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1107"
+  },
+  {
+    "road_density": 20.5798,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1108"
+  },
+  {
+    "road_density": 4.355,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1109"
+  },
+  {
+    "road_density": 17.2033,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1110"
+  },
+  {
+    "road_density": 14.7218,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1111"
+  },
+  {
+    "road_density": 24.5818,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1112"
+  },
+  {
+    "road_density": 48.0605,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1113"
+  },
+  {
+    "road_density": 34.9327,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1114"
+  },
+  {
+    "road_density": 29.2045,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1115"
+  },
+  {
+    "road_density": 58.2343,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1116"
+  },
+  {
+    "road_density": 36.5312,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1117"
+  },
+  {
+    "road_density": 27.6284,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1118"
+  },
+  {
+    "road_density": 63.374,
+    "building_count": 5,
+    "building_density_per_km2": 20.09,
+    "cell_id": "G1119"
+  },
+  {
+    "road_density": 31.1462,
+    "building_count": 9,
+    "building_density_per_km2": 36.16,
+    "cell_id": "G1120"
+  },
+  {
+    "road_density": 42.1432,
+    "building_count": 14,
+    "building_density_per_km2": 56.25,
+    "cell_id": "G1121"
+  },
+  {
+    "road_density": 21.1821,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1122"
+  },
+  {
+    "road_density": 22.7395,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1123"
+  },
+  {
+    "road_density": 22.1211,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1124"
+  },
+  {
+    "road_density": 31.7697,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1125"
+  },
+  {
+    "road_density": 18.2584,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1126"
+  },
+  {
+    "road_density": 52.4886,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1127"
+  },
+  {
+    "road_density": 39.2062,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1128"
+  },
+  {
+    "road_density": 8.4168,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1129"
+  },
+  {
+    "road_density": 13.8296,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1130"
+  },
+  {
+    "road_density": 34.4448,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1131"
+  },
+  {
+    "road_density": 34.2226,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1132"
+  },
+  {
+    "road_density": 34.2491,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1133"
+  },
+  {
+    "road_density": 21.7944,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1134"
+  },
+  {
+    "road_density": 19.0443,
+    "building_count": 7,
+    "building_density_per_km2": 28.13,
+    "cell_id": "G1135"
+  },
+  {
+    "road_density": 15.7555,
+    "building_count": 10,
+    "building_density_per_km2": 40.19,
+    "cell_id": "G1136"
+  },
+  {
+    "road_density": 20.8195,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1137"
+  },
+  {
+    "road_density": 41.9104,
+    "building_count": 56,
+    "building_density_per_km2": 224.99,
+    "cell_id": "G1138"
+  },
+  {
+    "road_density": 20.8112,
+    "building_count": 6,
+    "building_density_per_km2": 24.11,
+    "cell_id": "G1139"
+  },
+  {
+    "road_density": 6.6464,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1140"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1141"
+  },
+  {
+    "road_density": 3.8358,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1142"
+  },
+  {
+    "road_density": 27.0767,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1143"
+  },
+  {
+    "road_density": 10.0042,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1144"
+  },
+  {
+    "road_density": 14.3624,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1145"
+  },
+  {
+    "road_density": 7.0856,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1146"
+  },
+  {
+    "road_density": 8.6833,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1147"
+  },
+  {
+    "road_density": 25.8932,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1148"
+  },
+  {
+    "road_density": 21.1383,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1149"
+  },
+  {
+    "road_density": 17.9936,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1150"
+  },
+  {
+    "road_density": 25.9451,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1151"
+  },
+  {
+    "road_density": 9.0525,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1152"
+  },
+  {
+    "road_density": 29.8092,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1153"
+  },
+  {
+    "road_density": 20.9841,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1154"
+  },
+  {
+    "road_density": 36.3205,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1155"
+  },
+  {
+    "road_density": 43.1426,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1156"
+  },
+  {
+    "road_density": 52.5176,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1157"
+  },
+  {
+    "road_density": 17.5932,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1158"
+  },
+  {
+    "road_density": 30.2342,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1159"
+  },
+  {
+    "road_density": 22.0395,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1160"
+  },
+  {
+    "road_density": 20.781,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1161"
+  },
+  {
+    "road_density": 37.0399,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1162"
+  },
+  {
+    "road_density": 6.158,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1163"
+  },
+  {
+    "road_density": 6.2408,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1164"
+  },
+  {
+    "road_density": 38.3758,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1165"
+  },
+  {
+    "road_density": 32.4092,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1166"
+  },
+  {
+    "road_density": 63.6437,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1167"
+  },
+  {
+    "road_density": 28.9831,
+    "building_count": 3,
+    "building_density_per_km2": 12.05,
+    "cell_id": "G1168"
+  },
+  {
+    "road_density": 4.9318,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1169"
+  },
+  {
+    "road_density": 2.2493,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1170"
+  },
+  {
+    "road_density": 7.6579,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1171"
+  },
+  {
+    "road_density": 16.6895,
+    "building_count": 13,
+    "building_density_per_km2": 52.23,
+    "cell_id": "G1172"
+  },
+  {
+    "road_density": 10.3239,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1173"
+  },
+  {
+    "road_density": 10.9321,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1174"
+  },
+  {
+    "road_density": 31.948,
+    "building_count": 47,
+    "building_density_per_km2": 188.8,
+    "cell_id": "G1175"
+  },
+  {
+    "road_density": 18.4582,
+    "building_count": 13,
+    "building_density_per_km2": 52.23,
+    "cell_id": "G1176"
+  },
+  {
+    "road_density": 19.0853,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1177"
+  },
+  {
+    "road_density": 10.1494,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1178"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1179"
+  },
+  {
+    "road_density": 14.9189,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1180"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1181"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1182"
+  },
+  {
+    "road_density": 5.218,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1183"
+  },
+  {
+    "road_density": 29.7062,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1184"
+  },
+  {
+    "road_density": 45.3345,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1185"
+  },
+  {
+    "road_density": 20.147,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1186"
+  },
+  {
+    "road_density": 41.7599,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1187"
+  },
+  {
+    "road_density": 19.2882,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1188"
+  },
+  {
+    "road_density": 10.1388,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1189"
+  },
+  {
+    "road_density": 23.0333,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1190"
+  },
+  {
+    "road_density": 23.0826,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1191"
+  },
+  {
+    "road_density": 32.8872,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1192"
+  },
+  {
+    "road_density": 28.3996,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1193"
+  },
+  {
+    "road_density": 34.725,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1194"
+  },
+  {
+    "road_density": 13.4047,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1195"
+  },
+  {
+    "road_density": 26.5655,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1196"
+  },
+  {
+    "road_density": 20.223,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1197"
+  },
+  {
+    "road_density": 8.7951,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1198"
+  },
+  {
+    "road_density": 18.5514,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1199"
+  },
+  {
+    "road_density": 9.7543,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1200"
+  },
+  {
+    "road_density": 10.3356,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1201"
+  },
+  {
+    "road_density": 61.9795,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1202"
+  },
+  {
+    "road_density": 33.328,
+    "building_count": 74,
+    "building_density_per_km2": 297.38,
+    "cell_id": "G1203"
+  },
+  {
+    "road_density": 8.9569,
+    "building_count": 17,
+    "building_density_per_km2": 68.32,
+    "cell_id": "G1204"
+  },
+  {
+    "road_density": 12.3491,
+    "building_count": 32,
+    "building_density_per_km2": 128.6,
+    "cell_id": "G1205"
+  },
+  {
+    "road_density": 11.9232,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1206"
+  },
+  {
+    "road_density": 26.5092,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1207"
+  },
+  {
+    "road_density": 18.584,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1208"
+  },
+  {
+    "road_density": 27.3146,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1209"
+  },
+  {
+    "road_density": 11.5938,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1210"
+  },
+  {
+    "road_density": 23.437,
+    "building_count": 5,
+    "building_density_per_km2": 20.09,
+    "cell_id": "G1211"
+  },
+  {
+    "road_density": 48.351,
+    "building_count": 33,
+    "building_density_per_km2": 132.59,
+    "cell_id": "G1212"
+  },
+  {
+    "road_density": 30.3654,
+    "building_count": 63,
+    "building_density_per_km2": 253.19,
+    "cell_id": "G1213"
+  },
+  {
+    "road_density": 30.5093,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1214"
+  },
+  {
+    "road_density": 28.8649,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1215"
+  },
+  {
+    "road_density": 2.7778,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1216"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1217"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1218"
+  },
+  {
+    "road_density": 2.4435,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1219"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1220"
+  },
+  {
+    "road_density": 7.0688,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1221"
+  },
+  {
+    "road_density": 29.6328,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1222"
+  },
+  {
+    "road_density": 2.1286,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1223"
+  },
+  {
+    "road_density": 13.1423,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1224"
+  },
+  {
+    "road_density": 24.6449,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1225"
+  },
+  {
+    "road_density": 8.7092,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1226"
+  },
+  {
+    "road_density": 29.432,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1227"
+  },
+  {
+    "road_density": 29.8184,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1228"
+  },
+  {
+    "road_density": 22.3943,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1229"
+  },
+  {
+    "road_density": 23.7033,
+    "building_count": 2,
+    "building_density_per_km2": 8.04,
+    "cell_id": "G1230"
+  },
+  {
+    "road_density": 23.4929,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1231"
+  },
+  {
+    "road_density": 62.8024,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1232"
+  },
+  {
+    "road_density": 42.559,
+    "building_count": 81,
+    "building_density_per_km2": 325.43,
+    "cell_id": "G1233"
+  },
+  {
+    "road_density": 7.9553,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1234"
+  },
+  {
+    "road_density": 18.719,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1235"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1236"
+  },
+  {
+    "road_density": 45.806,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1237"
+  },
+  {
+    "road_density": 24.5005,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1238"
+  },
+  {
+    "road_density": 17.0026,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1239"
+  },
+  {
+    "road_density": 24.5321,
+    "building_count": 51,
+    "building_density_per_km2": 204.91,
+    "cell_id": "G1240"
+  },
+  {
+    "road_density": 12.6216,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1241"
+  },
+  {
+    "road_density": 5.2852,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1242"
+  },
+  {
+    "road_density": 23.509,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1243"
+  },
+  {
+    "road_density": 51.2567,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1244"
+  },
+  {
+    "road_density": 19.7754,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1245"
+  },
+  {
+    "road_density": 12.1655,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1246"
+  },
+  {
+    "road_density": 24.4918,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1247"
+  },
+  {
+    "road_density": 13.731,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1248"
+  },
+  {
+    "road_density": 44.0933,
+    "building_count": 25,
+    "building_density_per_km2": 100.43,
+    "cell_id": "G1249"
+  },
+  {
+    "road_density": 61.3993,
+    "building_count": 459,
+    "building_density_per_km2": 1844.3,
+    "cell_id": "G1250"
+  },
+  {
+    "road_density": 41.4515,
+    "building_count": 136,
+    "building_density_per_km2": 546.46,
+    "cell_id": "G1251"
+  },
+  {
+    "road_density": 31.9456,
+    "building_count": 21,
+    "building_density_per_km2": 84.38,
+    "cell_id": "G1252"
+  },
+  {
+    "road_density": 9.7526,
+    "building_count": 9,
+    "building_density_per_km2": 36.16,
+    "cell_id": "G1253"
+  },
+  {
+    "road_density": 5.3351,
+    "building_count": 5,
+    "building_density_per_km2": 20.09,
+    "cell_id": "G1254"
+  },
+  {
+    "road_density": 0.0,
+    "building_count": 2,
+    "building_density_per_km2": 8.03,
+    "cell_id": "G1255"
+  },
+  {
+    "road_density": 23.4015,
+    "building_count": 1,
+    "building_density_per_km2": 4.02,
+    "cell_id": "G1256"
+  },
+  {
+    "road_density": 28.5451,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1257"
+  },
+  {
+    "road_density": 14.6036,
+    "building_count": 0,
+    "building_density_per_km2": 0.0,
+    "cell_id": "G1258"
+  }
+]

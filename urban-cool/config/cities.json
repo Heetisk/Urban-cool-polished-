@@ -1,0 +1,81 @@
+{
+  "ahmedabad": {
+    "name": "Ahmedabad",
+    "state": "Gujarat",
+    "prefix": "AHM",
+    "bounds": {
+      "lat_min": 23.0,
+      "lat_max": 23.15,
+      "lon_min": 72.5,
+      "lon_max": 72.68
+    },
+    "center": [23.0225, 72.5714],
+    "zoom": 12,
+    "utm_epsg": 32643,
+    "grid_size_m": 500,
+    "rural_baseline_temp": 32.0,
+    "risk_thresholds": {
+      "severe": 34.5,
+      "high": 33.5,
+      "moderate": 33.0
+    },
+    "water_bodies": [
+      {"lat": 23.05, "lon": 72.57, "radius_km": 1.2, "name": "Sabarmati River"},
+      {"lat": 23.02, "lon": 72.52, "radius_km": 0.5, "name": "Kankaria Lake"},
+      {"lat": 23.10, "lon": 72.63, "radius_km": 0.3, "name": "Vastrapur Lake"}
+    ],
+    "parks": [
+      {"lat": 23.06, "lon": 72.55, "radius_km": 0.8, "name": "Riverfront Park"},
+      {"lat": 23.02, "lon": 72.53, "radius_km": 0.4, "name": "Kankaria Garden"},
+      {"lat": 23.08, "lon": 72.60, "radius_km": 0.6, "name": "Indroda Park"}
+    ],
+    "cpcb_stations": [
+      {"id": "guj-ahm-1", "name": "SAC ISRO Bopal", "lat": 23.0487, "lon": 72.5097},
+      {"id": "guj-ahm-2", "name": "Rakhial", "lat": 23.0147, "lon": 72.5867},
+      {"id": "guj-ahm-3", "name": "Maninagar", "lat": 22.9957, "lon": 72.5957},
+      {"id": "guj-ahm-4", "name": "Gyaspur", "lat": 23.0357, "lon": 72.5597},
+      {"id": "guj-ahm-5", "name": "Raikhad", "lat": 23.0197, "lon": 72.5697},
+      {"id": "guj-ahm-6", "name": "Chandkheda", "lat": 23.0797, "lon": 72.5797},
+      {"id": "guj-ahm-7", "name": "SVPI Airport Hansol", "lat": 23.0727, "lon": 72.6297},
+      {"id": "guj-ahm-8", "name": "SAC ISRO Satellite", "lat": 23.0267, "lon": 72.5397}
+    ],
+    "modis_tiles": ["h24v06"],
+    "gee_project": "neon-polymer-427317-s3"
+  },
+  "gandhinagar": {
+    "name": "Gandhinagar",
+    "state": "Gujarat",
+    "prefix": "GAN",
+    "bounds": {
+      "lat_min": 23.19,
+      "lat_max": 23.25,
+      "lon_min": 72.58,
+      "lon_max": 72.70
+    },
+    "center": [23.22, 72.64],
+    "zoom": 12,
+    "utm_epsg": 32643,
+    "grid_size_m": 500,
+    "rural_baseline_temp": 31.5,
+    "risk_thresholds": {
+      "severe": 34.5,
+      "high": 33.5,
+      "moderate": 33.0
+    },
+    "water_bodies": [
+      {"lat": 23.23, "lon": 72.65, "radius_km": 0.8, "name": "Kamleshwar Dam"},
+      {"lat": 23.21, "lon": 72.62, "radius_km": 0.4, "name": "Sardar Sarovar Dam Canal"}
+    ],
+    "parks": [
+      {"lat": 23.22, "lon": 72.64, "radius_km": 0.5, "name": "Indroda Nature Park"},
+      {"lat": 23.20, "lon": 72.60, "radius_km": 0.3, "name": "Gandhi Ashram Park"}
+    ],
+    "cpcb_stations": [
+      {"id": "guj-gan-1", "name": "IIPHG Lekawada", "lat": 23.1957, "lon": 72.6347},
+      {"id": "guj-gan-2", "name": "GIFT City", "lat": 23.1907, "lon": 72.6497},
+      {"id": "guj-gan-3", "name": "Sector-10", "lat": 23.2107, "lon": 72.6397}
+    ],
+    "modis_tiles": ["h24v06"],
+    "gee_project": "neon-polymer-427317-s3"
+  }
+}

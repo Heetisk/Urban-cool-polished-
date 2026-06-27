@@ -1,0 +1,18 @@
+{
+  "tree_cover": {
+    "temp_reduction_per_percent": 0.08,
+    "description": "Temperature reduction per 1% increase in tree cover"
+  },
+  "cool_roof": {
+    "temp_reduction_per_percent": 0.05,
+    "description": "Temperature reduction per 1% of roofs converted to cool roofs"
+  },
+  "green_roof": {
+    "temp_reduction_per_percent": 0.06,
+    "description": "Temperature reduction per 1% of roofs converted to green roofs"
+  },
+  "water_body": {
+    "temp_reduction_per_100sqm": 0.3,
+    "description": "Temperature reduction per 100sqm of new water body"
+  }
+}

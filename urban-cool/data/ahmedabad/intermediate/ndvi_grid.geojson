@@ -1,0 +1,10069 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0000",
+        "ndvi": 0.2588
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0001",
+        "ndvi": 0.2543
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0002",
+        "ndvi": 0.225
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0003",
+        "ndvi": 0.2634
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0004",
+        "ndvi": 0.2805
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0005",
+        "ndvi": 0.2292
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0006",
+        "ndvi": 0.2572
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0007",
+        "ndvi": 0.2995
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0008",
+        "ndvi": 0.3562
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0009",
+        "ndvi": 0.2882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0010",
+        "ndvi": 0.3641
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0011",
+        "ndvi": 0.3386
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0012",
+        "ndvi": 0.3415
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0013",
+        "ndvi": 0.3468
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0014",
+        "ndvi": 0.3467
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0015",
+        "ndvi": 0.3665
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0016",
+        "ndvi": 0.3745
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0017",
+        "ndvi": 0.3437
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0018",
+        "ndvi": 0.3372
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0019",
+        "ndvi": 0.3632
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0020",
+        "ndvi": 0.3108
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0021",
+        "ndvi": 0.3159
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0022",
+        "ndvi": 0.3115
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0023",
+        "ndvi": 0.2752
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0024",
+        "ndvi": 0.2634
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0025",
+        "ndvi": 0.2937
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0026",
+        "ndvi": 0.3442
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0027",
+        "ndvi": 0.3452
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0028",
+        "ndvi": 0.3271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0029",
+        "ndvi": 0.3149
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0030",
+        "ndvi": 0.3368
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0031",
+        "ndvi": 0.3167
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0032",
+        "ndvi": 0.3068
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0033",
+        "ndvi": 0.3194
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0034",
+        "ndvi": 0.3195
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0035",
+        "ndvi": 0.3128
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0000_0036",
+        "ndvi": 0.2687
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0000",
+        "ndvi": 0.2234
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0001",
+        "ndvi": 0.2057
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0002",
+        "ndvi": 0.2141
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0003",
+        "ndvi": 0.2727
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0004",
+        "ndvi": 0.265
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0005",
+        "ndvi": 0.2453
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0006",
+        "ndvi": 0.3056
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0007",
+        "ndvi": 0.2991
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0008",
+        "ndvi": 0.326
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0009",
+        "ndvi": 0.3149
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0010",
+        "ndvi": 0.3475
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0011",
+        "ndvi": 0.3316
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0012",
+        "ndvi": 0.3111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0013",
+        "ndvi": 0.3519
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0014",
+        "ndvi": 0.3709
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0015",
+        "ndvi": 0.4196
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0016",
+        "ndvi": 0.3984
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0017",
+        "ndvi": 0.3442
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0018",
+        "ndvi": 0.3216
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0019",
+        "ndvi": 0.3213
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0020",
+        "ndvi": 0.3223
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0021",
+        "ndvi": 0.3217
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0022",
+        "ndvi": 0.3133
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0023",
+        "ndvi": 0.2502
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0024",
+        "ndvi": 0.2375
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0025",
+        "ndvi": 0.2672
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0026",
+        "ndvi": 0.2934
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0027",
+        "ndvi": 0.3443
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0028",
+        "ndvi": 0.3898
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0029",
+        "ndvi": 0.3935
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0030",
+        "ndvi": 0.3733
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0031",
+        "ndvi": 0.3264
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0032",
+        "ndvi": 0.3255
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0033",
+        "ndvi": 0.3206
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0034",
+        "ndvi": 0.3183
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0035",
+        "ndvi": 0.3739
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0001_0036",
+        "ndvi": 0.332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0000",
+        "ndvi": 0.2234
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0001",
+        "ndvi": 0.2057
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0002",
+        "ndvi": 0.2141
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0003",
+        "ndvi": 0.2727
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0004",
+        "ndvi": 0.265
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0005",
+        "ndvi": 0.2453
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0006",
+        "ndvi": 0.3056
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0007",
+        "ndvi": 0.2991
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0008",
+        "ndvi": 0.326
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0009",
+        "ndvi": 0.3149
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0010",
+        "ndvi": 0.3475
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0011",
+        "ndvi": 0.3316
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0012",
+        "ndvi": 0.3111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0013",
+        "ndvi": 0.3519
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0014",
+        "ndvi": 0.3709
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0015",
+        "ndvi": 0.4196
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0016",
+        "ndvi": 0.3984
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0017",
+        "ndvi": 0.3442
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0018",
+        "ndvi": 0.3216
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0019",
+        "ndvi": 0.3213
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0020",
+        "ndvi": 0.3223
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0021",
+        "ndvi": 0.3217
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0022",
+        "ndvi": 0.3133
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0023",
+        "ndvi": 0.2502
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0024",
+        "ndvi": 0.2375
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0025",
+        "ndvi": 0.2672
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0026",
+        "ndvi": 0.2934
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0027",
+        "ndvi": 0.3443
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0028",
+        "ndvi": 0.3898
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0029",
+        "ndvi": 0.3935
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0030",
+        "ndvi": 0.3733
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0031",
+        "ndvi": 0.3264
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0032",
+        "ndvi": 0.3255
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0033",
+        "ndvi": 0.3206
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0034",
+        "ndvi": 0.3183
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0035",
+        "ndvi": 0.3739
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0002_0036",
+        "ndvi": 0.332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0000",
+        "ndvi": 0.1882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0001",
+        "ndvi": 0.1804
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0002",
+        "ndvi": 0.2697
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0003",
+        "ndvi": 0.2859
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0004",
+        "ndvi": 0.2778
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0005",
+        "ndvi": 0.3075
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0006",
+        "ndvi": 0.3319
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0007",
+        "ndvi": 0.3403
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0008",
+        "ndvi": 0.3441
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0009",
+        "ndvi": 0.3192
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0010",
+        "ndvi": 0.3516
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0011",
+        "ndvi": 0.3298
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0012",
+        "ndvi": 0.3174
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0013",
+        "ndvi": 0.355
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0014",
+        "ndvi": 0.3882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0015",
+        "ndvi": 0.4003
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0016",
+        "ndvi": 0.3754
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0017",
+        "ndvi": 0.3293
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0018",
+        "ndvi": 0.3179
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0019",
+        "ndvi": 0.3224
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0020",
+        "ndvi": 0.3005
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0021",
+        "ndvi": 0.2697
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0022",
+        "ndvi": 0.2708
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0023",
+        "ndvi": 0.27
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0024",
+        "ndvi": 0.2243
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0025",
+        "ndvi": 0.2854
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0026",
+        "ndvi": 0.3317
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0027",
+        "ndvi": 0.3376
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0028",
+        "ndvi": 0.4095
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0029",
+        "ndvi": 0.3644
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0030",
+        "ndvi": 0.3684
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0031",
+        "ndvi": 0.3528
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0032",
+        "ndvi": 0.3248
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0033",
+        "ndvi": 0.3315
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0034",
+        "ndvi": 0.3378
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0035",
+        "ndvi": 0.3327
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0003_0036",
+        "ndvi": 0.3653
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0000",
+        "ndvi": 0.1882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0001",
+        "ndvi": 0.1804
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0002",
+        "ndvi": 0.2697
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0003",
+        "ndvi": 0.2859
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0004",
+        "ndvi": 0.2778
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0005",
+        "ndvi": 0.3075
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0006",
+        "ndvi": 0.3319
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0007",
+        "ndvi": 0.3403
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0008",
+        "ndvi": 0.3441
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0009",
+        "ndvi": 0.3192
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0010",
+        "ndvi": 0.3516
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0011",
+        "ndvi": 0.3298
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0012",
+        "ndvi": 0.3174
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0013",
+        "ndvi": 0.355
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0014",
+        "ndvi": 0.3882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0015",
+        "ndvi": 0.4003
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0016",
+        "ndvi": 0.3754
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0017",
+        "ndvi": 0.3293
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0018",
+        "ndvi": 0.3179
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0019",
+        "ndvi": 0.3224
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0020",
+        "ndvi": 0.3005
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0021",
+        "ndvi": 0.2697
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0022",
+        "ndvi": 0.2708
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0023",
+        "ndvi": 0.27
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0024",
+        "ndvi": 0.2243
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0025",
+        "ndvi": 0.2854
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0026",
+        "ndvi": 0.3317
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0027",
+        "ndvi": 0.3376
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0028",
+        "ndvi": 0.4095
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0029",
+        "ndvi": 0.3644
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0030",
+        "ndvi": 0.3684
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0031",
+        "ndvi": 0.3528
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0032",
+        "ndvi": 0.3248
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0033",
+        "ndvi": 0.3315
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0034",
+        "ndvi": 0.3378
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0035",
+        "ndvi": 0.3327
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0004_0036",
+        "ndvi": 0.3653
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0000",
+        "ndvi": 0.217
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0001",
+        "ndvi": 0.2383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0002",
+        "ndvi": 0.2351
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0003",
+        "ndvi": 0.2653
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0004",
+        "ndvi": 0.257
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0005",
+        "ndvi": 0.2562
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0006",
+        "ndvi": 0.2769
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0007",
+        "ndvi": 0.3245
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0008",
+        "ndvi": 0.3341
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0009",
+        "ndvi": 0.3584
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0010",
+        "ndvi": 0.364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0011",
+        "ndvi": 0.3237
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0012",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0013",
+        "ndvi": 0.3691
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0014",
+        "ndvi": 0.3994
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0015",
+        "ndvi": 0.3816
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0016",
+        "ndvi": 0.3593
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0017",
+        "ndvi": 0.3268
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0018",
+        "ndvi": 0.3367
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0019",
+        "ndvi": 0.3004
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0020",
+        "ndvi": 0.2577
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0021",
+        "ndvi": 0.2582
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0022",
+        "ndvi": 0.2687
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0023",
+        "ndvi": 0.3137
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0024",
+        "ndvi": 0.3014
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0025",
+        "ndvi": 0.3004
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0026",
+        "ndvi": 0.3074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0027",
+        "ndvi": 0.34
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0028",
+        "ndvi": 0.3697
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0029",
+        "ndvi": 0.339
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0030",
+        "ndvi": 0.3545
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0031",
+        "ndvi": 0.3445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0032",
+        "ndvi": 0.3643
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0033",
+        "ndvi": 0.3578
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0034",
+        "ndvi": 0.3397
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0035",
+        "ndvi": 0.3739
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0005_0036",
+        "ndvi": 0.3028
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0000",
+        "ndvi": 0.217
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0001",
+        "ndvi": 0.2383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0002",
+        "ndvi": 0.2351
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0003",
+        "ndvi": 0.2653
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0004",
+        "ndvi": 0.257
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0005",
+        "ndvi": 0.2562
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0006",
+        "ndvi": 0.2769
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0007",
+        "ndvi": 0.3245
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0008",
+        "ndvi": 0.3341
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0009",
+        "ndvi": 0.3584
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0010",
+        "ndvi": 0.364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0011",
+        "ndvi": 0.3237
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0012",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0013",
+        "ndvi": 0.3691
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0014",
+        "ndvi": 0.3994
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0015",
+        "ndvi": 0.3816
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0016",
+        "ndvi": 0.3593
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0017",
+        "ndvi": 0.3268
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0018",
+        "ndvi": 0.3367
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0019",
+        "ndvi": 0.3004
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0020",
+        "ndvi": 0.2577
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0021",
+        "ndvi": 0.2582
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0022",
+        "ndvi": 0.2687
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0023",
+        "ndvi": 0.3137
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0024",
+        "ndvi": 0.3014
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0025",
+        "ndvi": 0.3004
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0026",
+        "ndvi": 0.3074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0027",
+        "ndvi": 0.34
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0028",
+        "ndvi": 0.3697
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0029",
+        "ndvi": 0.339
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0030",
+        "ndvi": 0.3545
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0031",
+        "ndvi": 0.3445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0032",
+        "ndvi": 0.3643
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0033",
+        "ndvi": 0.3578
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0034",
+        "ndvi": 0.3397
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0035",
+        "ndvi": 0.3739
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0006_0036",
+        "ndvi": 0.3028
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0000",
+        "ndvi": 0.2267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0001",
+        "ndvi": 0.2586
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0002",
+        "ndvi": 0.2836
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0003",
+        "ndvi": 0.268
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0004",
+        "ndvi": 0.2404
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0005",
+        "ndvi": 0.2477
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0006",
+        "ndvi": 0.3074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0007",
+        "ndvi": 0.354
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0008",
+        "ndvi": 0.3509
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0009",
+        "ndvi": 0.3457
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0010",
+        "ndvi": 0.3295
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0011",
+        "ndvi": 0.3297
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0012",
+        "ndvi": 0.314
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0013",
+        "ndvi": 0.338
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0014",
+        "ndvi": 0.3394
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0015",
+        "ndvi": 0.3699
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0016",
+        "ndvi": 0.3591
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0017",
+        "ndvi": 0.33
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0018",
+        "ndvi": 0.3179
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0019",
+        "ndvi": 0.284
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0020",
+        "ndvi": 0.2617
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0021",
+        "ndvi": 0.2833
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0022",
+        "ndvi": 0.2587
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0023",
+        "ndvi": 0.2951
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0024",
+        "ndvi": 0.2827
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0025",
+        "ndvi": 0.293
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0026",
+        "ndvi": 0.3306
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0027",
+        "ndvi": 0.3585
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0028",
+        "ndvi": 0.3815
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0029",
+        "ndvi": 0.3665
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0030",
+        "ndvi": 0.3747
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0031",
+        "ndvi": 0.3671
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0032",
+        "ndvi": 0.3365
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0033",
+        "ndvi": 0.3229
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0034",
+        "ndvi": 0.3517
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0035",
+        "ndvi": 0.3804
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0007_0036",
+        "ndvi": 0.3233
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0000",
+        "ndvi": 0.2267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0001",
+        "ndvi": 0.2586
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0002",
+        "ndvi": 0.2836
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0003",
+        "ndvi": 0.268
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0004",
+        "ndvi": 0.2404
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0005",
+        "ndvi": 0.2477
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0006",
+        "ndvi": 0.3074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0007",
+        "ndvi": 0.354
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0008",
+        "ndvi": 0.3509
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0009",
+        "ndvi": 0.3457
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0010",
+        "ndvi": 0.3295
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0011",
+        "ndvi": 0.3297
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0012",
+        "ndvi": 0.314
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0013",
+        "ndvi": 0.338
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0014",
+        "ndvi": 0.3394
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0015",
+        "ndvi": 0.3699
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0016",
+        "ndvi": 0.3591
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0017",
+        "ndvi": 0.33
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0018",
+        "ndvi": 0.3179
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0019",
+        "ndvi": 0.284
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0020",
+        "ndvi": 0.2617
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0021",
+        "ndvi": 0.2833
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0022",
+        "ndvi": 0.2587
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0023",
+        "ndvi": 0.2951
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0024",
+        "ndvi": 0.2827
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0025",
+        "ndvi": 0.293
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0026",
+        "ndvi": 0.3306
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0027",
+        "ndvi": 0.3585
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0028",
+        "ndvi": 0.3815
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0029",
+        "ndvi": 0.3665
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0030",
+        "ndvi": 0.3747
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0031",
+        "ndvi": 0.3671
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0032",
+        "ndvi": 0.3365
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0033",
+        "ndvi": 0.3229
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0034",
+        "ndvi": 0.3517
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0035",
+        "ndvi": 0.3804
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0008_0036",
+        "ndvi": 0.3233
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0000",
+        "ndvi": 0.2332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0001",
+        "ndvi": 0.247
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0002",
+        "ndvi": 0.2684
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0003",
+        "ndvi": 0.2577
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0004",
+        "ndvi": 0.2477
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0005",
+        "ndvi": 0.266
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0006",
+        "ndvi": 0.3081
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0007",
+        "ndvi": 0.3705
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0008",
+        "ndvi": 0.3437
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0009",
+        "ndvi": 0.335
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0010",
+        "ndvi": 0.3602
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0011",
+        "ndvi": 0.371
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0012",
+        "ndvi": 0.2967
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0013",
+        "ndvi": 0.3175
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0014",
+        "ndvi": 0.3567
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0015",
+        "ndvi": 0.3365
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0016",
+        "ndvi": 0.3428
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0017",
+        "ndvi": 0.3241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0018",
+        "ndvi": 0.3003
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0019",
+        "ndvi": 0.287
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0020",
+        "ndvi": 0.2739
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0021",
+        "ndvi": 0.2283
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0022",
+        "ndvi": 0.2458
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0023",
+        "ndvi": 0.2589
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0024",
+        "ndvi": 0.2701
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0025",
+        "ndvi": 0.2886
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0026",
+        "ndvi": 0.3119
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0027",
+        "ndvi": 0.3305
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0028",
+        "ndvi": 0.3279
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0029",
+        "ndvi": 0.3596
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0030",
+        "ndvi": 0.3869
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0031",
+        "ndvi": 0.3945
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0032",
+        "ndvi": 0.3487
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0033",
+        "ndvi": 0.3431
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0034",
+        "ndvi": 0.3441
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0035",
+        "ndvi": 0.3991
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0009_0036",
+        "ndvi": 0.3374
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0000",
+        "ndvi": 0.2332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0001",
+        "ndvi": 0.247
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0002",
+        "ndvi": 0.2684
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0003",
+        "ndvi": 0.2577
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0004",
+        "ndvi": 0.2477
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0005",
+        "ndvi": 0.266
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0006",
+        "ndvi": 0.3081
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0007",
+        "ndvi": 0.3705
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0008",
+        "ndvi": 0.3437
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0009",
+        "ndvi": 0.335
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0010",
+        "ndvi": 0.3602
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0011",
+        "ndvi": 0.371
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0012",
+        "ndvi": 0.2967
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0013",
+        "ndvi": 0.3175
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0014",
+        "ndvi": 0.3567
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0015",
+        "ndvi": 0.3365
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0016",
+        "ndvi": 0.3428
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0017",
+        "ndvi": 0.3241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0018",
+        "ndvi": 0.3003
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0019",
+        "ndvi": 0.287
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0020",
+        "ndvi": 0.2739
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0021",
+        "ndvi": 0.2283
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0022",
+        "ndvi": 0.2458
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0023",
+        "ndvi": 0.2589
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0024",
+        "ndvi": 0.2701
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0025",
+        "ndvi": 0.2886
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0026",
+        "ndvi": 0.3119
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0027",
+        "ndvi": 0.3305
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0028",
+        "ndvi": 0.3279
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0029",
+        "ndvi": 0.3596
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0030",
+        "ndvi": 0.3869
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0031",
+        "ndvi": 0.3945
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0032",
+        "ndvi": 0.3487
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0033",
+        "ndvi": 0.3431
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0034",
+        "ndvi": 0.3441
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0035",
+        "ndvi": 0.3991
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0010_0036",
+        "ndvi": 0.3374
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0000",
+        "ndvi": 0.2447
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0001",
+        "ndvi": 0.2452
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0002",
+        "ndvi": 0.2516
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0003",
+        "ndvi": 0.2524
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0004",
+        "ndvi": 0.2796
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0005",
+        "ndvi": 0.3057
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0006",
+        "ndvi": 0.3093
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0007",
+        "ndvi": 0.3049
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0008",
+        "ndvi": 0.2842
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0009",
+        "ndvi": 0.3118
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0010",
+        "ndvi": 0.3325
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0011",
+        "ndvi": 0.3209
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0012",
+        "ndvi": 0.3218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0013",
+        "ndvi": 0.3483
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0014",
+        "ndvi": 0.3439
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0015",
+        "ndvi": 0.3445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0016",
+        "ndvi": 0.3419
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0017",
+        "ndvi": 0.3513
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0018",
+        "ndvi": 0.3209
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0019",
+        "ndvi": 0.3027
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0020",
+        "ndvi": 0.272
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0021",
+        "ndvi": 0.2259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0022",
+        "ndvi": 0.2532
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0023",
+        "ndvi": 0.2347
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0024",
+        "ndvi": 0.2917
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0025",
+        "ndvi": 0.3034
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0026",
+        "ndvi": 0.3124
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0027",
+        "ndvi": 0.3288
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0028",
+        "ndvi": 0.3296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0029",
+        "ndvi": 0.3664
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0030",
+        "ndvi": 0.3667
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0031",
+        "ndvi": 0.3663
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0032",
+        "ndvi": 0.281
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0033",
+        "ndvi": 0.378
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0034",
+        "ndvi": 0.3714
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0035",
+        "ndvi": 0.3615
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0011_0036",
+        "ndvi": 0.3607
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0000",
+        "ndvi": 0.2447
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0001",
+        "ndvi": 0.2452
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0002",
+        "ndvi": 0.2516
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0003",
+        "ndvi": 0.2524
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0004",
+        "ndvi": 0.2796
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0005",
+        "ndvi": 0.3057
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0006",
+        "ndvi": 0.3093
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0007",
+        "ndvi": 0.3049
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0008",
+        "ndvi": 0.2842
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0009",
+        "ndvi": 0.3118
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0010",
+        "ndvi": 0.3325
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0011",
+        "ndvi": 0.3209
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0012",
+        "ndvi": 0.3218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0013",
+        "ndvi": 0.3483
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0014",
+        "ndvi": 0.3439
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0015",
+        "ndvi": 0.3445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0016",
+        "ndvi": 0.3419
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0017",
+        "ndvi": 0.3513
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0018",
+        "ndvi": 0.3209
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0019",
+        "ndvi": 0.3027
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0020",
+        "ndvi": 0.272
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0021",
+        "ndvi": 0.2259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0022",
+        "ndvi": 0.2532
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0023",
+        "ndvi": 0.2347
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0024",
+        "ndvi": 0.2917
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0025",
+        "ndvi": 0.3034
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0026",
+        "ndvi": 0.3124
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0027",
+        "ndvi": 0.3288
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0028",
+        "ndvi": 0.3296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0029",
+        "ndvi": 0.3664
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0030",
+        "ndvi": 0.3667
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0031",
+        "ndvi": 0.3663
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0032",
+        "ndvi": 0.281
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0033",
+        "ndvi": 0.378
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0034",
+        "ndvi": 0.3714
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0035",
+        "ndvi": 0.3615
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0012_0036",
+        "ndvi": 0.3607
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0000",
+        "ndvi": 0.241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0001",
+        "ndvi": 0.2476
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0002",
+        "ndvi": 0.2416
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0003",
+        "ndvi": 0.2422
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0004",
+        "ndvi": 0.2642
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0005",
+        "ndvi": 0.3028
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0006",
+        "ndvi": 0.3031
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0007",
+        "ndvi": 0.2561
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0008",
+        "ndvi": 0.2784
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0009",
+        "ndvi": 0.2934
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0010",
+        "ndvi": 0.2932
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0011",
+        "ndvi": 0.3543
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0012",
+        "ndvi": 0.342
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0013",
+        "ndvi": 0.3391
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0014",
+        "ndvi": 0.3267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0015",
+        "ndvi": 0.3109
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0016",
+        "ndvi": 0.364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0017",
+        "ndvi": 0.3393
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0018",
+        "ndvi": 0.3402
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0019",
+        "ndvi": 0.343
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0020",
+        "ndvi": 0.253
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0021",
+        "ndvi": 0.2439
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0022",
+        "ndvi": 0.2535
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0023",
+        "ndvi": 0.3002
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0024",
+        "ndvi": 0.3029
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0025",
+        "ndvi": 0.3107
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0026",
+        "ndvi": 0.3299
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0027",
+        "ndvi": 0.3012
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0028",
+        "ndvi": 0.2819
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0029",
+        "ndvi": 0.3724
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0030",
+        "ndvi": 0.3889
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0031",
+        "ndvi": 0.3811
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0032",
+        "ndvi": 0.3711
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0033",
+        "ndvi": 0.3806
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0034",
+        "ndvi": 0.3883
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0035",
+        "ndvi": 0.3475
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0013_0036",
+        "ndvi": 0.3316
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0000",
+        "ndvi": 0.2111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0001",
+        "ndvi": 0.2029
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0002",
+        "ndvi": 0.2339
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0003",
+        "ndvi": 0.2525
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0004",
+        "ndvi": 0.2809
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0005",
+        "ndvi": 0.2547
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0006",
+        "ndvi": 0.2359
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0007",
+        "ndvi": 0.2265
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0008",
+        "ndvi": 0.2402
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0009",
+        "ndvi": 0.2682
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0010",
+        "ndvi": 0.2682
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0011",
+        "ndvi": 0.296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0012",
+        "ndvi": 0.3455
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0013",
+        "ndvi": 0.3225
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0014",
+        "ndvi": 0.3074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0015",
+        "ndvi": 0.3052
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0016",
+        "ndvi": 0.3259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0017",
+        "ndvi": 0.3198
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0018",
+        "ndvi": 0.3496
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0019",
+        "ndvi": 0.2856
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0020",
+        "ndvi": 0.2688
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0021",
+        "ndvi": 0.2788
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0022",
+        "ndvi": 0.3093
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0023",
+        "ndvi": 0.3053
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0024",
+        "ndvi": 0.2774
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0025",
+        "ndvi": 0.2788
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0026",
+        "ndvi": 0.3426
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0027",
+        "ndvi": 0.326
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0028",
+        "ndvi": 0.3645
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0029",
+        "ndvi": 0.3541
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0030",
+        "ndvi": 0.4134
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0031",
+        "ndvi": 0.4077
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0032",
+        "ndvi": 0.3672
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0033",
+        "ndvi": 0.3882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0034",
+        "ndvi": 0.3619
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0035",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0014_0036",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0000",
+        "ndvi": 0.2111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0001",
+        "ndvi": 0.2029
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0002",
+        "ndvi": 0.2339
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0003",
+        "ndvi": 0.2525
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0004",
+        "ndvi": 0.2809
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0005",
+        "ndvi": 0.2547
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0006",
+        "ndvi": 0.2359
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0007",
+        "ndvi": 0.2265
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0008",
+        "ndvi": 0.2402
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0009",
+        "ndvi": 0.2682
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0010",
+        "ndvi": 0.2682
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0011",
+        "ndvi": 0.296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0012",
+        "ndvi": 0.3455
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0013",
+        "ndvi": 0.3225
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0014",
+        "ndvi": 0.3074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0015",
+        "ndvi": 0.3052
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0016",
+        "ndvi": 0.3259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0017",
+        "ndvi": 0.3198
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0018",
+        "ndvi": 0.3496
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0019",
+        "ndvi": 0.2856
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0020",
+        "ndvi": 0.2688
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0021",
+        "ndvi": 0.2788
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0022",
+        "ndvi": 0.3093
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0023",
+        "ndvi": 0.3053
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0024",
+        "ndvi": 0.2774
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0025",
+        "ndvi": 0.2788
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0026",
+        "ndvi": 0.3426
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0027",
+        "ndvi": 0.326
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0028",
+        "ndvi": 0.3645
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0029",
+        "ndvi": 0.3541
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0030",
+        "ndvi": 0.4134
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0031",
+        "ndvi": 0.4077
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0032",
+        "ndvi": 0.3672
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0033",
+        "ndvi": 0.3882
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0034",
+        "ndvi": 0.3619
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0035",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0015_0036",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0000",
+        "ndvi": 0.2208
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0001",
+        "ndvi": 0.206
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0002",
+        "ndvi": 0.2139
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0003",
+        "ndvi": 0.2439
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0004",
+        "ndvi": 0.2383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0005",
+        "ndvi": 0.2256
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0006",
+        "ndvi": 0.2111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0007",
+        "ndvi": 0.246
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0008",
+        "ndvi": 0.2498
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0009",
+        "ndvi": 0.2612
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0010",
+        "ndvi": 0.2635
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0011",
+        "ndvi": 0.2487
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0012",
+        "ndvi": 0.2628
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0013",
+        "ndvi": 0.2667
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0014",
+        "ndvi": 0.2501
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0015",
+        "ndvi": 0.3259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0016",
+        "ndvi": 0.2999
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0017",
+        "ndvi": 0.302
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0018",
+        "ndvi": 0.292
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0019",
+        "ndvi": 0.2826
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0020",
+        "ndvi": 0.3051
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0021",
+        "ndvi": 0.3294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0022",
+        "ndvi": 0.3557
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0023",
+        "ndvi": 0.3197
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0024",
+        "ndvi": 0.3284
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0025",
+        "ndvi": 0.3107
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0026",
+        "ndvi": 0.3787
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0027",
+        "ndvi": 0.3552
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0028",
+        "ndvi": 0.3807
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0029",
+        "ndvi": 0.3267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0030",
+        "ndvi": 0.3824
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0031",
+        "ndvi": 0.3372
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0032",
+        "ndvi": 0.3625
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0033",
+        "ndvi": 0.3702
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0034",
+        "ndvi": 0.3383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0035",
+        "ndvi": 0.3258
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0016_0036",
+        "ndvi": 0.3163
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0000",
+        "ndvi": 0.2208
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0001",
+        "ndvi": 0.206
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0002",
+        "ndvi": 0.2139
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0003",
+        "ndvi": 0.2439
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0004",
+        "ndvi": 0.2383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0005",
+        "ndvi": 0.2256
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0006",
+        "ndvi": 0.2111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0007",
+        "ndvi": 0.246
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0008",
+        "ndvi": 0.2498
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0009",
+        "ndvi": 0.2612
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0010",
+        "ndvi": 0.2635
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0011",
+        "ndvi": 0.2487
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0012",
+        "ndvi": 0.2628
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0013",
+        "ndvi": 0.2667
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0014",
+        "ndvi": 0.2501
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0015",
+        "ndvi": 0.3259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0016",
+        "ndvi": 0.2999
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0017",
+        "ndvi": 0.302
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0018",
+        "ndvi": 0.292
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0019",
+        "ndvi": 0.2826
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0020",
+        "ndvi": 0.3051
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0021",
+        "ndvi": 0.3294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0022",
+        "ndvi": 0.3557
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0023",
+        "ndvi": 0.3197
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0024",
+        "ndvi": 0.3284
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0025",
+        "ndvi": 0.3107
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0026",
+        "ndvi": 0.3787
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0027",
+        "ndvi": 0.3552
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0028",
+        "ndvi": 0.3807
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0029",
+        "ndvi": 0.3267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0030",
+        "ndvi": 0.3824
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0031",
+        "ndvi": 0.3372
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0032",
+        "ndvi": 0.3625
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0033",
+        "ndvi": 0.3702
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0034",
+        "ndvi": 0.3383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0035",
+        "ndvi": 0.3258
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0017_0036",
+        "ndvi": 0.3163
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0000",
+        "ndvi": 0.1989
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0001",
+        "ndvi": 0.2271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0002",
+        "ndvi": 0.2376
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0003",
+        "ndvi": 0.2352
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0004",
+        "ndvi": 0.2236
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0005",
+        "ndvi": 0.2121
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0006",
+        "ndvi": 0.2141
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0007",
+        "ndvi": 0.2294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0008",
+        "ndvi": 0.2397
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0009",
+        "ndvi": 0.2423
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0010",
+        "ndvi": 0.2549
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0011",
+        "ndvi": 0.282
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0012",
+        "ndvi": 0.2898
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0013",
+        "ndvi": 0.2656
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0014",
+        "ndvi": 0.2871
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0015",
+        "ndvi": 0.2857
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0016",
+        "ndvi": 0.275
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0017",
+        "ndvi": 0.2677
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0018",
+        "ndvi": 0.3167
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0019",
+        "ndvi": 0.3154
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0020",
+        "ndvi": 0.3061
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0021",
+        "ndvi": 0.2929
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0022",
+        "ndvi": 0.3353
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0023",
+        "ndvi": 0.3575
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0024",
+        "ndvi": 0.3566
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0025",
+        "ndvi": 0.3297
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0026",
+        "ndvi": 0.3246
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0027",
+        "ndvi": 0.3851
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0028",
+        "ndvi": 0.3051
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0029",
+        "ndvi": 0.3458
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0030",
+        "ndvi": 0.3578
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0031",
+        "ndvi": 0.3381
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0032",
+        "ndvi": 0.3977
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0033",
+        "ndvi": 0.3212
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0034",
+        "ndvi": 0.2389
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0035",
+        "ndvi": 0.2874
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0018_0036",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0000",
+        "ndvi": 0.1989
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0001",
+        "ndvi": 0.2271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0002",
+        "ndvi": 0.2376
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0003",
+        "ndvi": 0.2352
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0004",
+        "ndvi": 0.2236
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0005",
+        "ndvi": 0.2121
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0006",
+        "ndvi": 0.2141
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0007",
+        "ndvi": 0.2294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0008",
+        "ndvi": 0.2397
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0009",
+        "ndvi": 0.2423
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0010",
+        "ndvi": 0.2549
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0011",
+        "ndvi": 0.282
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0012",
+        "ndvi": 0.2898
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0013",
+        "ndvi": 0.2656
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0014",
+        "ndvi": 0.2871
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0015",
+        "ndvi": 0.2857
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0016",
+        "ndvi": 0.275
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0017",
+        "ndvi": 0.2677
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0018",
+        "ndvi": 0.3167
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0019",
+        "ndvi": 0.3154
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0020",
+        "ndvi": 0.3061
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0021",
+        "ndvi": 0.2929
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0022",
+        "ndvi": 0.3353
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0023",
+        "ndvi": 0.3575
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0024",
+        "ndvi": 0.3566
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0025",
+        "ndvi": 0.3297
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0026",
+        "ndvi": 0.3246
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0027",
+        "ndvi": 0.3851
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0028",
+        "ndvi": 0.3051
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0029",
+        "ndvi": 0.3458
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0030",
+        "ndvi": 0.3578
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0031",
+        "ndvi": 0.3381
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0032",
+        "ndvi": 0.3977
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0033",
+        "ndvi": 0.3212
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0034",
+        "ndvi": 0.2389
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0035",
+        "ndvi": 0.2874
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0019_0036",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0000",
+        "ndvi": 0.2199
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0001",
+        "ndvi": 0.2156
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0002",
+        "ndvi": 0.2393
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0003",
+        "ndvi": 0.2162
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0004",
+        "ndvi": 0.2273
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0005",
+        "ndvi": 0.2332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0006",
+        "ndvi": 0.2294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0007",
+        "ndvi": 0.2015
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0008",
+        "ndvi": 0.2422
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0009",
+        "ndvi": 0.2261
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0010",
+        "ndvi": 0.2761
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0011",
+        "ndvi": 0.2801
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0012",
+        "ndvi": 0.2889
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0013",
+        "ndvi": 0.2826
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0014",
+        "ndvi": 0.2961
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0015",
+        "ndvi": 0.2694
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0016",
+        "ndvi": 0.2819
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0017",
+        "ndvi": 0.2865
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0018",
+        "ndvi": 0.2913
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0019",
+        "ndvi": 0.3365
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0020",
+        "ndvi": 0.3233
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0021",
+        "ndvi": 0.3056
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0022",
+        "ndvi": 0.3242
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0023",
+        "ndvi": 0.3221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0024",
+        "ndvi": 0.3514
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0025",
+        "ndvi": 0.3101
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0026",
+        "ndvi": 0.3172
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0027",
+        "ndvi": 0.3101
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0028",
+        "ndvi": 0.3102
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0029",
+        "ndvi": 0.3279
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0030",
+        "ndvi": 0.3822
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0031",
+        "ndvi": 0.3809
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0032",
+        "ndvi": 0.335
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0033",
+        "ndvi": 0.3104
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0034",
+        "ndvi": 0.3134
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0035",
+        "ndvi": 0.313
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0020_0036",
+        "ndvi": 0.3445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0000",
+        "ndvi": 0.2199
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0001",
+        "ndvi": 0.2156
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0002",
+        "ndvi": 0.2393
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0003",
+        "ndvi": 0.2162
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0004",
+        "ndvi": 0.2273
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0005",
+        "ndvi": 0.2332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0006",
+        "ndvi": 0.2294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0007",
+        "ndvi": 0.2015
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0008",
+        "ndvi": 0.2422
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0009",
+        "ndvi": 0.2261
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0010",
+        "ndvi": 0.2761
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0011",
+        "ndvi": 0.2801
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0012",
+        "ndvi": 0.2889
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0013",
+        "ndvi": 0.2826
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0014",
+        "ndvi": 0.2961
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0015",
+        "ndvi": 0.2694
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0016",
+        "ndvi": 0.2819
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0017",
+        "ndvi": 0.2865
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0018",
+        "ndvi": 0.2913
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0019",
+        "ndvi": 0.3365
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0020",
+        "ndvi": 0.3233
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0021",
+        "ndvi": 0.3056
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0022",
+        "ndvi": 0.3242
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0023",
+        "ndvi": 0.3221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0024",
+        "ndvi": 0.3514
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0025",
+        "ndvi": 0.3101
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0026",
+        "ndvi": 0.3172
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0027",
+        "ndvi": 0.3101
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0028",
+        "ndvi": 0.3102
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0029",
+        "ndvi": 0.3279
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0030",
+        "ndvi": 0.3822
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0031",
+        "ndvi": 0.3809
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0032",
+        "ndvi": 0.335
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0033",
+        "ndvi": 0.3104
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0034",
+        "ndvi": 0.3134
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0035",
+        "ndvi": 0.313
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0021_0036",
+        "ndvi": 0.3445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0000",
+        "ndvi": 0.222
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0001",
+        "ndvi": 0.2283
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0002",
+        "ndvi": 0.2207
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0003",
+        "ndvi": 0.2301
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0004",
+        "ndvi": 0.2243
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0005",
+        "ndvi": 0.209
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0006",
+        "ndvi": 0.211
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0007",
+        "ndvi": 0.2112
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0008",
+        "ndvi": 0.2636
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0009",
+        "ndvi": 0.2737
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0010",
+        "ndvi": 0.2933
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0011",
+        "ndvi": 0.2321
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0012",
+        "ndvi": 0.3064
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0013",
+        "ndvi": 0.3354
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0014",
+        "ndvi": 0.2791
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0015",
+        "ndvi": 0.232
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0016",
+        "ndvi": 0.2481
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0017",
+        "ndvi": 0.2567
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0018",
+        "ndvi": 0.3208
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0019",
+        "ndvi": 0.2978
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0020",
+        "ndvi": 0.2725
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0021",
+        "ndvi": 0.3122
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0022",
+        "ndvi": 0.3128
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0023",
+        "ndvi": 0.3545
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0024",
+        "ndvi": 0.3125
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0025",
+        "ndvi": 0.2831
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0026",
+        "ndvi": 0.3114
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0027",
+        "ndvi": 0.3551
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0028",
+        "ndvi": 0.3241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0029",
+        "ndvi": 0.3356
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0030",
+        "ndvi": 0.3564
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0031",
+        "ndvi": 0.3142
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0032",
+        "ndvi": 0.3224
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0033",
+        "ndvi": 0.3219
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0034",
+        "ndvi": 0.2663
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0035",
+        "ndvi": 0.2806
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0022_0036",
+        "ndvi": 0.3596
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0000",
+        "ndvi": 0.222
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0001",
+        "ndvi": 0.2283
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0002",
+        "ndvi": 0.2207
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0003",
+        "ndvi": 0.2301
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0004",
+        "ndvi": 0.2243
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0005",
+        "ndvi": 0.209
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0006",
+        "ndvi": 0.211
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0007",
+        "ndvi": 0.2112
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0008",
+        "ndvi": 0.2636
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0009",
+        "ndvi": 0.2737
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0010",
+        "ndvi": 0.2933
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0011",
+        "ndvi": 0.2321
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0012",
+        "ndvi": 0.3064
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0013",
+        "ndvi": 0.3354
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0014",
+        "ndvi": 0.2791
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0015",
+        "ndvi": 0.232
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0016",
+        "ndvi": 0.2481
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0017",
+        "ndvi": 0.2567
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0018",
+        "ndvi": 0.3208
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0019",
+        "ndvi": 0.2978
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0020",
+        "ndvi": 0.2725
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0021",
+        "ndvi": 0.3122
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0022",
+        "ndvi": 0.3128
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0023",
+        "ndvi": 0.3545
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0024",
+        "ndvi": 0.3125
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0025",
+        "ndvi": 0.2831
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0026",
+        "ndvi": 0.3114
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0027",
+        "ndvi": 0.3551
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0028",
+        "ndvi": 0.3241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0029",
+        "ndvi": 0.3356
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0030",
+        "ndvi": 0.3564
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0031",
+        "ndvi": 0.3142
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0032",
+        "ndvi": 0.3224
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0033",
+        "ndvi": 0.3219
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0034",
+        "ndvi": 0.2663
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0035",
+        "ndvi": 0.2806
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0023_0036",
+        "ndvi": 0.3596
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0000",
+        "ndvi": 0.2183
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0001",
+        "ndvi": 0.2316
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0002",
+        "ndvi": 0.2269
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0003",
+        "ndvi": 0.2407
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0004",
+        "ndvi": 0.2361
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0005",
+        "ndvi": 0.2241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0006",
+        "ndvi": 0.1855
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0007",
+        "ndvi": 0.2261
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0008",
+        "ndvi": 0.2803
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0009",
+        "ndvi": 0.296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0010",
+        "ndvi": 0.3141
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0011",
+        "ndvi": 0.2916
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0012",
+        "ndvi": 0.2494
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0013",
+        "ndvi": 0.2564
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0014",
+        "ndvi": 0.2846
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0015",
+        "ndvi": 0.2996
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0016",
+        "ndvi": 0.3083
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0017",
+        "ndvi": 0.3241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0018",
+        "ndvi": 0.2856
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0019",
+        "ndvi": 0.3075
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0020",
+        "ndvi": 0.2983
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0021",
+        "ndvi": 0.292
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0022",
+        "ndvi": 0.2899
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0023",
+        "ndvi": 0.2631
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0024",
+        "ndvi": 0.2585
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0025",
+        "ndvi": 0.3156
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0026",
+        "ndvi": 0.3115
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0027",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0028",
+        "ndvi": 0.3406
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0029",
+        "ndvi": 0.3622
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0030",
+        "ndvi": 0.3296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0031",
+        "ndvi": 0.3103
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0032",
+        "ndvi": 0.3242
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0033",
+        "ndvi": 0.2919
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0034",
+        "ndvi": 0.2411
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0035",
+        "ndvi": 0.2838
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0024_0036",
+        "ndvi": 0.3271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0000",
+        "ndvi": 0.2183
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0001",
+        "ndvi": 0.2316
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0002",
+        "ndvi": 0.2269
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0003",
+        "ndvi": 0.2407
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0004",
+        "ndvi": 0.2361
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0005",
+        "ndvi": 0.2241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0006",
+        "ndvi": 0.1855
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0007",
+        "ndvi": 0.2261
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0008",
+        "ndvi": 0.2803
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0009",
+        "ndvi": 0.296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0010",
+        "ndvi": 0.3141
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0011",
+        "ndvi": 0.2916
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0012",
+        "ndvi": 0.2494
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0013",
+        "ndvi": 0.2564
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0014",
+        "ndvi": 0.2846
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0015",
+        "ndvi": 0.2996
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0016",
+        "ndvi": 0.3083
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0017",
+        "ndvi": 0.3241
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0018",
+        "ndvi": 0.2856
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0019",
+        "ndvi": 0.3075
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0020",
+        "ndvi": 0.2983
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0021",
+        "ndvi": 0.292
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0022",
+        "ndvi": 0.2899
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0023",
+        "ndvi": 0.2631
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0024",
+        "ndvi": 0.2585
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0025",
+        "ndvi": 0.3156
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0026",
+        "ndvi": 0.3115
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0027",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0028",
+        "ndvi": 0.3406
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0029",
+        "ndvi": 0.3622
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0030",
+        "ndvi": 0.3296
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0031",
+        "ndvi": 0.3103
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0032",
+        "ndvi": 0.3242
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0033",
+        "ndvi": 0.2919
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0034",
+        "ndvi": 0.2411
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0035",
+        "ndvi": 0.2838
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0025_0036",
+        "ndvi": 0.3271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0000",
+        "ndvi": 0.2255
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0001",
+        "ndvi": 0.2285
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0002",
+        "ndvi": 0.2332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0003",
+        "ndvi": 0.2212
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0004",
+        "ndvi": 0.2382
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0005",
+        "ndvi": 0.2107
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0006",
+        "ndvi": 0.218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0007",
+        "ndvi": 0.2285
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0008",
+        "ndvi": 0.2622
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0009",
+        "ndvi": 0.2203
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0010",
+        "ndvi": 0.2927
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0011",
+        "ndvi": 0.2821
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0012",
+        "ndvi": 0.3
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0013",
+        "ndvi": 0.2895
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0014",
+        "ndvi": 0.3173
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0015",
+        "ndvi": 0.308
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0016",
+        "ndvi": 0.3052
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0017",
+        "ndvi": 0.3226
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0018",
+        "ndvi": 0.2871
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0019",
+        "ndvi": 0.2676
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0020",
+        "ndvi": 0.299
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0021",
+        "ndvi": 0.3091
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0022",
+        "ndvi": 0.2667
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0023",
+        "ndvi": 0.255
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0024",
+        "ndvi": 0.2853
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0025",
+        "ndvi": 0.309
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0026",
+        "ndvi": 0.2943
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0027",
+        "ndvi": 0.3358
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0028",
+        "ndvi": 0.3492
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0029",
+        "ndvi": 0.3809
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0030",
+        "ndvi": 0.327
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0031",
+        "ndvi": 0.3302
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0032",
+        "ndvi": 0.2834
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0033",
+        "ndvi": 0.2999
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0034",
+        "ndvi": 0.2771
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0035",
+        "ndvi": 0.3019
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0026_0036",
+        "ndvi": 0.3332
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0000",
+        "ndvi": 0.2424
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0001",
+        "ndvi": 0.2573
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0002",
+        "ndvi": 0.2718
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0003",
+        "ndvi": 0.2236
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0004",
+        "ndvi": 0.224
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0005",
+        "ndvi": 0.2221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0006",
+        "ndvi": 0.2492
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0007",
+        "ndvi": 0.2549
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0008",
+        "ndvi": 0.2297
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0009",
+        "ndvi": 0.242
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0010",
+        "ndvi": 0.3051
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0011",
+        "ndvi": 0.3164
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0012",
+        "ndvi": 0.2798
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0013",
+        "ndvi": 0.2666
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0014",
+        "ndvi": 0.327
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0015",
+        "ndvi": 0.4174
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0016",
+        "ndvi": 0.3957
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0017",
+        "ndvi": 0.3615
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0018",
+        "ndvi": 0.3167
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0019",
+        "ndvi": 0.2747
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0020",
+        "ndvi": 0.3001
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0021",
+        "ndvi": 0.2981
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0022",
+        "ndvi": 0.2891
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0023",
+        "ndvi": 0.3111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0024",
+        "ndvi": 0.2931
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0025",
+        "ndvi": 0.2943
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0026",
+        "ndvi": 0.3037
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0027",
+        "ndvi": 0.3386
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0028",
+        "ndvi": 0.3424
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0029",
+        "ndvi": 0.3743
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0030",
+        "ndvi": 0.337
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0031",
+        "ndvi": 0.3282
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0032",
+        "ndvi": 0.3233
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0033",
+        "ndvi": 0.3193
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0034",
+        "ndvi": 0.2762
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0035",
+        "ndvi": 0.3197
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0027_0036",
+        "ndvi": 0.3064
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0000",
+        "ndvi": 0.2424
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0001",
+        "ndvi": 0.2573
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0002",
+        "ndvi": 0.2718
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0003",
+        "ndvi": 0.2236
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0004",
+        "ndvi": 0.224
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0005",
+        "ndvi": 0.2221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0006",
+        "ndvi": 0.2492
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0007",
+        "ndvi": 0.2549
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0008",
+        "ndvi": 0.2297
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0009",
+        "ndvi": 0.242
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0010",
+        "ndvi": 0.3051
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0011",
+        "ndvi": 0.3164
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0012",
+        "ndvi": 0.2798
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0013",
+        "ndvi": 0.2666
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0014",
+        "ndvi": 0.327
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0015",
+        "ndvi": 0.4174
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0016",
+        "ndvi": 0.3957
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0017",
+        "ndvi": 0.3615
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0018",
+        "ndvi": 0.3167
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0019",
+        "ndvi": 0.2747
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0020",
+        "ndvi": 0.3001
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0021",
+        "ndvi": 0.2981
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0022",
+        "ndvi": 0.2891
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0023",
+        "ndvi": 0.3111
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0024",
+        "ndvi": 0.2931
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0025",
+        "ndvi": 0.2943
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0026",
+        "ndvi": 0.3037
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0027",
+        "ndvi": 0.3386
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0028",
+        "ndvi": 0.3424
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0029",
+        "ndvi": 0.3743
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0030",
+        "ndvi": 0.337
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0031",
+        "ndvi": 0.3282
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0032",
+        "ndvi": 0.3233
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0033",
+        "ndvi": 0.3193
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0034",
+        "ndvi": 0.2762
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0035",
+        "ndvi": 0.3197
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0028_0036",
+        "ndvi": 0.3064
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0000",
+        "ndvi": 0.2485
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0001",
+        "ndvi": 0.259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0002",
+        "ndvi": 0.2129
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0003",
+        "ndvi": 0.2195
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0004",
+        "ndvi": 0.2451
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0005",
+        "ndvi": 0.2411
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0006",
+        "ndvi": 0.2502
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0007",
+        "ndvi": 0.2512
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0008",
+        "ndvi": 0.2427
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0009",
+        "ndvi": 0.2582
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0010",
+        "ndvi": 0.2937
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0011",
+        "ndvi": 0.3181
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0012",
+        "ndvi": 0.2908
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0013",
+        "ndvi": 0.2992
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0014",
+        "ndvi": 0.2746
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0015",
+        "ndvi": 0.2919
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0016",
+        "ndvi": 0.267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0017",
+        "ndvi": 0.2785
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0018",
+        "ndvi": 0.2877
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0019",
+        "ndvi": 0.2989
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0020",
+        "ndvi": 0.2738
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0021",
+        "ndvi": 0.2929
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0022",
+        "ndvi": 0.3169
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0023",
+        "ndvi": 0.3273
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0024",
+        "ndvi": 0.3128
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0025",
+        "ndvi": 0.2634
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0026",
+        "ndvi": 0.2734
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0027",
+        "ndvi": 0.2995
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0028",
+        "ndvi": 0.4074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0029",
+        "ndvi": 0.3774
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0030",
+        "ndvi": 0.2965
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0031",
+        "ndvi": 0.3065
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0032",
+        "ndvi": 0.3414
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0033",
+        "ndvi": 0.2922
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0034",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0035",
+        "ndvi": 0.3629
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0029_0036",
+        "ndvi": 0.3168
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0000",
+        "ndvi": 0.2485
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0001",
+        "ndvi": 0.259
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0002",
+        "ndvi": 0.2129
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0003",
+        "ndvi": 0.2195
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0004",
+        "ndvi": 0.2451
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0005",
+        "ndvi": 0.2411
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0006",
+        "ndvi": 0.2502
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0007",
+        "ndvi": 0.2512
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0008",
+        "ndvi": 0.2427
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0009",
+        "ndvi": 0.2582
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0010",
+        "ndvi": 0.2937
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0011",
+        "ndvi": 0.3181
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0012",
+        "ndvi": 0.2908
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0013",
+        "ndvi": 0.2992
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0014",
+        "ndvi": 0.2746
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0015",
+        "ndvi": 0.2919
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0016",
+        "ndvi": 0.267
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0017",
+        "ndvi": 0.2785
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0018",
+        "ndvi": 0.2877
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0019",
+        "ndvi": 0.2989
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0020",
+        "ndvi": 0.2738
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0021",
+        "ndvi": 0.2929
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0022",
+        "ndvi": 0.3169
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0023",
+        "ndvi": 0.3273
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0024",
+        "ndvi": 0.3128
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0025",
+        "ndvi": 0.2634
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0026",
+        "ndvi": 0.2734
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0027",
+        "ndvi": 0.2995
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0028",
+        "ndvi": 0.4074
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0029",
+        "ndvi": 0.3774
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0030",
+        "ndvi": 0.2965
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0031",
+        "ndvi": 0.3065
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0032",
+        "ndvi": 0.3414
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0033",
+        "ndvi": 0.2922
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0034",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0035",
+        "ndvi": 0.3629
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0030_0036",
+        "ndvi": 0.3168
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0000",
+        "ndvi": 0.253
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0001",
+        "ndvi": 0.2102
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0002",
+        "ndvi": 0.2001
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0003",
+        "ndvi": 0.218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0004",
+        "ndvi": 0.2502
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0005",
+        "ndvi": 0.2602
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0006",
+        "ndvi": 0.2334
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0007",
+        "ndvi": 0.2165
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0008",
+        "ndvi": 0.2221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0009",
+        "ndvi": 0.258
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0010",
+        "ndvi": 0.2746
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0011",
+        "ndvi": 0.2989
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0012",
+        "ndvi": 0.2952
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0013",
+        "ndvi": 0.285
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0014",
+        "ndvi": 0.2606
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0015",
+        "ndvi": 0.2519
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0016",
+        "ndvi": 0.271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0017",
+        "ndvi": 0.2909
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0018",
+        "ndvi": 0.2976
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0019",
+        "ndvi": 0.2901
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0020",
+        "ndvi": 0.2813
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0021",
+        "ndvi": 0.3094
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0022",
+        "ndvi": 0.3126
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0023",
+        "ndvi": 0.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0024",
+        "ndvi": 0.3063
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0025",
+        "ndvi": 0.2632
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0026",
+        "ndvi": 0.2698
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0027",
+        "ndvi": 0.2881
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0028",
+        "ndvi": 0.3743
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0029",
+        "ndvi": 0.3371
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0030",
+        "ndvi": 0.3072
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0031",
+        "ndvi": 0.3063
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0032",
+        "ndvi": 0.2651
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0033",
+        "ndvi": 0.3642
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0034",
+        "ndvi": 0.3597
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0035",
+        "ndvi": 0.374
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0031_0036",
+        "ndvi": 0.3501
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0000",
+        "ndvi": 0.253
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0001",
+        "ndvi": 0.2102
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0002",
+        "ndvi": 0.2001
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0003",
+        "ndvi": 0.218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0004",
+        "ndvi": 0.2502
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0005",
+        "ndvi": 0.2602
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0006",
+        "ndvi": 0.2334
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0007",
+        "ndvi": 0.2165
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0008",
+        "ndvi": 0.2221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0009",
+        "ndvi": 0.258
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0010",
+        "ndvi": 0.2746
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0011",
+        "ndvi": 0.2989
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0012",
+        "ndvi": 0.2952
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0013",
+        "ndvi": 0.285
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0014",
+        "ndvi": 0.2606
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0015",
+        "ndvi": 0.2519
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0016",
+        "ndvi": 0.271
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0017",
+        "ndvi": 0.2909
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0018",
+        "ndvi": 0.2976
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0019",
+        "ndvi": 0.2901
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0020",
+        "ndvi": 0.2813
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0021",
+        "ndvi": 0.3094
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0022",
+        "ndvi": 0.3126
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0023",
+        "ndvi": 0.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0024",
+        "ndvi": 0.3063
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0025",
+        "ndvi": 0.2632
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0026",
+        "ndvi": 0.2698
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0027",
+        "ndvi": 0.2881
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0028",
+        "ndvi": 0.3743
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0029",
+        "ndvi": 0.3371
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0030",
+        "ndvi": 0.3072
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0031",
+        "ndvi": 0.3063
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0032",
+        "ndvi": 0.2651
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0033",
+        "ndvi": 0.3642
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0034",
+        "ndvi": 0.3597
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0035",
+        "ndvi": 0.374
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0032_0036",
+        "ndvi": 0.3501
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0000",
+        "ndvi": 0.2526
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0001",
+        "ndvi": 0.2165
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0002",
+        "ndvi": 0.2136
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0003",
+        "ndvi": 0.244
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0004",
+        "ndvi": 0.2914
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0005",
+        "ndvi": 0.2688
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0006",
+        "ndvi": 0.2309
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0007",
+        "ndvi": 0.2495
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0008",
+        "ndvi": 0.28
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0009",
+        "ndvi": 0.2797
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0010",
+        "ndvi": 0.2953
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0011",
+        "ndvi": 0.2708
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0012",
+        "ndvi": 0.2829
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0013",
+        "ndvi": 0.2626
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0014",
+        "ndvi": 0.3127
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0015",
+        "ndvi": 0.301
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0016",
+        "ndvi": 0.2959
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0017",
+        "ndvi": 0.2583
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0018",
+        "ndvi": 0.3105
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0019",
+        "ndvi": 0.294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0020",
+        "ndvi": 0.305
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0021",
+        "ndvi": 0.3193
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0022",
+        "ndvi": 0.3546
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0023",
+        "ndvi": 0.3432
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0024",
+        "ndvi": 0.3164
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0025",
+        "ndvi": 0.3019
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0026",
+        "ndvi": 0.2696
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0027",
+        "ndvi": 0.3184
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0028",
+        "ndvi": 0.3637
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0029",
+        "ndvi": 0.3582
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0030",
+        "ndvi": 0.311
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0031",
+        "ndvi": 0.2627
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0032",
+        "ndvi": 0.3139
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0033",
+        "ndvi": 0.367
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0034",
+        "ndvi": 0.358
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0035",
+        "ndvi": 0.3409
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "AHM_0033_0036",
+        "ndvi": 0.3497
+      },
+      "geometry": null
+    }
+  ]
+}

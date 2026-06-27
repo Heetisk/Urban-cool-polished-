@@ -1,0 +1,2805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0000",
+        "ndvi": 0.2696
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0001",
+        "ndvi": 0.2895
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0002",
+        "ndvi": 0.3199
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0003",
+        "ndvi": 0.3216
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0004",
+        "ndvi": 0.2971
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0005",
+        "ndvi": 0.2936
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0006",
+        "ndvi": 0.309
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0007",
+        "ndvi": 0.3094
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0008",
+        "ndvi": 0.3395
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0009",
+        "ndvi": 0.357
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0010",
+        "ndvi": 0.3454
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0011",
+        "ndvi": 0.338
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0012",
+        "ndvi": 0.3383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0013",
+        "ndvi": 0.2943
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0014",
+        "ndvi": 0.3022
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0015",
+        "ndvi": 0.3391
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0016",
+        "ndvi": 0.3343
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0017",
+        "ndvi": 0.3355
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0018",
+        "ndvi": 0.3458
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0019",
+        "ndvi": 0.3532
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0020",
+        "ndvi": 0.3898
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0021",
+        "ndvi": 0.4204
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0022",
+        "ndvi": 0.4282
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0023",
+        "ndvi": 0.3876
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0024",
+        "ndvi": 0.3663
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0000",
+        "ndvi": 0.2696
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0001",
+        "ndvi": 0.2895
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0002",
+        "ndvi": 0.3199
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0003",
+        "ndvi": 0.3216
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0004",
+        "ndvi": 0.2971
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0005",
+        "ndvi": 0.2936
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0006",
+        "ndvi": 0.309
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0007",
+        "ndvi": 0.3094
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0008",
+        "ndvi": 0.3395
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0009",
+        "ndvi": 0.357
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0010",
+        "ndvi": 0.3454
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0011",
+        "ndvi": 0.338
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0012",
+        "ndvi": 0.3383
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0013",
+        "ndvi": 0.2943
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0014",
+        "ndvi": 0.3022
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0015",
+        "ndvi": 0.3391
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0016",
+        "ndvi": 0.3343
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0017",
+        "ndvi": 0.3355
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0018",
+        "ndvi": 0.3458
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0019",
+        "ndvi": 0.3532
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0020",
+        "ndvi": 0.3898
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0021",
+        "ndvi": 0.4204
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0022",
+        "ndvi": 0.4282
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0023",
+        "ndvi": 0.3876
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0024",
+        "ndvi": 0.3663
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0000",
+        "ndvi": 0.2752
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0001",
+        "ndvi": 0.2808
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0002",
+        "ndvi": 0.2445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0003",
+        "ndvi": 0.2803
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0004",
+        "ndvi": 0.2712
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0005",
+        "ndvi": 0.2682
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0006",
+        "ndvi": 0.2937
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0007",
+        "ndvi": 0.3232
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0008",
+        "ndvi": 0.3371
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0009",
+        "ndvi": 0.3887
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0010",
+        "ndvi": 0.3641
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0011",
+        "ndvi": 0.3038
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0012",
+        "ndvi": 0.354
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0013",
+        "ndvi": 0.3402
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0014",
+        "ndvi": 0.312
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0015",
+        "ndvi": 0.3576
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0016",
+        "ndvi": 0.3275
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0017",
+        "ndvi": 0.3401
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0018",
+        "ndvi": 0.3611
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0019",
+        "ndvi": 0.3657
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0020",
+        "ndvi": 0.4027
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0021",
+        "ndvi": 0.4218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0022",
+        "ndvi": 0.3767
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0023",
+        "ndvi": 0.3778
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0024",
+        "ndvi": 0.3768
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0000",
+        "ndvi": 0.2752
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0001",
+        "ndvi": 0.2808
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0002",
+        "ndvi": 0.2445
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0003",
+        "ndvi": 0.2803
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0004",
+        "ndvi": 0.2712
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0005",
+        "ndvi": 0.2682
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0006",
+        "ndvi": 0.2937
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0007",
+        "ndvi": 0.3232
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0008",
+        "ndvi": 0.3371
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0009",
+        "ndvi": 0.3887
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0010",
+        "ndvi": 0.3641
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0011",
+        "ndvi": 0.3038
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0012",
+        "ndvi": 0.354
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0013",
+        "ndvi": 0.3402
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0014",
+        "ndvi": 0.312
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0015",
+        "ndvi": 0.3576
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0016",
+        "ndvi": 0.3275
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0017",
+        "ndvi": 0.3401
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0018",
+        "ndvi": 0.3611
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0019",
+        "ndvi": 0.3657
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0020",
+        "ndvi": 0.4027
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0021",
+        "ndvi": 0.4218
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0022",
+        "ndvi": 0.3767
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0023",
+        "ndvi": 0.3778
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0024",
+        "ndvi": 0.3768
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0000",
+        "ndvi": 0.2876
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0001",
+        "ndvi": 0.2541
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0002",
+        "ndvi": 0.2934
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0003",
+        "ndvi": 0.3094
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0004",
+        "ndvi": 0.2841
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0005",
+        "ndvi": 0.276
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0006",
+        "ndvi": 0.3031
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0007",
+        "ndvi": 0.3425
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0008",
+        "ndvi": 0.331
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0009",
+        "ndvi": 0.4008
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0010",
+        "ndvi": 0.3318
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0011",
+        "ndvi": 0.3237
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0012",
+        "ndvi": 0.3363
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0013",
+        "ndvi": 0.3451
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0014",
+        "ndvi": 0.3353
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0015",
+        "ndvi": 0.3232
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0016",
+        "ndvi": 0.3364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0017",
+        "ndvi": 0.3616
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0018",
+        "ndvi": 0.3554
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0019",
+        "ndvi": 0.3876
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0020",
+        "ndvi": 0.3836
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0021",
+        "ndvi": 0.3946
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0022",
+        "ndvi": 0.3875
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0023",
+        "ndvi": 0.3758
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0024",
+        "ndvi": 0.3804
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0000",
+        "ndvi": 0.2876
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0001",
+        "ndvi": 0.2541
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0002",
+        "ndvi": 0.2934
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0003",
+        "ndvi": 0.3094
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0004",
+        "ndvi": 0.2841
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0005",
+        "ndvi": 0.276
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0006",
+        "ndvi": 0.3031
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0007",
+        "ndvi": 0.3425
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0008",
+        "ndvi": 0.331
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0009",
+        "ndvi": 0.4008
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0010",
+        "ndvi": 0.3318
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0011",
+        "ndvi": 0.3237
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0012",
+        "ndvi": 0.3363
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0013",
+        "ndvi": 0.3451
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0014",
+        "ndvi": 0.3353
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0015",
+        "ndvi": 0.3232
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0016",
+        "ndvi": 0.3364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0017",
+        "ndvi": 0.3616
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0018",
+        "ndvi": 0.3554
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0019",
+        "ndvi": 0.3876
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0020",
+        "ndvi": 0.3836
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0021",
+        "ndvi": 0.3946
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0022",
+        "ndvi": 0.3875
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0023",
+        "ndvi": 0.3758
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0024",
+        "ndvi": 0.3804
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0000",
+        "ndvi": 0.3033
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0001",
+        "ndvi": 0.2459
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0002",
+        "ndvi": 0.2787
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0003",
+        "ndvi": 0.2539
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0004",
+        "ndvi": 0.2689
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0005",
+        "ndvi": 0.2657
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0006",
+        "ndvi": 0.3014
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0007",
+        "ndvi": 0.3183
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0008",
+        "ndvi": 0.3221
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0009",
+        "ndvi": 0.3388
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0010",
+        "ndvi": 0.3092
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0011",
+        "ndvi": 0.3391
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0012",
+        "ndvi": 0.3335
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0013",
+        "ndvi": 0.3399
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0014",
+        "ndvi": 0.3381
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0015",
+        "ndvi": 0.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0016",
+        "ndvi": 0.3474
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0017",
+        "ndvi": 0.3648
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0018",
+        "ndvi": 0.3483
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0019",
+        "ndvi": 0.3679
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0020",
+        "ndvi": 0.3924
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0021",
+        "ndvi": 0.3805
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0022",
+        "ndvi": 0.3738
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0023",
+        "ndvi": 0.3689
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0024",
+        "ndvi": 0.3879
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0000",
+        "ndvi": 0.2859
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0001",
+        "ndvi": 0.2587
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0002",
+        "ndvi": 0.2946
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0003",
+        "ndvi": 0.2845
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0004",
+        "ndvi": 0.2668
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0005",
+        "ndvi": 0.2872
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0006",
+        "ndvi": 0.3462
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0007",
+        "ndvi": 0.3326
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0008",
+        "ndvi": 0.331
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0009",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0010",
+        "ndvi": 0.3541
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0011",
+        "ndvi": 0.3613
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0012",
+        "ndvi": 0.3289
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0013",
+        "ndvi": 0.3393
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0014",
+        "ndvi": 0.3474
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0015",
+        "ndvi": 0.3472
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0016",
+        "ndvi": 0.3668
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0017",
+        "ndvi": 0.3611
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0018",
+        "ndvi": 0.364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0019",
+        "ndvi": 0.3785
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0020",
+        "ndvi": 0.4003
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0021",
+        "ndvi": 0.3961
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0022",
+        "ndvi": 0.409
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0023",
+        "ndvi": 0.4129
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0024",
+        "ndvi": 0.437
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0000",
+        "ndvi": 0.2859
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0001",
+        "ndvi": 0.2587
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0002",
+        "ndvi": 0.2946
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0003",
+        "ndvi": 0.2845
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0004",
+        "ndvi": 0.2668
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0005",
+        "ndvi": 0.2872
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0006",
+        "ndvi": 0.3462
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0007",
+        "ndvi": 0.3326
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0008",
+        "ndvi": 0.331
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0009",
+        "ndvi": 0.3147
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0010",
+        "ndvi": 0.3541
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0011",
+        "ndvi": 0.3613
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0012",
+        "ndvi": 0.3289
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0013",
+        "ndvi": 0.3393
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0014",
+        "ndvi": 0.3474
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0015",
+        "ndvi": 0.3472
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0016",
+        "ndvi": 0.3668
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0017",
+        "ndvi": 0.3611
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0018",
+        "ndvi": 0.364
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0019",
+        "ndvi": 0.3785
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0020",
+        "ndvi": 0.4003
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0021",
+        "ndvi": 0.3961
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0022",
+        "ndvi": 0.409
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0023",
+        "ndvi": 0.4129
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0024",
+        "ndvi": 0.437
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0000",
+        "ndvi": 0.2535
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0001",
+        "ndvi": 0.3174
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0002",
+        "ndvi": 0.3289
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0003",
+        "ndvi": 0.2967
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0004",
+        "ndvi": 0.2966
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0005",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0006",
+        "ndvi": 0.2958
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0007",
+        "ndvi": 0.313
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0008",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0009",
+        "ndvi": 0.328
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0010",
+        "ndvi": 0.3628
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0011",
+        "ndvi": 0.3612
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0012",
+        "ndvi": 0.3513
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0013",
+        "ndvi": 0.3622
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0014",
+        "ndvi": 0.3489
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0015",
+        "ndvi": 0.3496
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0016",
+        "ndvi": 0.3304
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0017",
+        "ndvi": 0.3317
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0018",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0019",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0020",
+        "ndvi": 0.3614
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0021",
+        "ndvi": 0.3736
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0022",
+        "ndvi": 0.3825
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0023",
+        "ndvi": 0.4171
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0024",
+        "ndvi": 0.4556
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0000",
+        "ndvi": 0.2535
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0001",
+        "ndvi": 0.3174
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0002",
+        "ndvi": 0.3289
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0003",
+        "ndvi": 0.2967
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0004",
+        "ndvi": 0.2966
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0005",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0006",
+        "ndvi": 0.2958
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0007",
+        "ndvi": 0.313
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0008",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0009",
+        "ndvi": 0.328
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0010",
+        "ndvi": 0.3628
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0011",
+        "ndvi": 0.3612
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0012",
+        "ndvi": 0.3513
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0013",
+        "ndvi": 0.3622
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0014",
+        "ndvi": 0.3489
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0015",
+        "ndvi": 0.3496
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0016",
+        "ndvi": 0.3304
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0017",
+        "ndvi": 0.3317
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0018",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0019",
+        "ndvi": 0.3132
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0020",
+        "ndvi": 0.3614
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0021",
+        "ndvi": 0.3736
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0022",
+        "ndvi": 0.3825
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0023",
+        "ndvi": 0.4171
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0024",
+        "ndvi": 0.4556
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0000",
+        "ndvi": 0.2294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0001",
+        "ndvi": 0.2561
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0002",
+        "ndvi": 0.3182
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0003",
+        "ndvi": 0.2839
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0004",
+        "ndvi": 0.2816
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0005",
+        "ndvi": 0.2966
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0006",
+        "ndvi": 0.3116
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0007",
+        "ndvi": 0.3247
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0008",
+        "ndvi": 0.3219
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0009",
+        "ndvi": 0.3552
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0010",
+        "ndvi": 0.3716
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0011",
+        "ndvi": 0.3476
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0012",
+        "ndvi": 0.3401
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0013",
+        "ndvi": 0.3549
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0014",
+        "ndvi": 0.337
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0015",
+        "ndvi": 0.3529
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0016",
+        "ndvi": 0.358
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0017",
+        "ndvi": 0.3333
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0018",
+        "ndvi": 0.3554
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0019",
+        "ndvi": 0.3288
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0020",
+        "ndvi": 0.3673
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0021",
+        "ndvi": 0.4206
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0022",
+        "ndvi": 0.4082
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0023",
+        "ndvi": 0.3946
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0024",
+        "ndvi": 0.4376
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0000",
+        "ndvi": 0.2294
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0001",
+        "ndvi": 0.2561
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0002",
+        "ndvi": 0.3182
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0003",
+        "ndvi": 0.2839
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0004",
+        "ndvi": 0.2816
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0005",
+        "ndvi": 0.2966
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0006",
+        "ndvi": 0.3116
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0007",
+        "ndvi": 0.3247
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0008",
+        "ndvi": 0.3219
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0009",
+        "ndvi": 0.3552
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0010",
+        "ndvi": 0.3716
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0011",
+        "ndvi": 0.3476
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0012",
+        "ndvi": 0.3401
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0013",
+        "ndvi": 0.3549
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0014",
+        "ndvi": 0.337
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0015",
+        "ndvi": 0.3529
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0016",
+        "ndvi": 0.358
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0017",
+        "ndvi": 0.3333
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0018",
+        "ndvi": 0.3554
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0019",
+        "ndvi": 0.3288
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0020",
+        "ndvi": 0.3673
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0021",
+        "ndvi": 0.4206
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0022",
+        "ndvi": 0.4082
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0023",
+        "ndvi": 0.3946
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0024",
+        "ndvi": 0.4376
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0000",
+        "ndvi": 0.2616
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0001",
+        "ndvi": 0.2316
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0002",
+        "ndvi": 0.2896
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0003",
+        "ndvi": 0.2709
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0004",
+        "ndvi": 0.2738
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0005",
+        "ndvi": 0.3059
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0006",
+        "ndvi": 0.2972
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0007",
+        "ndvi": 0.2964
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0008",
+        "ndvi": 0.2966
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0009",
+        "ndvi": 0.338
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0010",
+        "ndvi": 0.3446
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0011",
+        "ndvi": 0.3052
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0012",
+        "ndvi": 0.3201
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0013",
+        "ndvi": 0.3195
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0014",
+        "ndvi": 0.3239
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0015",
+        "ndvi": 0.3327
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0016",
+        "ndvi": 0.3109
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0017",
+        "ndvi": 0.3742
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0018",
+        "ndvi": 0.3558
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0019",
+        "ndvi": 0.3443
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0020",
+        "ndvi": 0.3894
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0021",
+        "ndvi": 0.446
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0022",
+        "ndvi": 0.3936
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0023",
+        "ndvi": 0.4261
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0024",
+        "ndvi": 0.4324
+      },
+      "geometry": null
+    }
+  ]
+}

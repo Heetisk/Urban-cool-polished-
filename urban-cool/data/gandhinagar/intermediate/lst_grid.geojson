@@ -1,0 +1,2805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0000",
+        "lst_celsius": 41.82
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0001",
+        "lst_celsius": 41.11
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0002",
+        "lst_celsius": 40.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0003",
+        "lst_celsius": 40.67
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0004",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0005",
+        "lst_celsius": 41.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0006",
+        "lst_celsius": 41.27
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0007",
+        "lst_celsius": 41.4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0008",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0009",
+        "lst_celsius": 40.16
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0010",
+        "lst_celsius": 39.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0011",
+        "lst_celsius": 39.23
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0012",
+        "lst_celsius": 39.63
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0013",
+        "lst_celsius": 40.23
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0014",
+        "lst_celsius": 40.68
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0015",
+        "lst_celsius": 40.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0016",
+        "lst_celsius": 40.63
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0017",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0018",
+        "lst_celsius": 41.4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0019",
+        "lst_celsius": 41.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0020",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0021",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0022",
+        "lst_celsius": 40.46
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0023",
+        "lst_celsius": 40.28
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0000_0024",
+        "lst_celsius": 40.47
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0000",
+        "lst_celsius": 41.82
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0001",
+        "lst_celsius": 41.11
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0002",
+        "lst_celsius": 40.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0003",
+        "lst_celsius": 40.67
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0004",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0005",
+        "lst_celsius": 41.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0006",
+        "lst_celsius": 41.27
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0007",
+        "lst_celsius": 41.4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0008",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0009",
+        "lst_celsius": 40.16
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0010",
+        "lst_celsius": 39.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0011",
+        "lst_celsius": 39.23
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0012",
+        "lst_celsius": 39.63
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0013",
+        "lst_celsius": 40.23
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0014",
+        "lst_celsius": 40.68
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0015",
+        "lst_celsius": 40.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0016",
+        "lst_celsius": 40.63
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0017",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0018",
+        "lst_celsius": 41.4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0019",
+        "lst_celsius": 41.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0020",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0021",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0022",
+        "lst_celsius": 40.46
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0023",
+        "lst_celsius": 40.28
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0001_0024",
+        "lst_celsius": 40.47
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0000",
+        "lst_celsius": 41.38
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0001",
+        "lst_celsius": 41.04
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0002",
+        "lst_celsius": 40.76
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0003",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0004",
+        "lst_celsius": 41.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0005",
+        "lst_celsius": 41.6
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0006",
+        "lst_celsius": 42.17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0007",
+        "lst_celsius": 41.21
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0008",
+        "lst_celsius": 41.29
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0009",
+        "lst_celsius": 40.23
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0010",
+        "lst_celsius": 39.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0011",
+        "lst_celsius": 39.51
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0012",
+        "lst_celsius": 39.79
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0013",
+        "lst_celsius": 40.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0014",
+        "lst_celsius": 40.91
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0015",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0016",
+        "lst_celsius": 40.98
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0017",
+        "lst_celsius": 41.35
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0018",
+        "lst_celsius": 41.0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0019",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0020",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0021",
+        "lst_celsius": 40.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0022",
+        "lst_celsius": 40.39
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0023",
+        "lst_celsius": 40.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0002_0024",
+        "lst_celsius": 40.95
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0000",
+        "lst_celsius": 41.38
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0001",
+        "lst_celsius": 41.04
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0002",
+        "lst_celsius": 40.76
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0003",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0004",
+        "lst_celsius": 41.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0005",
+        "lst_celsius": 41.6
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0006",
+        "lst_celsius": 42.17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0007",
+        "lst_celsius": 41.21
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0008",
+        "lst_celsius": 41.29
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0009",
+        "lst_celsius": 40.23
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0010",
+        "lst_celsius": 39.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0011",
+        "lst_celsius": 39.51
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0012",
+        "lst_celsius": 39.79
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0013",
+        "lst_celsius": 40.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0014",
+        "lst_celsius": 40.91
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0015",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0016",
+        "lst_celsius": 40.98
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0017",
+        "lst_celsius": 41.35
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0018",
+        "lst_celsius": 41.0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0019",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0020",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0021",
+        "lst_celsius": 40.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0022",
+        "lst_celsius": 40.39
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0023",
+        "lst_celsius": 40.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0003_0024",
+        "lst_celsius": 40.95
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0000",
+        "lst_celsius": 41.08
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0001",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0002",
+        "lst_celsius": 40.89
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0003",
+        "lst_celsius": 40.8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0004",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0005",
+        "lst_celsius": 41.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0006",
+        "lst_celsius": 41.8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0007",
+        "lst_celsius": 41.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0008",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0009",
+        "lst_celsius": 39.91
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0010",
+        "lst_celsius": 40.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0011",
+        "lst_celsius": 40.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0012",
+        "lst_celsius": 40.26
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0013",
+        "lst_celsius": 40.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0014",
+        "lst_celsius": 41.05
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0015",
+        "lst_celsius": 40.99
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0016",
+        "lst_celsius": 41.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0017",
+        "lst_celsius": 40.62
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0018",
+        "lst_celsius": 40.52
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0019",
+        "lst_celsius": 40.69
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0020",
+        "lst_celsius": 40.88
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0021",
+        "lst_celsius": 40.65
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0022",
+        "lst_celsius": 40.62
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0023",
+        "lst_celsius": 40.74
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0004_0024",
+        "lst_celsius": 40.9
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0000",
+        "lst_celsius": 41.08
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0001",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0002",
+        "lst_celsius": 40.89
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0003",
+        "lst_celsius": 40.8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0004",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0005",
+        "lst_celsius": 41.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0006",
+        "lst_celsius": 41.8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0007",
+        "lst_celsius": 41.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0008",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0009",
+        "lst_celsius": 39.91
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0010",
+        "lst_celsius": 40.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0011",
+        "lst_celsius": 40.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0012",
+        "lst_celsius": 40.26
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0013",
+        "lst_celsius": 40.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0014",
+        "lst_celsius": 41.05
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0015",
+        "lst_celsius": 40.99
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0016",
+        "lst_celsius": 41.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0017",
+        "lst_celsius": 40.62
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0018",
+        "lst_celsius": 40.52
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0019",
+        "lst_celsius": 40.69
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0020",
+        "lst_celsius": 40.88
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0021",
+        "lst_celsius": 40.65
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0022",
+        "lst_celsius": 40.62
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0023",
+        "lst_celsius": 40.74
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0005_0024",
+        "lst_celsius": 40.9
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0000",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0001",
+        "lst_celsius": 40.8
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0002",
+        "lst_celsius": 40.73
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0003",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0004",
+        "lst_celsius": 41.38
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0005",
+        "lst_celsius": 41.67
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0006",
+        "lst_celsius": 41.47
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0007",
+        "lst_celsius": 41.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0008",
+        "lst_celsius": 41.47
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0009",
+        "lst_celsius": 40.21
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0010",
+        "lst_celsius": 40.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0011",
+        "lst_celsius": 40.57
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0012",
+        "lst_celsius": 40.89
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0013",
+        "lst_celsius": 41.38
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0014",
+        "lst_celsius": 41.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0015",
+        "lst_celsius": 41.11
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0016",
+        "lst_celsius": 41.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0017",
+        "lst_celsius": 40.1
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0018",
+        "lst_celsius": 40.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0019",
+        "lst_celsius": 40.75
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0020",
+        "lst_celsius": 40.86
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0021",
+        "lst_celsius": 40.54
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0022",
+        "lst_celsius": 40.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0023",
+        "lst_celsius": 40.3
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0006_0024",
+        "lst_celsius": 40.3
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0000",
+        "lst_celsius": 41.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0001",
+        "lst_celsius": 41.15
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0002",
+        "lst_celsius": 41.0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0003",
+        "lst_celsius": 41.13
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0004",
+        "lst_celsius": 41.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0005",
+        "lst_celsius": 41.28
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0006",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0007",
+        "lst_celsius": 41.31
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0008",
+        "lst_celsius": 40.95
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0009",
+        "lst_celsius": 40.34
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0010",
+        "lst_celsius": 40.61
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0011",
+        "lst_celsius": 40.44
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0012",
+        "lst_celsius": 40.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0013",
+        "lst_celsius": 40.76
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0014",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0015",
+        "lst_celsius": 40.96
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0016",
+        "lst_celsius": 40.71
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0017",
+        "lst_celsius": 40.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0018",
+        "lst_celsius": 40.44
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0019",
+        "lst_celsius": 40.22
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0020",
+        "lst_celsius": 40.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0021",
+        "lst_celsius": 40.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0022",
+        "lst_celsius": 40.17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0023",
+        "lst_celsius": 39.68
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0007_0024",
+        "lst_celsius": 39.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0000",
+        "lst_celsius": 41.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0001",
+        "lst_celsius": 41.15
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0002",
+        "lst_celsius": 41.0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0003",
+        "lst_celsius": 41.13
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0004",
+        "lst_celsius": 41.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0005",
+        "lst_celsius": 41.28
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0006",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0007",
+        "lst_celsius": 41.31
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0008",
+        "lst_celsius": 40.95
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0009",
+        "lst_celsius": 40.34
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0010",
+        "lst_celsius": 40.61
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0011",
+        "lst_celsius": 40.44
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0012",
+        "lst_celsius": 40.58
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0013",
+        "lst_celsius": 40.76
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0014",
+        "lst_celsius": 40.78
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0015",
+        "lst_celsius": 40.96
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0016",
+        "lst_celsius": 40.71
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0017",
+        "lst_celsius": 40.12
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0018",
+        "lst_celsius": 40.44
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0019",
+        "lst_celsius": 40.22
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0020",
+        "lst_celsius": 40.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0021",
+        "lst_celsius": 40.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0022",
+        "lst_celsius": 40.17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0023",
+        "lst_celsius": 39.68
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0008_0024",
+        "lst_celsius": 39.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0000",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0001",
+        "lst_celsius": 40.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0002",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0003",
+        "lst_celsius": 41.26
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0004",
+        "lst_celsius": 41.37
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0005",
+        "lst_celsius": 41.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0006",
+        "lst_celsius": 41.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0007",
+        "lst_celsius": 40.85
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0008",
+        "lst_celsius": 40.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0009",
+        "lst_celsius": 40.37
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0010",
+        "lst_celsius": 40.35
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0011",
+        "lst_celsius": 40.04
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0012",
+        "lst_celsius": 40.17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0013",
+        "lst_celsius": 39.96
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0014",
+        "lst_celsius": 40.13
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0015",
+        "lst_celsius": 40.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0016",
+        "lst_celsius": 39.99
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0017",
+        "lst_celsius": 40.43
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0018",
+        "lst_celsius": 40.83
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0019",
+        "lst_celsius": 41.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0020",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0021",
+        "lst_celsius": 40.74
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0022",
+        "lst_celsius": 40.06
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0023",
+        "lst_celsius": 39.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0009_0024",
+        "lst_celsius": 39.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0000",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0001",
+        "lst_celsius": 40.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0002",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0003",
+        "lst_celsius": 41.26
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0004",
+        "lst_celsius": 41.37
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0005",
+        "lst_celsius": 41.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0006",
+        "lst_celsius": 41.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0007",
+        "lst_celsius": 40.85
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0008",
+        "lst_celsius": 40.55
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0009",
+        "lst_celsius": 40.37
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0010",
+        "lst_celsius": 40.35
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0011",
+        "lst_celsius": 40.04
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0012",
+        "lst_celsius": 40.17
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0013",
+        "lst_celsius": 39.96
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0014",
+        "lst_celsius": 40.13
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0015",
+        "lst_celsius": 40.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0016",
+        "lst_celsius": 39.99
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0017",
+        "lst_celsius": 40.43
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0018",
+        "lst_celsius": 40.83
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0019",
+        "lst_celsius": 41.24
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0020",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0021",
+        "lst_celsius": 40.74
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0022",
+        "lst_celsius": 40.06
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0023",
+        "lst_celsius": 39.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0010_0024",
+        "lst_celsius": 39.14
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0000",
+        "lst_celsius": 41.18
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0001",
+        "lst_celsius": 41.46
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0002",
+        "lst_celsius": 41.52
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0003",
+        "lst_celsius": 41.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0004",
+        "lst_celsius": 41.57
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0005",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0006",
+        "lst_celsius": 40.66
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0007",
+        "lst_celsius": 40.59
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0008",
+        "lst_celsius": 40.79
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0009",
+        "lst_celsius": 39.97
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0010",
+        "lst_celsius": 39.3
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0011",
+        "lst_celsius": 39.4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0012",
+        "lst_celsius": 39.9
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0013",
+        "lst_celsius": 40.1
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0014",
+        "lst_celsius": 39.98
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0015",
+        "lst_celsius": 39.56
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0016",
+        "lst_celsius": 39.52
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0017",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0018",
+        "lst_celsius": 41.41
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0019",
+        "lst_celsius": 41.35
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0020",
+        "lst_celsius": 40.81
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0021",
+        "lst_celsius": 40.39
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0022",
+        "lst_celsius": 39.25
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0023",
+        "lst_celsius": 38.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0011_0024",
+        "lst_celsius": 39.74
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0000",
+        "lst_celsius": 41.18
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0001",
+        "lst_celsius": 41.46
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0002",
+        "lst_celsius": 41.52
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0003",
+        "lst_celsius": 41.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0004",
+        "lst_celsius": 41.57
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0005",
+        "lst_celsius": 41.02
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0006",
+        "lst_celsius": 40.66
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0007",
+        "lst_celsius": 40.59
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0008",
+        "lst_celsius": 40.79
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0009",
+        "lst_celsius": 39.97
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0010",
+        "lst_celsius": 39.3
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0011",
+        "lst_celsius": 39.4
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0012",
+        "lst_celsius": 39.9
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0013",
+        "lst_celsius": 40.1
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0014",
+        "lst_celsius": 39.98
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0015",
+        "lst_celsius": 39.56
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0016",
+        "lst_celsius": 39.52
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0017",
+        "lst_celsius": 41.09
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0018",
+        "lst_celsius": 41.41
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0019",
+        "lst_celsius": 41.35
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0020",
+        "lst_celsius": 40.81
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0021",
+        "lst_celsius": 40.39
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0022",
+        "lst_celsius": 39.25
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0023",
+        "lst_celsius": 38.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0012_0024",
+        "lst_celsius": 39.74
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0000",
+        "lst_celsius": 41.49
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0001",
+        "lst_celsius": 41.53
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0002",
+        "lst_celsius": 41.53
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0003",
+        "lst_celsius": 41.45
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0004",
+        "lst_celsius": 41.29
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0005",
+        "lst_celsius": 40.89
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0006",
+        "lst_celsius": 40.96
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0007",
+        "lst_celsius": 41.0
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0008",
+        "lst_celsius": 40.94
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0009",
+        "lst_celsius": 39.77
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0010",
+        "lst_celsius": 40.03
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0011",
+        "lst_celsius": 40.36
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0012",
+        "lst_celsius": 40.84
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0013",
+        "lst_celsius": 40.77
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0014",
+        "lst_celsius": 40.25
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0015",
+        "lst_celsius": 39.81
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0016",
+        "lst_celsius": 39.5
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0017",
+        "lst_celsius": 40.77
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0018",
+        "lst_celsius": 40.68
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0019",
+        "lst_celsius": 40.07
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0020",
+        "lst_celsius": 39.51
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0021",
+        "lst_celsius": 39.32
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0022",
+        "lst_celsius": 39.26
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0023",
+        "lst_celsius": 39.69
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cell_id": "GAN_0013_0024",
+        "lst_celsius": 39.9
+      },
+      "geometry": null
+    }
+  ]
+}

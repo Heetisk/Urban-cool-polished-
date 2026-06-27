@@ -1,0 +1,200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.55,
+              23.05
+            ],
+            [
+              72.56,
+              23.05
+            ],
+            [
+              72.56,
+              23.06
+            ],
+            [
+              72.55,
+              23.06
+            ],
+            [
+              72.55,
+              23.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "T001",
+        "centroid_lat": 23.055,
+        "centroid_lon": 72.555,
+        "lat_min": 23.05,
+        "lat_max": 23.06,
+        "lon_min": 72.55,
+        "lon_max": 72.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.56,
+              23.05
+            ],
+            [
+              72.57,
+              23.05
+            ],
+            [
+              72.57,
+              23.06
+            ],
+            [
+              72.56,
+              23.06
+            ],
+            [
+              72.56,
+              23.05
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "T002",
+        "centroid_lat": 23.055,
+        "centroid_lon": 72.565,
+        "lat_min": 23.05,
+        "lat_max": 23.06,
+        "lon_min": 72.56,
+        "lon_max": 72.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.55,
+              23.06
+            ],
+            [
+              72.56,
+              23.06
+            ],
+            [
+              72.56,
+              23.07
+            ],
+            [
+              72.55,
+              23.07
+            ],
+            [
+              72.55,
+              23.06
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "T003",
+        "centroid_lat": 23.065,
+        "centroid_lon": 72.555,
+        "lat_min": 23.06,
+        "lat_max": 23.07,
+        "lon_min": 72.55,
+        "lon_max": 72.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.56,
+              23.06
+            ],
+            [
+              72.57,
+              23.06
+            ],
+            [
+              72.57,
+              23.07
+            ],
+            [
+              72.56,
+              23.07
+            ],
+            [
+              72.56,
+              23.06
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "T004",
+        "centroid_lat": 23.065,
+        "centroid_lon": 72.565,
+        "lat_min": 23.06,
+        "lat_max": 23.07,
+        "lon_min": 72.56,
+        "lon_max": 72.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.57,
+              23.06
+            ],
+            [
+              72.58,
+              23.06
+            ],
+            [
+              72.58,
+              23.07
+            ],
+            [
+              72.57,
+              23.07
+            ],
+            [
+              72.57,
+              23.06
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "cell_id": "T005",
+        "centroid_lat": 23.065,
+        "centroid_lon": 72.575,
+        "lat_min": 23.06,
+        "lat_max": 23.07,
+        "lon_min": 72.57,
+        "lon_max": 72.58
+      }
+    }
+  ]
+}

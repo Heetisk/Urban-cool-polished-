@@ -1,0 +1,146 @@
+{
+  "city": "gandhinagar",
+  "model": "GradientBoosting (Spatial + Physics Features)",
+  "ml_features": [
+    "ndvi",
+    "builtup_density",
+    "distance_water_m",
+    "road_density_km_km2",
+    "sky_view_factor",
+    "building_density_per_km2",
+    "albedo",
+    "emissivity",
+    "bowen_ratio",
+    "ndvi_spatial_lag",
+    "builtup_density_spatial_lag",
+    "ndvi_x_builtup",
+    "distance_x_builtup"
+  ],
+  "base_features": [
+    "ndvi",
+    "builtup_density",
+    "distance_water_m",
+    "road_density_km_km2",
+    "sky_view_factor",
+    "building_density_per_km2",
+    "albedo"
+  ],
+  "physics_features": [
+    "emissivity",
+    "bowen_ratio"
+  ],
+  "spatial_lag_features": [
+    "ndvi_spatial_lag",
+    "builtup_density_spatial_lag"
+  ],
+  "engineered_features": [
+    "ndvi_x_builtup",
+    "distance_x_builtup"
+  ],
+  "n_ml_features": 13,
+  "n_samples": 350,
+  "params": {
+    "n_estimators": 200,
+    "max_depth": 4,
+    "learning_rate": 0.05
+  },
+  "spatial_cv": {
+    "n_folds": 9,
+    "n_blocks": 3,
+    "mae_mean": 1.768,
+    "mae_std": 0.236,
+    "rmse_mean": 2.235,
+    "rmse_std": 0.356,
+    "r2_mean": -0.2184,
+    "r2_std": 0.3959,
+    "folds": [
+      {
+        "fold": 1,
+        "held_out_block": 0,
+        "n_test": 45,
+        "n_train": 305,
+        "mae": 1.793,
+        "rmse": 2.39,
+        "r2": 0.107
+      },
+      {
+        "fold": 2,
+        "held_out_block": 1,
+        "n_test": 40,
+        "n_train": 310,
+        "mae": 2.002,
+        "rmse": 2.386,
+        "r2": -1.0083
+      },
+      {
+        "fold": 3,
+        "held_out_block": 2,
+        "n_test": 40,
+        "n_train": 310,
+        "mae": 1.972,
+        "rmse": 2.52,
+        "r2": -0.2369
+      },
+      {
+        "fold": 4,
+        "held_out_block": 3,
+        "n_test": 36,
+        "n_train": 314,
+        "mae": 1.52,
+        "rmse": 1.859,
+        "r2": 0.3809
+      },
+      {
+        "fold": 5,
+        "held_out_block": 4,
+        "n_test": 32,
+        "n_train": 318,
+        "mae": 1.494,
+        "rmse": 1.815,
+        "r2": -0.597
+      },
+      {
+        "fold": 6,
+        "held_out_block": 5,
+        "n_test": 32,
+        "n_train": 318,
+        "mae": 1.979,
+        "rmse": 2.717,
+        "r2": -0.138
+      },
+      {
+        "fold": 7,
+        "held_out_block": 6,
+        "n_test": 45,
+        "n_train": 305,
+        "mae": 1.621,
+        "rmse": 1.996,
+        "r2": 0.1574
+      },
+      {
+        "fold": 8,
+        "held_out_block": 7,
+        "n_test": 40,
+        "n_train": 310,
+        "mae": 1.449,
+        "rmse": 1.767,
+        "r2": -0.3906
+      },
+      {
+        "fold": 9,
+        "held_out_block": 8,
+        "n_test": 40,
+        "n_train": 310,
+        "mae": 2.086,
+        "rmse": 2.668,
+        "r2": -0.2404
+      }
+    ]
+  },
+  "design_notes": {
+    "approach": "Gradient Boosting predicts temperature from spatial + physics features.",
+    "why_gbdt": "Captures non-linear spatial patterns and energy balance interactions.",
+    "physics": "Added humidity, wind, solar radiation, emissivity, energy balance features.",
+    "engineered": "Added interaction terms (ndvi*builtup, distance*builtup)."
+  }
+}

@@ -1,0 +1,293 @@
+[
+  {
+    "station": "SAC ISRO Bopal, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.041137",
+    "longitude": "72.456691",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "NH3": {
+        "avg": 2.0,
+        "min": "1",
+        "max": "3"
+      },
+      "SO2": {
+        "avg": 1.0,
+        "min": "0",
+        "max": "1"
+      },
+      "NO2": {
+        "avg": 6.0,
+        "min": "2",
+        "max": "10"
+      },
+      "PM2.5": {
+        "avg": 56.0,
+        "min": "29",
+        "max": "80"
+      },
+      "CO": {
+        "avg": 26.0,
+        "min": "15",
+        "max": "31"
+      }
+    },
+    "aqi": 56,
+    "aqi_category": "satisfactory"
+  },
+  {
+    "station": "Rakhial, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.016834",
+    "longitude": "72.625775",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "PM10": {
+        "avg": 76.0,
+        "min": "52",
+        "max": "99"
+      },
+      "NH3": {
+        "avg": 4.0,
+        "min": "3",
+        "max": "6"
+      },
+      "CO": {
+        "avg": 26.0,
+        "min": "22",
+        "max": "30"
+      },
+      "OZONE": {
+        "avg": 17.0,
+        "min": "12",
+        "max": "23"
+      },
+      "NO2": {
+        "avg": 25.0,
+        "min": "12",
+        "max": "79"
+      }
+    },
+    "aqi": 76,
+    "aqi_category": "satisfactory"
+  },
+  {
+    "station": "Gyaspur, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "22.977134",
+    "longitude": "72.553024",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "NH3": {
+        "avg": 3.0,
+        "min": "0",
+        "max": "5"
+      },
+      "PM10": {
+        "avg": 93.0,
+        "min": "55",
+        "max": "112"
+      },
+      "SO2": {
+        "avg": 15.0,
+        "min": "8",
+        "max": "23"
+      },
+      "CO": {
+        "avg": 4.0,
+        "min": "1",
+        "max": "6"
+      },
+      "OZONE": {
+        "avg": 18.0,
+        "min": "15",
+        "max": "19"
+      }
+    },
+    "aqi": 93,
+    "aqi_category": "satisfactory"
+  },
+  {
+    "station": "Raikhad, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.020509",
+    "longitude": "72.579261",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "NO2": {
+        "avg": 7.0,
+        "min": "4",
+        "max": "16"
+      },
+      "SO2": {
+        "avg": 4.0,
+        "min": "1",
+        "max": "7"
+      },
+      "PM2.5": {
+        "avg": 31.0,
+        "min": "20",
+        "max": "43"
+      },
+      "CO": {
+        "avg": 27.0,
+        "min": "23",
+        "max": "30"
+      },
+      "PM10": {
+        "avg": 79.0,
+        "min": "61",
+        "max": "98"
+      }
+    },
+    "aqi": 79,
+    "aqi_category": "satisfactory"
+  },
+  {
+    "station": "Chandkheda, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.107969",
+    "longitude": "72.574648",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "NH3": {
+        "avg": 4.0,
+        "min": "2",
+        "max": "5"
+      },
+      "PM10": {
+        "avg": 76.0,
+        "min": "43",
+        "max": "123"
+      },
+      "NO2": {
+        "avg": 15.0,
+        "min": "8",
+        "max": "22"
+      },
+      "CO": {
+        "avg": 38.0,
+        "min": "14",
+        "max": "72"
+      },
+      "PM2.5": {
+        "avg": 40.0,
+        "min": "19",
+        "max": "83"
+      },
+      "SO2": {
+        "avg": 10.0,
+        "min": "9",
+        "max": "12"
+      },
+      "OZONE": {
+        "avg": 11.0,
+        "min": "2",
+        "max": "19"
+      }
+    },
+    "aqi": 76,
+    "aqi_category": "satisfactory"
+  },
+  {
+    "station": "SAC ISRO Satellite, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.023389",
+    "longitude": "72.515201",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "CO": {
+        "avg": 30.0,
+        "min": "8",
+        "max": "45"
+      },
+      "SO2": {
+        "avg": 5.0,
+        "min": "2",
+        "max": "9"
+      },
+      "OZONE": {
+        "avg": 26.0,
+        "min": "19",
+        "max": "31"
+      },
+      "NO2": {
+        "avg": 8.0,
+        "min": "0",
+        "max": "27"
+      }
+    },
+    "aqi": 30,
+    "aqi_category": "good"
+  },
+  {
+    "station": "Maninagar, Ahmedabad - GPCB",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.002657",
+    "longitude": "72.591912",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "PM10": {
+        "avg": 85.0,
+        "min": "53",
+        "max": "109"
+      },
+      "SO2": {
+        "avg": 107.0,
+        "min": "102",
+        "max": "114"
+      },
+      "OZONE": {
+        "avg": 27.0,
+        "min": "26",
+        "max": "29"
+      }
+    },
+    "aqi": 107,
+    "aqi_category": "moderate"
+  },
+  {
+    "station": "SVPI Airport Hansol, Ahmedabad - IITM",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "latitude": "23.076793",
+    "longitude": "72.627874",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "NH3": {
+        "avg": 1.0,
+        "min": "1",
+        "max": "1"
+      },
+      "PM10": {
+        "avg": 84.0,
+        "min": "55",
+        "max": "121"
+      },
+      "NO2": {
+        "avg": 21.0,
+        "min": "11",
+        "max": "35"
+      },
+      "OZONE": {
+        "avg": 11.0,
+        "min": "5",
+        "max": "20"
+      },
+      "CO": {
+        "avg": 17.0,
+        "min": "7",
+        "max": "25"
+      }
+    },
+    "aqi": 84,
+    "aqi_category": "satisfactory"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "station": "IIPHG Lekawada, Gandhinagar - IITM",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "latitude": "23.243639",
+    "longitude": "72.68994",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "NO2": {
+        "avg": 9.0,
+        "min": "7",
+        "max": "11"
+      },
+      "SO2": {
+        "avg": 2.0,
+        "min": "1",
+        "max": "3"
+      }
+    },
+    "aqi": 9,
+    "aqi_category": "good"
+  },
+  {
+    "station": "GIFT City, Gandhinagar - IITM",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "latitude": "23.163798",
+    "longitude": "72.677768",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "SO2": {
+        "avg": 6.0,
+        "min": "1",
+        "max": "10"
+      },
+      "PM2.5": {
+        "avg": 6.0,
+        "min": "1",
+        "max": "31"
+      },
+      "PM10": {
+        "avg": 75.0,
+        "min": "55",
+        "max": "105"
+      },
+      "NH3": {
+        "avg": 4.0,
+        "min": "4",
+        "max": "5"
+      },
+      "CO": {
+        "avg": 21.0,
+        "min": "11",
+        "max": "28"
+      }
+    },
+    "aqi": 75,
+    "aqi_category": "satisfactory"
+  },
+  {
+    "station": "Sector-10, Gandhinagar - GPCB",
+    "city": "Gandhinagar",
+    "state": "Gujarat",
+    "latitude": "23.221714",
+    "longitude": "72.654328",
+    "last_update": "23-06-2026 16:00:00",
+    "pollutants": {
+      "PM2.5": {
+        "avg": 40.0,
+        "min": "26",
+        "max": "66"
+      }
+    },
+    "aqi": 40,
+    "aqi_category": "good"
+  }
+]
