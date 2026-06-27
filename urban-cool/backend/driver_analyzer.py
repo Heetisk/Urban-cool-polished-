@@ -220,23 +220,35 @@ class DriverAnalyzer:
 
         drivers = []
         if self.explainer is not None:
-            shap_values = self.explainer.shap_values(X)
-            if isinstance(shap_values, np.ndarray):
-                shap_vals = shap_values[0] if len(shap_values.shape) > 1 else shap_values
-            else:
-                shap_vals = shap_values
+            try:
+                shap_values = self.explainer.shap_values(X)
+                if isinstance(shap_values, np.ndarray):
+                    shap_vals = shap_values[0] if len(shap_values.shape) > 1 else shap_values
+                else:
+                    shap_vals = shap_values
 
-            for i, feat in enumerate(ALL_ML_FEATURES):
-                value = cell.get(feat, 0) or 0.0
-                impact = float(shap_vals[i])
-                direction = "increases temperature" if impact > 0 else "decreases temperature"
-                drivers.append({
-                    "feature": feat,
-                    "feature_name": FEATURE_NAMES.get(feat, feat),
-                    "value": round(float(value), 4),
-                    "impact": round(impact, 4),
-                    "direction": direction,
-                })
+                for i, feat in enumerate(ALL_ML_FEATURES):
+                    value = cell.get(feat, 0) or 0.0
+                    impact = float(shap_vals[i])
+                    direction = "increases temperature" if impact > 0 else "decreases temperature"
+                    drivers.append({
+                        "feature": feat,
+                        "feature_name": FEATURE_NAMES.get(feat, feat),
+                        "value": round(float(value), 4),
+                        "impact": round(impact, 4),
+                        "direction": direction,
+                    })
+            except Exception as e:
+                print(f"SHAP explanation failed on deployment, falling back to feature values: {e}")
+                drivers = []
+                for feat in ALL_ML_FEATURES:
+                    drivers.append({
+                        "feature": feat,
+                        "feature_name": FEATURE_NAMES.get(feat, feat),
+                        "value": round(float(cell.get(feat, 0) or 0), 4),
+                        "impact": 0.0,
+                        "direction": "unknown",
+                    })
         else:
             for feat in ALL_ML_FEATURES:
                 drivers.append({
@@ -275,14 +287,18 @@ class DriverAnalyzer:
         cell_ids = list(self.cells.keys())[:200]
         X_all = np.vstack([self._get_ml_features(cid) for cid in cell_ids])
 
-        shap_values = self.explainer.shap_values(X_all)
+        try:
+            shap_values = self.explainer.shap_values(X_all)
 
-        if isinstance(shap_values, np.ndarray) and len(shap_values.shape) == 2:
-            avg_shap = np.abs(shap_values).mean(axis=0)
-        elif isinstance(shap_values, list):
-            avg_shap = np.mean([np.abs(sv).mean(axis=0) for sv in shap_values], axis=0)
-        else:
-            avg_shap = np.abs(shap_values).mean(axis=0).flatten()[:len(ALL_ML_FEATURES)]
+            if isinstance(shap_values, np.ndarray) and len(shap_values.shape) == 2:
+                avg_shap = np.abs(shap_values).mean(axis=0)
+            elif isinstance(shap_values, list):
+                avg_shap = np.mean([np.abs(sv).mean(axis=0) for sv in shap_values], axis=0)
+            else:
+                avg_shap = np.abs(shap_values).mean(axis=0).flatten()[:len(ALL_ML_FEATURES)]
+        except Exception as e:
+            print(f"Global SHAP explanation failed on deployment, falling back: {e}")
+            avg_shap = np.ones(len(ALL_ML_FEATURES)) / len(ALL_ML_FEATURES)
 
         total = avg_shap.sum()
         importance = avg_shap / total if total > 0 else avg_shap
