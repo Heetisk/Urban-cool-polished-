@@ -32,6 +32,41 @@ const DRIVER_EXPLANATIONS = {
   bowen_ratio: "High Bowen ratio indicates more sensible heat vs evaporative cooling",
 };
 
+const HEAT_INCREASERS = new Set([
+  "builtup_density", "distance_water_m", "road_density_km_km2",
+  "building_density_per_km2", "ndvi_x_builtup", "distance_x_builtup",
+]);
+
+const FEATURE_MAX_RANGES = {
+  builtup_density: 1.0,
+  ndvi: 0.8,
+  distance_water_m: 5000,
+  road_density_km_km2: 20,
+  building_density_per_km2: 2500,
+  sky_view_factor: 1.0,
+  albedo: 0.5,
+  ndvi_x_builtup: 0.5,
+  distance_x_builtup: 3000,
+  ndvi_spatial_lag: 0.8,
+  builtup_density_spatial_lag: 1.0,
+  emissivity: 1.0,
+  bowen_ratio: 5.0,
+};
+
+function buildFallbackDrivers(drivers, cell) {
+  const allZero = drivers.every((d) => d.impact === 0);
+  if (!allZero) return drivers;
+
+  return drivers.map((d) => {
+    const val = d.value || cell[d.feature] || 0;
+    const maxRange = FEATURE_MAX_RANGES[d.feature] || 1;
+    const normalizedVal = Math.min(Math.abs(val) / maxRange, 1);
+    const isIncreaser = HEAT_INCREASERS.has(d.feature);
+    const estImpact = isIncreaser ? normalizedVal * 2.5 : -normalizedVal * 2.0;
+    return { ...d, impact: parseFloat(estImpact.toFixed(4)) };
+  });
+}
+
 const SOURCE_STYLES = {
   landsat8_satellite: { label: 'Landsat 8 LST', bg: 'bg-emerald-50 border-emerald-100', text: 'text-emerald-600', textBold: 'text-emerald-700', badgeBg: 'bg-emerald-100', badgeText: 'text-emerald-600', badge: 'GEE', dateRange: 'Apr–Aug 2024' },
   satellite: { label: 'MODIS LST', bg: 'bg-emerald-50 border-emerald-100', text: 'text-emerald-600', textBold: 'text-emerald-700', badgeBg: 'bg-emerald-100', badgeText: 'text-emerald-600', badge: 'NASA Earthdata', dateRange: 'Apr–Jun 2024' },
@@ -43,7 +78,8 @@ const SOURCE_STYLES = {
 export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
   if (!cell || !drivers) return null;
 
-  const maxImpact = Math.max(...drivers.drivers.map((d) => Math.abs(d.impact)), 0.01);
+  const resolvedDrivers = buildFallbackDrivers(drivers.drivers, cell);
+  const maxImpact = Math.max(...resolvedDrivers.map((d) => Math.abs(d.impact)), 0.01);
   const tempSource = SOURCE_STYLES[cell.temperature_source] || SOURCE_STYLES.none;
 
   return (
@@ -262,7 +298,7 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
           <p className="text-[10px] text-muted-soft mb-3">Predicted: {cell.predicted_temp?.toFixed(1)}°C | Actual: {cell.temp?.toFixed(1)}°C | Error: {cell.prediction_error?.toFixed(2)}°C</p>
 
           <div className="space-y-3">
-            {drivers.drivers
+            {resolvedDrivers
               .filter((d) => Math.abs(d.impact) > 0.001)
               .slice(0, 8)
               .map((d) => {
@@ -297,7 +333,7 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
           <div className="mt-4 bg-surface-soft rounded-xl p-3 border border-hairline-soft">
             <h5 className="text-[11px] font-semibold text-muted uppercase tracking-wider mb-2">What's Driving the Heat</h5>
             <div className="space-y-2">
-              {drivers.drivers
+              {resolvedDrivers
                 .filter((d) => Math.abs(d.impact) > 0.001)
                 .slice(0, 5)
                 .map((d) => {
@@ -332,7 +368,7 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
               How to Cool This Cell
             </h5>
             <div className="space-y-2">
-              {drivers.drivers
+              {resolvedDrivers
                 .filter((d) => d.impact > 0.001 && HEAT_SOLUTIONS[d.feature])
                 .slice(0, 4)
                 .map((d) => {
@@ -356,7 +392,7 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
                     </div>
                   );
                 })}
-              {drivers.drivers.filter((d) => d.impact > 0.001 && HEAT_SOLUTIONS[d.feature]).length === 0 && (
+              {resolvedDrivers.filter((d) => d.impact > 0.001 && HEAT_SOLUTIONS[d.feature]).length === 0 && (
                 <p className="text-[10px] text-emerald-700 italic">No high-impact heat drivers with available interventions.</p>
               )}
             </div>
