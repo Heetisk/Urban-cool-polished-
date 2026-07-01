@@ -1,4 +1,36 @@
-import { X, TrendingUp, Wind, Droplets, Sun, Satellite, Calendar, MapPin } from 'lucide-react';
+import { X, TrendingUp, Wind, Droplets, Sun, Satellite, Calendar, MapPin, Leaf, Building2, Droplet, TreePine, ArrowUpRight, ArrowDownRight, Lightbulb } from 'lucide-react';
+
+const HEAT_SOLUTIONS = {
+  builtup_density: { solution: "Cool roofs (high-albedo coating)", coeff: 0.05, unit: "per 1% coverage", icon: Building2 },
+  ndvi: { solution: "Tree planting & urban greening", coeff: 0.08, unit: "per 1% increase", icon: TreePine },
+  distance_water_m: { solution: "Water features (fountains, ponds)", coeff: 0.3, unit: "per 100sqm", icon: Droplet },
+  road_density_km_km2: { solution: "Permeable pavements + street trees", coeff: 0.06, unit: "per 1% reduction", icon: Wind },
+  building_density_per_km2: { solution: "Green roofs on existing buildings", coeff: 0.06, unit: "per 1% coverage", icon: Leaf },
+  sky_view_factor: { solution: "Urban canyon ventilation design", coeff: null, unit: "design guidance", icon: Wind },
+  albedo: { solution: "Cool pavements & reflective surfaces", coeff: 0.04, unit: "per 1% increase", icon: Sun },
+  ndvi_x_builtup: { solution: "Green corridors in dense areas", coeff: 0.07, unit: "per 1% increase", icon: TreePine },
+  distance_x_builtup: { solution: "Distributed water features", coeff: 0.3, unit: "per 100sqm", icon: Droplet },
+  emissivity: { solution: "Cool roof coatings", coeff: 0.04, unit: "per 1% increase", icon: Building2 },
+  bowen_ratio: { solution: "Increase vegetation for evapotranspiration", coeff: 0.08, unit: "per 1% NDVI increase", icon: TreePine },
+  ndvi_spatial_lag: { solution: "Neighborhood-scale tree planting", coeff: 0.08, unit: "per 1% increase", icon: TreePine },
+  builtup_density_spatial_lag: { solution: "District-level greening programs", coeff: 0.06, unit: "per 1% reduction", icon: Leaf },
+};
+
+const DRIVER_EXPLANATIONS = {
+  builtup_density: "High concrete/asphalt absorbs solar radiation and re-radiates as heat",
+  ndvi: "Vegetation provides shade and cooling via evapotranspiration",
+  distance_water_m: "Distance from water bodies reduces evaporative cooling benefit",
+  road_density_km_km2: "Dense road networks increase impervious surfaces and heat absorption",
+  building_density_per_km2: "Dense buildings trap heat and reduce wind ventilation",
+  sky_view_factor: "Low sky view traps longwave radiation in urban canyons",
+  albedo: "Low surface albedo means more solar energy absorbed as heat",
+  ndvi_x_builtup: "Low vegetation in dense areas amplifies heat",
+  distance_x_builtup: "Dense areas far from water miss cooling benefits",
+  ndvi_spatial_lag: "Surrounding vegetation provides neighborhood-level cooling",
+  builtup_density_spatial_lag: "Surrounding built-up areas contribute to regional warming",
+  emissivity: "Surface emissivity affects how efficiently surfaces radiate heat",
+  bowen_ratio: "High Bowen ratio indicates more sensible heat vs evaporative cooling",
+};
 
 const SOURCE_STYLES = {
   landsat8_satellite: { label: 'Landsat 8 LST', bg: 'bg-emerald-50 border-emerald-100', text: 'text-emerald-600', textBold: 'text-emerald-700', badgeBg: 'bg-emerald-100', badgeText: 'text-emerald-600', badge: 'GEE', dateRange: 'Apr–Aug 2024' },
@@ -259,6 +291,75 @@ export default function CellPanel({ cell, drivers, dataInfo, onClose }) {
                   </div>
                 );
               })}
+          </div>
+
+          {/* What's Driving the Heat */}
+          <div className="mt-4 bg-surface-soft rounded-xl p-3 border border-hairline-soft">
+            <h5 className="text-[11px] font-semibold text-muted uppercase tracking-wider mb-2">What's Driving the Heat</h5>
+            <div className="space-y-2">
+              {drivers.drivers
+                .filter((d) => Math.abs(d.impact) > 0.001)
+                .slice(0, 5)
+                .map((d) => {
+                  const isPositive = d.impact > 0;
+                  const explanation = DRIVER_EXPLANATIONS[d.feature];
+                  return (
+                    <div key={d.feature} className="flex items-start gap-2">
+                      <div className={`mt-0.5 flex-shrink-0 ${isPositive ? 'text-red-500' : 'text-emerald-500'}`}>
+                        {isPositive ? <ArrowUpRight className="w-3.5 h-3.5" /> : <ArrowDownRight className="w-3.5 h-3.5" />}
+                      </div>
+                      <div className="min-w-0">
+                        <div className="flex items-center gap-1.5">
+                          <span className="text-xs font-semibold text-body">{d.feature_name}</span>
+                          <span className={`text-[10px] font-mono font-bold ${isPositive ? 'text-red-500' : 'text-emerald-500'}`}>
+                            {isPositive ? '+' : ''}{d.impact.toFixed(2)}°C
+                          </span>
+                        </div>
+                        {explanation && (
+                          <p className="text-[10px] text-muted-soft leading-relaxed mt-0.5">{explanation}</p>
+                        )}
+                      </div>
+                    </div>
+                  );
+                })}
+            </div>
+          </div>
+
+          {/* How to Cool This Cell */}
+          <div className="mt-3 bg-emerald-50 rounded-xl p-3 border border-emerald-100">
+            <h5 className="text-[11px] font-semibold text-emerald-800 uppercase tracking-wider mb-2 flex items-center gap-1.5">
+              <Lightbulb className="w-3 h-3" />
+              How to Cool This Cell
+            </h5>
+            <div className="space-y-2">
+              {drivers.drivers
+                .filter((d) => d.impact > 0.001 && HEAT_SOLUTIONS[d.feature])
+                .slice(0, 4)
+                .map((d) => {
+                  const sol = HEAT_SOLUTIONS[d.feature];
+                  const Icon = sol.icon;
+                  const estCooling = sol.coeff ? (sol.coeff * 20).toFixed(2) : null;
+                  return (
+                    <div key={d.feature} className="flex items-start gap-2">
+                      <div className="mt-0.5 flex-shrink-0 text-emerald-600">
+                        <Icon className="w-3.5 h-3.5" />
+                      </div>
+                      <div className="min-w-0">
+                        <div className="flex items-center gap-1.5">
+                          <span className="text-xs font-semibold text-emerald-900">{sol.solution}</span>
+                        </div>
+                        <p className="text-[10px] text-emerald-700 mt-0.5">
+                          Est. cooling: <span className="font-mono font-bold">{estCooling ? `-${estCooling}°C` : 'design guidance'}</span>
+                          <span className="text-emerald-600 ml-1">{sol.unit}</span>
+                        </p>
+                      </div>
+                    </div>
+                  );
+                })}
+              {drivers.drivers.filter((d) => d.impact > 0.001 && HEAT_SOLUTIONS[d.feature]).length === 0 && (
+                <p className="text-[10px] text-emerald-700 italic">No high-impact heat drivers with available interventions.</p>
+              )}
+            </div>
           </div>
         </div>
 
